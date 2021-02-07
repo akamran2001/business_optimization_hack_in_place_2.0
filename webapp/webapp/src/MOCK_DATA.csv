@@ -1,0 +1,1001 @@
+id,DateTime,Product Name,Purchase Price,Membership?
+1,2020-02-26 01:16:57,Lid Coffee Cup 8oz Blk,$10.61,true
+2,2020-01-26 10:08:48,Soup V8 Roasted Red Pepper,$10.44,true
+3,2020-02-27 09:49:38,Apple - Granny Smith,$39.43,true
+4,2020-03-07 00:18:53,Nutmeg - Ground,$36.52,true
+5,2020-02-13 20:35:54,Anchovy Paste - 56 G Tube,$27.24,true
+6,2020-02-16 15:52:47,Prunes - Pitted,$5.15,false
+7,2020-01-02 22:44:02,Venison - Ground,$13.26,false
+8,2020-03-07 18:26:16,Sunflower Seed Raw,$34.68,false
+9,2020-02-21 21:17:24,Soup - Campbells Bean Medley,$37.78,false
+10,2020-02-11 06:45:11,"Bread - Multigrain, Loaf",$10.16,true
+11,2020-01-31 23:33:44,Grapes - Black,$27.73,true
+12,2020-02-18 22:55:52,"Tomatoes - Vine Ripe, Yellow",$7.96,true
+13,2020-01-07 22:38:43,"Beans - Black Bean, Dry",$23.25,false
+14,2020-01-27 10:42:26,Puree - Mocha,$7.67,false
+15,2020-01-31 07:13:53,Sauce - Rosee,$5.15,true
+16,2020-01-09 16:02:20,Soup - Campbells Chili Veg,$13.95,true
+17,2020-01-09 13:47:01,"Juice - Clam, 46 Oz",$11.80,true
+18,2020-02-24 00:24:20,Wine - Carmenere Casillero Del,$33.42,false
+19,2020-03-14 21:55:23,Sauce - Thousand Island,$16.23,false
+20,2020-02-22 13:31:39,Bagel - Everything Presliced,$37.09,false
+21,2020-03-21 05:44:40,Sauce - Rosee,$26.13,false
+22,2020-03-18 13:11:20,Cakes Assorted,$22.52,false
+23,2020-01-29 10:40:49,Sugar - Icing,$24.92,false
+24,2020-02-18 00:40:19,Black Currants,$31.79,false
+25,2020-02-03 16:51:46,Appetizer - Assorted Box,$22.29,false
+26,2020-03-29 03:31:59,Cheese - Gorgonzola,$12.91,false
+27,2020-03-29 21:33:44,"Pasta - Shells, Medium, Dry",$13.74,false
+28,2020-03-04 15:18:27,Crab Brie In Phyllo,$26.26,false
+29,2020-01-14 11:36:05,Spice - Montreal Steak Spice,$30.07,true
+30,2020-02-10 09:04:59,Quinoa,$25.41,false
+31,2020-02-23 06:04:04,Pastry - Butterscotch Baked,$7.00,false
+32,2020-03-31 11:59:27,Bread - 10 Grain Parisian,$17.78,true
+33,2020-03-11 11:42:33,Soup - Campbells Tomato Ravioli,$19.15,false
+34,2020-01-14 20:57:08,Muffin Hinge Container 6,$20.01,false
+35,2020-03-03 14:52:14,"Yogurt - Strawberry, 175 Gr",$30.08,false
+36,2020-03-19 10:31:02,Lemon Pepper,$26.05,false
+37,2020-02-18 05:39:07,Pop Shoppe Cream Soda,$28.22,false
+38,2020-03-23 11:38:33,Ice Cream Bar - Rolo Cone,$29.80,false
+39,2020-02-05 18:09:55,Yams,$7.17,true
+40,2020-01-21 01:51:10,Cheese - Perron Cheddar,$28.76,true
+41,2020-03-17 06:16:16,Muffin - Zero Transfat,$22.49,false
+42,2020-03-06 15:02:57,"Ice - Clear, 300 Lb For Carving",$37.61,false
+43,2020-03-15 05:01:47,"Veal - Tenderloin, Untrimmed",$6.33,false
+44,2020-01-23 17:26:38,Sauce - Fish 25 Ozf Bottle,$33.29,true
+45,2020-03-07 20:50:51,Gloves - Goldtouch Disposable,$38.99,true
+46,2020-03-29 21:36:01,Cilantro / Coriander - Fresh,$18.93,true
+47,2020-02-11 10:07:07,Chips - Doritos,$20.69,false
+48,2020-02-10 17:48:34,Sugar - Palm,$24.16,true
+49,2020-01-22 00:57:45,"Wine - White, Gewurtzraminer",$31.91,false
+50,2020-01-11 11:35:38,Gloves - Goldtouch Disposable,$26.40,false
+51,2020-02-25 02:34:14,"Cheese - Brie, Triple Creme",$22.38,false
+52,2020-03-03 14:25:25,Cheese - Pont Couvert,$31.64,false
+53,2020-03-20 07:11:22,Soup - French Can Pea,$12.27,true
+54,2020-01-25 17:26:08,"Juice - Cranberry, 341 Ml",$24.43,false
+55,2020-01-05 07:16:51,Tea - Apple Green Tea,$23.05,false
+56,2020-01-26 08:59:19,Flower - Daisies,$17.39,false
+57,2020-03-06 02:27:35,Chevril,$30.00,false
+58,2020-03-06 01:01:48,Appetizer - Sausage Rolls,$18.43,false
+59,2020-02-24 22:01:23,Dc Hikiage Hira Huba,$5.21,true
+60,2020-03-21 23:00:54,Crackers - Graham,$30.23,false
+61,2020-02-03 12:52:55,Liqueur - Melon,$11.90,false
+62,2020-03-28 13:42:24,Mix - Cappucino Cocktail,$36.77,true
+63,2020-01-02 06:20:22,Sauce - Rosee,$11.49,false
+64,2020-02-22 17:10:45,Pineapple - Regular,$35.18,false
+65,2020-02-16 19:14:41,Rice - Jasmine Sented,$39.25,false
+66,2020-02-28 09:14:57,Leeks - Large,$20.27,false
+67,2020-03-14 06:41:46,Bread - Granary Small Pull,$21.05,false
+68,2020-02-21 16:11:05,Grapes - Black,$35.19,true
+69,2020-01-21 14:36:02,Soup - Campbells Broccoli,$20.80,false
+70,2020-02-27 20:58:21,"Halibut - Whole, Fresh",$18.23,false
+71,2020-01-18 12:45:14,Cream Of Tartar,$36.20,false
+72,2020-03-11 01:41:34,Trueblue - Blueberry,$33.15,true
+73,2020-02-11 13:00:43,Longos - Lasagna Beef,$24.63,true
+74,2020-02-29 02:26:13,"Glass - Wine, Plastic, Clear 5 Oz",$21.88,true
+75,2020-03-18 00:11:56,Lamb Rack Frenched Australian,$19.23,true
+76,2020-02-15 18:52:09,Watercress,$14.28,false
+77,2020-03-29 03:11:54,Crackers - Soda / Saltins,$6.87,true
+78,2020-01-05 05:12:28,Pickles - Gherkins,$11.34,true
+79,2020-01-06 20:31:58,Baking Soda,$32.07,false
+80,2020-01-09 01:25:17,Chevril,$17.97,false
+81,2020-03-27 16:18:36,Chocolate - Dark,$21.16,false
+82,2020-03-17 17:41:21,Pepper - Green Thai,$20.21,false
+83,2020-02-02 01:07:29,Thyme - Fresh,$24.07,false
+84,2020-01-09 22:46:21,Beets - Mini Golden,$19.40,false
+85,2020-03-08 04:14:56,Milk - Homo,$38.67,true
+86,2020-03-11 07:23:37,Shrimp - 31/40,$24.97,true
+87,2020-03-22 19:22:53,Wine - Magnotta - Belpaese,$7.01,false
+88,2020-03-02 18:15:33,Onions - Green,$37.20,true
+89,2020-02-20 11:55:54,Coffee - 10oz Cup 92961,$18.95,true
+90,2020-03-14 23:41:07,Longos - Grilled Salmon With Bbq,$28.55,false
+91,2020-01-19 01:29:41,Vector Energy Bar,$16.55,false
+92,2020-01-14 18:35:59,Wine - Prosecco Valdobiaddene,$9.95,true
+93,2020-01-11 08:44:13,Pepper - Red Chili,$24.15,true
+94,2020-02-24 17:36:05,Cranberry Foccacia,$33.38,false
+95,2020-02-27 23:04:07,Flour - Teff,$28.63,true
+96,2020-02-22 07:56:55,"Rice Pilaf, Dry,package",$12.83,false
+97,2020-03-14 10:34:02,Clam Nectar,$5.83,false
+98,2020-01-22 07:26:55,Smirnoff Green Apple Twist,$12.34,false
+99,2020-02-29 18:44:58,"Soup - Knorr, Country Bean",$29.05,true
+100,2020-01-29 03:50:53,Teriyaki Sauce,$5.47,false
+101,2020-01-11 18:24:42,Bread - Wheat Baguette,$7.04,true
+102,2020-02-09 07:18:12,"Pork - Loin, Center Cut",$31.80,true
+103,2020-02-09 04:10:29,"Flour - Corn, Fine",$10.00,true
+104,2020-01-24 16:19:34,Cookies - Fortune,$14.14,true
+105,2020-02-12 06:59:41,Beef - Inside Round,$23.88,false
+106,2020-03-31 21:34:55,"7up Diet, 355 Ml",$8.94,true
+107,2020-01-13 06:52:47,Honey - Liquid,$28.59,false
+108,2020-02-04 01:22:12,"Oil - Shortening,liqud, Fry",$32.92,false
+109,2020-02-09 18:42:26,Sambuca - Ramazzotti,$33.52,true
+110,2020-01-31 11:56:55,"Yogurt - Banana, 175 Gr",$5.52,false
+111,2020-03-16 01:55:20,"Beef - Outside, Round",$31.51,false
+112,2020-02-04 19:22:28,Garam Marsala,$7.97,true
+113,2020-03-08 03:26:56,Cumin - Whole,$12.03,false
+114,2020-02-03 03:00:46,"Squash - Pattypan, Yellow",$19.71,false
+115,2020-02-01 11:49:01,"Basil - Dry, Rubbed",$36.65,true
+116,2020-01-17 01:33:59,Chicken - Whole Fryers,$37.08,false
+117,2020-03-31 19:00:40,Cheese - Valancey,$29.31,true
+118,2020-03-02 21:02:00,Mousse - Banana Chocolate,$27.34,false
+119,2020-02-18 15:50:50,Juice - Apple 284ml,$24.88,false
+120,2020-03-18 11:35:28,Carbonated Water - Cherry,$27.62,true
+121,2020-02-07 19:55:17,"Nut - Almond, Blanched, Sliced",$35.62,true
+122,2020-01-17 17:28:46,Artichoke - Fresh,$37.51,false
+123,2020-03-10 22:27:24,Lotus Rootlets - Canned,$13.71,true
+124,2020-03-22 14:19:43,Wonton Wrappers,$20.26,false
+125,2020-01-05 06:40:56,Loquat,$14.91,true
+126,2020-01-17 16:25:23,Cheese - St. Paulin,$27.29,true
+127,2020-01-14 01:05:28,Wine - Pinot Noir Mondavi Coastal,$26.36,false
+128,2020-02-29 16:39:24,Beer - Moosehead,$18.19,true
+129,2020-02-02 14:13:12,Grapes - Green,$24.98,true
+130,2020-01-15 17:50:15,Chocolate Bar - Reese Pieces,$6.77,true
+131,2020-03-12 08:20:54,Wine - Montecillo Rioja Crianza,$14.23,false
+132,2020-01-02 21:20:56,Carbonated Water - Strawberry,$18.75,true
+133,2020-01-27 16:37:29,Chocolate - Compound Coating,$32.61,true
+134,2020-02-28 01:36:45,Rappini - Andy Boy,$27.07,false
+135,2020-03-31 18:31:12,Carbonated Water - Blackberry,$10.62,false
+136,2020-02-04 23:22:45,Chocolate Bar - Reese Pieces,$37.39,true
+137,2020-03-14 15:23:59,Mayonnaise,$22.19,true
+138,2020-03-18 17:15:38,Beans - Wax,$12.60,true
+139,2020-03-23 18:28:26,Pork - Ham Hocks - Smoked,$13.79,true
+140,2020-01-11 06:53:21,Appetizer - Crab And Brie,$6.26,false
+141,2020-02-19 01:24:25,"Tarragon - Primerba, Paste",$7.67,true
+142,2020-02-23 07:18:16,Silicone Parch. 16.3x24.3,$22.10,false
+143,2020-03-12 12:21:08,Cup - 4oz Translucent,$31.35,true
+144,2020-01-05 18:00:31,"Oil - Shortening,liqud, Fry",$39.91,true
+145,2020-01-29 20:06:43,Pear - Prickly,$39.45,false
+146,2020-03-14 00:09:55,Grenadillo,$20.32,false
+147,2020-01-02 02:24:04,Chutney Sauce,$33.55,false
+148,2020-01-22 02:13:07,Yokaline,$12.03,true
+149,2020-03-12 10:25:16,Soup - Base Broth Chix,$10.28,false
+150,2020-01-27 11:14:11,Cinnamon Rolls,$19.87,true
+151,2020-01-16 03:19:39,Myers Planters Punch,$29.20,true
+152,2020-02-15 22:03:41,Cheese - Camembert,$7.37,true
+153,2020-02-08 16:40:47,V8 Splash Strawberry Kiwi,$16.03,true
+154,2020-03-13 15:59:56,Chicken - Whole Roasting,$7.54,false
+155,2020-01-19 06:46:58,Cumin - Ground,$10.51,true
+156,2020-03-16 00:08:25,Veal - Knuckle,$7.16,true
+157,2020-03-09 14:55:40,Avocado,$7.44,true
+158,2020-03-14 13:55:01,Cream Of Tartar,$21.51,false
+159,2020-02-08 17:10:47,Pears - Fiorelle,$32.83,true
+160,2020-02-13 04:39:42,"Star Anise, Whole",$39.55,true
+161,2020-03-25 05:06:22,Wine - Muscadet Sur Lie,$6.69,true
+162,2020-02-16 03:18:13,Cheese - Oka,$37.16,false
+163,2020-01-14 06:21:45,"Cheese - Boursin, Garlic / Herbs",$7.36,true
+164,2020-03-26 11:57:01,Nougat - Paste / Cream,$35.66,false
+165,2020-01-24 10:31:33,"Oil - Truffle, White",$16.31,true
+166,2020-02-22 12:18:30,Veal - Loin,$22.45,false
+167,2020-01-04 05:20:57,Cheese - Augre Des Champs,$29.31,false
+168,2020-01-20 13:33:17,Chicken - Ground,$27.57,true
+169,2020-03-28 16:05:17,"Lid - Translucent, 3.5 And 6 Oz",$17.48,false
+170,2020-01-23 03:17:38,Beef - Kobe Striploin,$11.12,true
+171,2020-01-28 23:43:16,Coconut - Whole,$5.30,false
+172,2020-02-06 00:22:58,Lamb - Bones,$10.02,false
+173,2020-01-25 16:24:29,Peas Snow,$14.02,true
+174,2020-02-24 08:38:20,Bread - French Stick,$18.93,true
+175,2020-01-04 11:08:06,Poppy Seed,$14.76,true
+176,2020-03-31 06:40:32,"Turkey - Breast, Smoked",$19.04,true
+177,2020-01-11 09:54:29,Wine - Chateau Bonnet,$29.24,true
+178,2020-02-07 02:56:24,Mini - Vol Au Vents,$12.13,true
+179,2020-02-01 19:30:14,Flower - Daisies,$8.70,false
+180,2020-02-15 15:35:37,Beans - French,$17.84,false
+181,2020-03-27 01:48:29,Juice - Apple 284ml,$26.10,false
+182,2020-01-30 08:45:24,Bagelers - Cinn / Brown,$23.11,true
+183,2020-01-15 01:48:12,Onion - Dried,$21.98,true
+184,2020-03-05 08:44:15,Beef - Ground Medium,$5.73,false
+185,2020-03-09 08:29:17,Pepsi - 600ml,$10.15,true
+186,2020-03-27 02:39:28,Beef - Tenderloin Tails,$26.50,true
+187,2020-03-19 22:14:51,Chicken - Whole Fryers,$35.34,false
+188,2020-01-25 07:57:33,Wine - Gewurztraminer Pierre,$8.40,false
+189,2020-03-05 01:51:26,Wine - Blue Nun Qualitatswein,$33.23,true
+190,2020-02-22 20:58:15,Rosemary - Dry,$8.72,false
+191,2020-03-23 23:55:31,Food Colouring - Pink,$37.56,true
+192,2020-01-03 03:22:31,Napkin - Beverage 1 Ply,$15.96,false
+193,2020-02-04 11:24:03,Bagel - 12 Grain Preslice,$26.74,true
+194,2020-01-26 10:25:15,Lettuce - Spring Mix,$35.96,false
+195,2020-02-16 22:20:40,Wine - Masi Valpolocell,$9.20,true
+196,2020-02-08 16:49:59,Onions - White,$21.71,false
+197,2020-02-09 11:21:35,"Pasta - Bauletti, Chicken White",$23.60,true
+198,2020-02-05 06:13:22,Chicken Thigh - Bone Out,$30.39,true
+199,2020-03-30 06:21:14,Baking Powder,$7.87,true
+200,2020-01-23 10:35:00,The Pop Shoppe - Black Cherry,$32.53,true
+201,2020-03-05 10:48:58,Cheese - Sheep Milk,$6.55,false
+202,2020-02-05 15:40:06,Cake - Cake Sheet Macaroon,$29.89,true
+203,2020-03-14 21:18:23,Cup - 8oz Coffee Perforated,$9.45,false
+204,2020-02-29 13:27:58,Mussels - Frozen,$18.59,true
+205,2020-01-04 03:29:25,Wine - Mondavi Coastal Private,$39.28,true
+206,2020-01-09 07:10:51,Lemonade - Pineapple Passion,$11.05,true
+207,2020-02-04 07:45:52,Soup - Campbells Beef Strogonoff,$7.70,false
+208,2020-01-25 12:34:48,Vinegar - Champagne,$27.96,false
+209,2020-01-30 09:17:20,Longos - Grilled Salmon With Bbq,$27.58,true
+210,2020-01-24 02:15:09,Spice - Chili Powder Mexican,$31.27,true
+211,2020-01-24 22:07:24,Jam - Apricot,$36.19,false
+212,2020-03-24 17:31:09,Vegetable - Base,$35.97,true
+213,2020-02-04 00:58:51,Squid - Tubes / Tenticles 10/20,$33.86,false
+214,2020-02-21 11:12:35,Crab Meat Claw Pasteurise,$31.13,true
+215,2020-01-26 18:15:10,Soup - Chicken And Wild Rice,$25.80,false
+216,2020-02-14 16:28:51,"Wine - Niagara,vqa Reisling",$31.43,false
+217,2020-02-08 21:51:54,Squid - U 5,$34.44,false
+218,2020-01-20 04:46:24,Crackers Cheez It,$21.68,false
+219,2020-03-17 02:39:05,"Veal - Round, Eye Of",$5.66,false
+220,2020-03-15 07:51:35,Pears - Bartlett,$31.89,false
+221,2020-02-18 18:03:31,Huck White Towels,$30.28,false
+222,2020-01-10 17:26:49,"Mushroom - Shitake, Dry",$13.32,true
+223,2020-02-03 18:47:08,"Carrots - Purple, Organic",$22.99,false
+224,2020-01-30 10:52:52,Extract Vanilla Pure,$10.40,true
+225,2020-01-06 09:39:58,"Seedlings - Mix, Organic",$8.95,false
+226,2020-01-16 21:49:20,Ham - Procutinni,$25.01,true
+227,2020-03-08 00:22:46,Wine - Bouchard La Vignee Pinot,$25.04,false
+228,2020-01-07 16:26:22,Broom Handle,$9.60,false
+229,2020-03-06 02:12:07,Beer - Rickards Red,$19.51,true
+230,2020-03-09 17:25:26,Broom Handle,$5.33,true
+231,2020-01-06 10:44:43,Sugar - Monocystal / Rock,$26.36,true
+232,2020-02-21 10:24:44,"Star Anise, Whole",$11.17,false
+233,2020-01-31 04:30:28,Carrots - Jumbo,$11.50,false
+234,2020-01-08 01:37:58,"Basil - Dry, Rubbed",$27.05,true
+235,2020-03-10 13:11:19,Rambutan,$35.87,false
+236,2020-02-12 19:58:01,Shortbread - Cookie Crumbs,$19.62,false
+237,2020-03-31 09:41:23,Bread - Frozen Basket Variety,$33.19,true
+238,2020-01-14 12:28:28,Pie Shell - 9,$35.02,true
+239,2020-02-07 09:10:46,Tomatoes - Roma,$38.40,true
+240,2020-02-02 22:45:05,Cheese - Grie Des Champ,$21.52,true
+241,2020-02-18 20:12:59,Sherbet - Raspberry,$27.27,false
+242,2020-03-12 21:46:41,Sachet,$21.93,false
+243,2020-03-03 04:41:39,Macaroons - Homestyle Two Bit,$16.71,false
+244,2020-01-25 00:37:42,Longos - Burritos,$38.62,false
+245,2020-01-10 21:16:42,"Wine - Red, Gamay Noir",$7.19,true
+246,2020-02-03 09:52:38,Sugar - Invert,$38.93,true
+247,2020-03-16 02:38:52,"Pasta - Cappellini, Dry",$29.52,true
+248,2020-01-06 04:28:56,Lettuce - Red Leaf,$15.18,true
+249,2020-01-27 15:42:06,"Asparagus - White, Canned",$32.73,false
+250,2020-03-03 02:28:15,Nantucket Pine Orangebanana,$6.00,false
+251,2020-03-24 15:57:26,Milk - 2% 250 Ml,$12.93,true
+252,2020-03-01 05:08:59,Muffin - Mix - Bran And Maple 15l,$14.75,true
+253,2020-02-05 03:42:29,Muffin - Mix - Mango Sour Cherry,$27.10,true
+254,2020-03-20 01:25:51,Sprouts - China Rose,$22.72,false
+255,2020-02-29 23:27:39,Wine - Prosecco Valdobienne,$24.52,true
+256,2020-03-07 15:29:01,Food Colouring - Green,$33.50,true
+257,2020-03-03 01:25:25,Pepsi - 600ml,$17.79,false
+258,2020-01-16 06:09:00,"Nut - Walnut, Chopped",$15.23,true
+259,2020-02-27 18:14:59,Triple Sec - Mcguinness,$10.51,true
+260,2020-02-15 23:45:26,"Melon - Watermelon, Seedless",$23.54,true
+261,2020-03-14 16:11:24,Shrimp - 100 / 200 Cold Water,$16.58,true
+262,2020-01-03 18:55:56,Juice - Prune,$25.40,false
+263,2020-02-23 16:20:21,Bacardi Raspberry,$28.31,false
+264,2020-03-10 00:23:42,Chevril,$17.07,true
+265,2020-01-26 01:16:16,Bar Energy Chocchip,$22.30,false
+266,2020-01-20 06:51:55,"Crush - Grape, 355 Ml",$16.38,true
+267,2020-03-30 17:46:01,Goulash Seasoning,$15.18,true
+268,2020-02-03 11:42:44,Celery,$6.52,true
+269,2020-01-26 17:28:39,Wild Boar - Tenderloin,$17.64,false
+270,2020-03-06 14:03:48,Chicken - Livers,$5.76,false
+271,2020-02-13 21:37:54,Squeeze Bottle,$12.62,true
+272,2020-03-05 02:18:38,Cherries - Frozen,$33.51,true
+273,2020-01-24 13:45:06,Steampan Lid,$14.08,false
+274,2020-01-24 18:58:31,Flax Seed,$37.12,false
+275,2020-03-17 12:58:07,Goat - Whole Cut,$21.92,true
+276,2020-01-05 16:42:38,"Olives - Green, Pitted",$31.81,false
+277,2020-01-05 05:19:48,Lady Fingers,$13.05,false
+278,2020-03-05 22:00:43,Black Currants,$6.62,true
+279,2020-01-21 13:35:34,Lamb - Shanks,$35.58,true
+280,2020-03-04 06:52:02,"Fish - Halibut, Cold Smoked",$18.55,true
+281,2020-01-04 22:14:58,Wine - Muscadet Sur Lie,$10.91,true
+282,2020-02-19 21:00:39,Squid Ink,$5.55,true
+283,2020-02-27 14:03:50,Gatorade - Lemon Lime,$29.09,true
+284,2020-01-04 14:01:45,Wine - Merlot Vina Carmen,$36.29,false
+285,2020-01-20 11:51:02,"Rum - White, Gg White",$36.85,false
+286,2020-03-03 23:39:24,"Jam - Marmalade, Orange",$38.14,true
+287,2020-03-15 21:47:34,White Fish - Filets,$21.43,false
+288,2020-03-20 09:10:17,Gelatine Leaves - Envelopes,$27.13,false
+289,2020-03-27 05:19:14,Water - Tonic,$15.41,true
+290,2020-01-06 13:54:35,Soup Knorr Chili With Beans,$11.97,true
+291,2020-02-09 04:25:27,"Tart Shells - Savory, 4",$16.96,false
+292,2020-02-20 15:29:49,Bread - Granary Small Pull,$26.12,true
+293,2020-01-26 18:23:47,Oil - Macadamia,$31.01,true
+294,2020-02-23 22:56:44,English Muffin,$9.36,true
+295,2020-02-20 23:29:36,Sweet Pea Sprouts,$28.45,false
+296,2020-01-27 21:23:29,Muffin - Zero Transfat,$14.06,true
+297,2020-01-13 11:50:27,Bagel - Everything,$21.31,false
+298,2020-02-02 19:28:36,"Cheese - Brie,danish",$39.80,true
+299,2020-02-11 21:20:45,Sage - Rubbed,$36.89,false
+300,2020-03-18 01:29:30,Bagelers,$9.98,true
+301,2020-01-06 01:04:05,"Pasta - Fett Alfredo, Single Serve",$29.32,false
+302,2020-02-21 02:10:08,Sugar - Brown,$8.92,true
+303,2020-01-17 18:02:36,"Butter - Salted, Micro",$28.75,true
+304,2020-02-16 14:30:05,Soup Campbells Mexicali Tortilla,$11.37,true
+305,2020-02-29 04:35:59,"Beans - Fava, Canned",$30.59,false
+306,2020-03-06 04:41:32,"Shrimp - 16/20, Iqf, Shell On",$18.46,false
+307,2020-02-24 23:56:48,Petit Baguette,$9.84,true
+308,2020-02-26 22:00:04,Ginger - Pickled,$8.33,true
+309,2020-02-16 17:20:52,Bread - French Stick,$7.31,true
+310,2020-01-15 15:51:06,Tea - English Breakfast,$34.13,false
+311,2020-03-30 04:20:54,Amarula Cream,$23.62,false
+312,2020-02-18 23:37:02,"Wine - Mas Chicet Rose, Vintage",$39.52,false
+313,2020-03-13 14:49:54,"Lemonade - Black Cherry, 591 Ml",$21.49,false
+314,2020-03-21 16:06:58,Cheese Cheddar Processed,$26.75,true
+315,2020-03-12 08:18:33,Sauce - Soy Low Sodium - 3.87l,$22.76,true
+316,2020-03-05 18:07:37,Whmis - Spray Bottle Trigger,$27.31,true
+317,2020-03-03 19:22:19,Rhubarb,$34.41,true
+318,2020-03-19 00:46:11,Island Oasis - Peach Daiquiri,$23.32,false
+319,2020-01-18 12:32:23,Tea - Lemon Green Tea,$8.00,false
+320,2020-01-17 21:51:39,"Wine - White, Riesling, Henry Of",$6.33,true
+321,2020-03-15 10:47:32,Thyme - Dried,$35.34,true
+322,2020-02-25 18:50:51,Cognac - Courvaisier,$22.93,false
+323,2020-03-29 13:26:02,Clam - Cherrystone,$39.37,false
+324,2020-02-21 16:52:09,Lamb - Loin Chops,$30.18,true
+325,2020-02-05 08:57:43,Cheese - Le Cheve Noir,$8.64,false
+326,2020-01-06 01:02:24,Peach - Halves,$13.12,true
+327,2020-03-29 19:27:33,Vaccum Bag - 14x20,$36.76,true
+328,2020-02-10 14:26:12,"Vermacelli - Sprinkles, Assorted",$18.90,false
+329,2020-03-28 02:38:42,Fond - Neutral,$14.79,true
+330,2020-01-26 15:51:06,"Peas - Pigeon, Dry",$35.82,false
+331,2020-03-23 04:38:05,Ecolab Silver Fusion,$29.19,false
+332,2020-03-06 03:30:41,Smoked Tongue,$9.63,true
+333,2020-03-28 14:54:27,Veal - Osso Bucco,$34.95,true
+334,2020-02-12 23:44:09,Cornflakes,$14.44,true
+335,2020-01-13 10:21:57,Arrowroot,$7.20,false
+336,2020-01-21 14:55:46,Fuji Apples,$22.31,true
+337,2020-03-02 08:51:32,Soupcontfoam16oz 116con,$25.23,true
+338,2020-01-16 20:13:49,Milk - Skim,$39.34,true
+339,2020-01-24 16:40:21,Mace,$12.45,true
+340,2020-02-20 15:35:32,V8 Pet,$14.99,false
+341,2020-01-12 09:58:26,Juice - V8 Splash,$14.45,false
+342,2020-02-05 20:48:12,Ecolab - Power Fusion,$31.23,true
+343,2020-01-23 19:18:14,Ice Cream - Super Sandwich,$11.28,false
+344,2020-03-11 14:12:24,Soup - Base Broth Beef,$23.71,true
+345,2020-01-21 05:37:53,Appetizer - Asian Shrimp Roll,$13.48,true
+346,2020-01-14 04:11:22,Pork Casing,$14.61,false
+347,2020-03-11 05:59:35,Cheese - Ermite Bleu,$21.46,false
+348,2020-03-24 15:42:03,Rice - Long Grain,$21.23,true
+349,2020-02-16 10:26:33,Sauce - Caesar Dressing,$31.89,true
+350,2020-02-10 05:29:39,"Wine - Magnotta, White",$17.41,true
+351,2020-01-21 14:20:49,Pastry - Choclate Baked,$39.47,true
+352,2020-03-31 21:44:28,Chocolate - Unsweetened,$36.34,false
+353,2020-01-27 19:51:05,Lettuce Romaine Chopped,$21.24,true
+354,2020-01-19 08:34:42,Cake - Mini Potato Pancake,$5.27,false
+355,2020-01-29 07:37:33,Coriander - Ground,$31.11,true
+356,2020-02-10 02:06:19,Curry Powder Madras,$30.88,true
+357,2020-03-06 08:25:21,Cocktail Napkin Blue,$35.85,true
+358,2020-01-19 13:57:58,"Carrots - Purple, Organic",$39.48,true
+359,2020-02-19 05:22:06,"Tart Shells - Sweet, 4",$19.19,false
+360,2020-01-06 20:36:04,Lettuce - Boston Bib,$5.20,false
+361,2020-03-26 18:37:51,Lemon Pepper,$16.54,true
+362,2020-01-22 06:25:43,Soho Lychee Liqueur,$7.66,false
+363,2020-03-26 14:53:13,Mushroom Morel Fresh,$34.16,false
+364,2020-03-03 06:53:14,Bread Crumbs - Panko,$15.02,true
+365,2020-01-10 19:08:12,Pastry - Banana Muffin - Mini,$23.31,true
+366,2020-03-26 08:09:41,Slt - Individual Portions,$9.41,false
+367,2020-02-07 13:18:04,Lady Fingers,$9.46,false
+368,2020-03-11 19:11:00,Wine - Savigny - Les - Beaune,$22.03,true
+369,2020-02-21 10:22:10,Pork - Smoked Kassler,$13.23,true
+370,2020-03-01 19:45:34,Pate - Peppercorn,$34.60,true
+371,2020-03-16 13:04:07,Shrimp - 100 / 200 Cold Water,$8.67,false
+372,2020-01-01 07:43:47,Glucose,$7.05,true
+373,2020-03-24 12:40:27,Broccoli - Fresh,$22.43,false
+374,2020-03-14 05:03:42,Cut Wakame - Hanawakaba,$8.02,true
+375,2020-03-30 21:38:42,"Stock - Veal, Brown",$9.86,false
+376,2020-01-18 02:15:09,Rootbeer,$28.28,false
+377,2020-03-12 20:49:07,Coffee - Cafe Moreno,$34.27,true
+378,2020-03-20 21:46:43,Plastic Wrap,$20.11,true
+379,2020-03-15 00:35:37,"Salsify, Organic",$17.68,true
+380,2020-01-02 06:58:14,Glucose,$5.96,true
+381,2020-01-15 11:46:43,Bread Ww Cluster,$7.87,false
+382,2020-01-02 05:58:32,Chicken - Wieners,$9.38,true
+383,2020-03-01 20:01:49,Potato - Sweet,$9.09,false
+384,2020-03-31 18:15:29,Wine - Alsace Gewurztraminer,$6.30,true
+385,2020-02-26 11:38:28,Tea Peppermint,$19.59,true
+386,2020-01-23 12:34:38,Wine - Shiraz Wolf Blass Premium,$25.24,true
+387,2020-03-18 14:06:09,Appetizer - Assorted Box,$35.48,false
+388,2020-02-17 06:03:50,Wine - Prosecco Valdobiaddene,$38.05,true
+389,2020-02-28 01:55:12,"Salmon - Atlantic, Skin On",$32.23,true
+390,2020-03-29 19:37:40,Rabbit - Frozen,$37.79,true
+391,2020-03-24 09:53:47,Spice - Peppercorn Melange,$29.27,true
+392,2020-01-14 22:35:03,Pastry - Banana Tea Loaf,$13.87,true
+393,2020-03-21 14:19:13,Hold Up Tool Storage Rack,$19.64,true
+394,2020-03-23 16:06:14,Bread Roll Foccacia,$25.96,true
+395,2020-01-28 18:59:45,Rosemary - Fresh,$28.35,false
+396,2020-03-27 19:33:34,Pie Filling - Pumpkin,$19.72,false
+397,2020-02-21 21:50:35,"Lemonade - Strawberry, 591 Ml",$22.21,false
+398,2020-03-31 02:38:46,Cookie Trail Mix,$20.19,false
+399,2020-02-28 08:52:46,Beef - Top Sirloin,$9.05,true
+400,2020-01-23 04:44:14,Pepper - Sorrano,$11.64,false
+401,2020-01-07 09:38:26,Cake Sheet Combo Party Pack,$38.37,true
+402,2020-01-18 13:47:54,Appetizer - Sausage Rolls,$37.71,false
+403,2020-02-05 03:45:58,Appetizer - Smoked Salmon / Dill,$38.62,true
+404,2020-03-10 13:24:34,Bread Base - Toscano,$26.34,true
+405,2020-01-15 06:56:27,Eggplant - Baby,$15.81,false
+406,2020-01-30 18:29:10,"Mushroom - Shitake, Dry",$19.23,false
+407,2020-03-01 07:37:55,Flour - Strong Pizza,$24.18,false
+408,2020-03-12 04:57:26,Appetizer - Veg Assortment,$38.16,false
+409,2020-01-18 22:40:19,"Beans - Kidney, Red Dry",$27.73,false
+410,2020-03-01 07:55:14,Raisin - Golden,$6.76,true
+411,2020-02-29 18:34:36,Dip - Tapenade,$21.18,false
+412,2020-02-27 14:47:29,Canada Dry,$9.26,false
+413,2020-02-17 08:05:40,Lettuce - Boston Bib - Organic,$11.12,false
+414,2020-02-14 04:02:58,Chutney Sauce - Mango,$18.84,true
+415,2020-01-25 15:57:09,Magnotta - Bel Paese White,$32.59,false
+416,2020-02-15 15:55:17,Blouse / Shirt / Sweater,$11.72,false
+417,2020-03-12 06:38:02,"Soup - Campbells, Classic Chix",$22.08,false
+418,2020-03-23 04:22:03,"Artichoke - Hearts, Canned",$36.52,true
+419,2020-01-25 09:14:26,Wine - Hardys Bankside Shiraz,$34.09,false
+420,2020-03-28 02:33:00,"Wine - White, Lindemans Bin 95",$36.80,false
+421,2020-03-27 01:53:16,Butter - Salted,$7.76,true
+422,2020-02-13 19:42:22,"Sauce - White, Mix",$34.42,false
+423,2020-01-17 08:16:01,Galliano,$28.32,false
+424,2020-01-20 11:50:27,Russian Prince,$8.81,true
+425,2020-02-16 08:16:31,Onions Granulated,$16.82,true
+426,2020-01-29 07:28:05,Pasta - Angel Hair,$32.86,true
+427,2020-03-02 20:48:52,Remy Red Berry Infusion,$37.95,false
+428,2020-01-12 07:00:09,Olives - Kalamata,$31.17,true
+429,2020-02-25 00:18:44,Lamb Leg - Bone - In Nz,$21.54,false
+430,2020-02-08 20:36:42,"Bread - Pullman, Sliced",$35.82,false
+431,2020-01-22 18:12:02,Pork Loin Bine - In Frenched,$38.01,true
+432,2020-02-21 21:06:30,Coffee - Hazelnut Cream,$34.60,true
+433,2020-02-22 04:22:31,"Nut - Cashews, Whole, Raw",$10.36,true
+434,2020-02-01 06:18:10,"Split Peas - Green, Dry",$8.14,false
+435,2020-02-05 12:01:26,"Soda Water - Club Soda, 355 Ml",$28.46,false
+436,2020-01-18 02:24:05,Plasticknivesblack,$37.79,true
+437,2020-02-20 10:19:28,Ostrich - Prime Cut,$8.29,false
+438,2020-02-21 13:38:12,Apricots Fresh,$32.57,true
+439,2020-03-30 17:48:42,"Syrup - Monin, Swiss Choclate",$17.92,false
+440,2020-03-27 18:11:41,"Pepper - Red, Finger Hot",$32.00,false
+441,2020-01-13 12:12:20,Tomatoes - Heirloom,$31.64,false
+442,2020-01-09 04:36:46,"Beef - Baby, Liver",$39.91,true
+443,2020-02-17 09:57:51,Eggplant Oriental,$7.28,false
+444,2020-01-24 02:29:12,Fennel,$12.98,false
+445,2020-01-03 02:32:04,"Pasta - Fusili, Dry",$31.24,false
+446,2020-03-30 01:41:01,Lychee,$37.77,false
+447,2020-03-31 17:45:58,"Pepsi - Diet, 355 Ml",$33.96,true
+448,2020-01-18 06:43:53,Napkin Colour,$11.96,true
+449,2020-01-13 07:08:10,Dip - Tapenade,$27.57,true
+450,2020-01-24 13:46:45,Lettuce - Curly Endive,$38.94,true
+451,2020-03-18 01:36:31,Halibut - Steaks,$31.38,true
+452,2020-02-28 06:38:45,"Bread - White, Sliced",$15.71,false
+453,2020-01-22 22:51:41,Muffin Orange Individual,$30.95,true
+454,2020-03-04 19:38:50,Clams - Canned,$26.36,true
+455,2020-02-14 17:04:09,Wine - Fino Tio Pepe Gonzalez,$6.30,true
+456,2020-03-26 00:52:38,Lamb - Ground,$10.16,true
+457,2020-03-14 09:00:48,Wine - Ruffino Chianti,$39.87,false
+458,2020-02-12 23:52:59,Mousse - Mango,$28.40,false
+459,2020-02-17 19:37:05,"Beef - Bones, Cut - Up",$18.94,false
+460,2020-03-11 19:14:58,Wine - Maipo Valle Cabernet,$5.40,true
+461,2020-01-21 06:17:42,Wine - Casillero Del Diablo,$32.63,true
+462,2020-02-08 19:34:06,Cabbage - Green,$20.58,false
+463,2020-01-08 22:25:00,Corn Shoots,$34.70,true
+464,2020-03-18 18:37:16,Calypso - Pineapple Passion,$35.87,false
+465,2020-03-12 23:28:06,Wasabi Powder,$35.42,true
+466,2020-03-31 00:08:54,Coffee - Frthy Coffee Crisp,$28.46,true
+467,2020-02-29 04:36:06,"Garlic - Primerba, Paste",$25.05,true
+468,2020-01-04 06:32:28,"Coffee - Colombian, Portioned",$18.58,false
+469,2020-02-28 06:16:43,Appetizer - Shrimp Puff,$30.00,true
+470,2020-01-07 00:57:20,Cheese - Goat With Herbs,$5.49,true
+471,2020-01-18 01:11:35,Towels - Paper / Kraft,$7.31,true
+472,2020-02-03 08:18:05,Flour Pastry Super Fine,$16.71,true
+473,2020-03-24 14:06:44,Artichoke - Fresh,$12.21,true
+474,2020-02-12 10:20:05,Lamb - Loin Chops,$8.98,false
+475,2020-03-06 03:07:27,Sour Puss Raspberry,$38.24,false
+476,2020-02-27 09:58:33,"Bar Mix - Pina Colada, 355 Ml",$34.66,true
+477,2020-02-03 03:17:00,Soy Protein,$25.80,false
+478,2020-03-15 22:02:04,Steampan - Foil,$28.68,false
+479,2020-01-18 04:41:53,Sugar - Individual Portions,$8.61,false
+480,2020-01-10 16:52:54,"Beef - Rouladin, Sliced",$9.42,true
+481,2020-03-15 16:26:06,Cloves - Whole,$33.41,false
+482,2020-02-07 10:40:18,Bread - Malt,$24.40,true
+483,2020-01-31 17:39:35,Cheese - Sheep Milk,$37.16,false
+484,2020-01-22 05:42:26,Ice Cream - Vanilla,$15.23,false
+485,2020-01-03 17:14:49,Chips Potato Swt Chilli Sour,$32.19,false
+486,2020-01-18 20:26:15,Pasta - Agnolotti - Butternut,$31.23,false
+487,2020-02-04 07:27:03,Sesame Seed Black,$9.60,true
+488,2020-03-02 02:22:09,Muffin - Mix - Bran And Maple 15l,$28.84,true
+489,2020-03-12 06:02:13,Chinese Foods - Cantonese,$35.87,false
+490,2020-02-10 01:21:00,Chickensplit Half,$9.89,false
+491,2020-01-12 15:35:48,Vinegar - Red Wine,$29.55,false
+492,2020-01-15 04:01:52,Cookie Trail Mix,$31.39,true
+493,2020-01-21 08:08:25,Food Colouring - Red,$6.63,true
+494,2020-01-25 02:06:08,Coconut Milk - Unsweetened,$28.20,true
+495,2020-03-30 20:12:19,Rum - Mount Gay Eclipes,$5.18,false
+496,2020-02-05 10:52:07,Appetizer - Smoked Salmon / Dill,$32.32,false
+497,2020-02-26 21:27:35,Lady Fingers,$8.73,true
+498,2020-01-29 11:02:06,"Cheese - Mozzarella, Shredded",$6.75,true
+499,2020-01-31 12:32:42,Cheese - Victor Et Berthold,$24.54,true
+500,2020-01-27 17:00:39,Wine - Spumante Bambino White,$29.08,false
+501,2020-03-11 16:31:06,Oregano - Fresh,$26.72,false
+502,2020-02-23 15:27:36,Pop Shoppe Cream Soda,$10.25,true
+503,2020-01-24 05:39:11,Foil - 4oz Custard Cup,$12.18,false
+504,2020-03-06 01:36:36,Cookie - Dough Variety,$34.39,true
+505,2020-02-03 10:24:38,Cinnamon Buns Sticky,$38.12,false
+506,2020-02-25 22:59:17,Squid U5 - Thailand,$21.50,true
+507,2020-01-06 03:26:24,"Mushroom - Enoki, Fresh",$37.84,false
+508,2020-02-26 11:58:54,Turnip - White,$25.87,false
+509,2020-01-27 03:11:13,Trout - Smoked,$30.78,false
+510,2020-03-13 02:30:23,Egg - Salad Premix,$27.74,true
+511,2020-02-27 06:16:19,Vinegar - Cider,$30.13,true
+512,2020-01-27 11:29:06,Dried Cherries,$19.63,true
+513,2020-02-06 10:27:01,Yogurt - French Vanilla,$13.46,true
+514,2020-01-16 15:14:43,Straws - Cocktale,$16.64,false
+515,2020-01-18 21:04:27,Ezy Change Mophandle,$16.52,true
+516,2020-01-20 17:51:51,Sage - Fresh,$20.51,false
+517,2020-02-25 09:22:07,Table Cloth 90x90 Colour,$18.83,false
+518,2020-01-25 09:46:37,Cup Translucent 9 Oz,$8.93,false
+519,2020-02-14 02:36:26,Table Cloth 90x90 White,$39.50,false
+520,2020-03-11 03:33:27,Container - Clear 32 Oz,$31.38,true
+521,2020-01-14 12:26:19,Banana Turning,$32.14,false
+522,2020-03-24 10:31:38,Oil - Safflower,$18.69,false
+523,2020-03-30 04:16:31,Beef - Top Sirloin,$6.04,true
+524,2020-01-13 20:22:57,Hummus - Spread,$15.24,true
+525,2020-01-05 15:11:10,Ginger - Ground,$38.90,true
+526,2020-01-20 11:41:02,Sprouts - China Rose,$17.19,false
+527,2020-02-11 05:04:12,"Beans - Kidney, Canned",$7.75,false
+528,2020-02-03 14:23:45,Ham - Cooked,$5.25,true
+529,2020-02-20 19:11:52,"Halibut - Whole, Fresh",$38.65,false
+530,2020-02-26 05:29:37,Puree - Passion Fruit,$11.91,true
+531,2020-01-19 18:19:29,Wine - Puligny Montrachet A.,$30.92,true
+532,2020-03-17 04:46:38,Cabbage - Red,$34.37,false
+533,2020-01-06 15:14:22,Banana - Green,$7.16,false
+534,2020-01-07 10:54:28,Flour - Chickpea,$9.20,true
+535,2020-02-17 11:52:35,Pork - Belly Fresh,$13.97,false
+536,2020-02-29 23:04:48,Bread - Italian Sesame Poly,$27.32,false
+537,2020-02-20 11:26:33,Capicola - Hot,$5.02,false
+538,2020-03-15 03:12:45,Carbonated Water - Raspberry,$10.34,false
+539,2020-02-19 21:54:20,"Beans - Kidney, Canned",$18.87,true
+540,2020-03-04 10:37:59,Milk - Chocolate 500ml,$20.27,false
+541,2020-03-25 04:18:47,Lamb - Loin Chops,$39.20,false
+542,2020-02-29 12:35:58,Wine - Kwv Chenin Blanc South,$5.66,false
+543,2020-03-07 06:01:31,Potatoes - Mini Red,$13.85,true
+544,2020-02-13 13:58:04,Bar Energy Chocchip,$25.58,true
+545,2020-01-18 07:02:30,Table Cloth 120 Round White,$17.61,true
+546,2020-03-23 23:09:37,Wine - Valpolicella Masi,$17.09,false
+547,2020-01-05 03:54:31,"Beef - Ox Tongue, Pickled",$17.88,false
+548,2020-03-30 18:01:57,Bread - Pain Au Liat X12,$29.02,true
+549,2020-03-02 01:00:22,Wine - Zonnebloem Pinotage,$8.56,true
+550,2020-01-09 04:25:31,"Mustard - Dry, Powder",$27.78,false
+551,2020-03-28 10:04:08,Nestea - Iced Tea,$6.43,false
+552,2020-03-16 03:06:31,Monkfish Fresh - Skin Off,$39.18,true
+553,2020-01-26 03:21:39,Carbonated Water - Strawberry,$26.17,true
+554,2020-01-26 20:29:08,"Coconut - Shredded, Unsweet",$20.18,false
+555,2020-02-11 21:17:42,Container - Clear 32 Oz,$11.42,true
+556,2020-02-02 16:45:05,Lid Coffee Cup 8oz Blk,$15.14,false
+557,2020-03-03 16:16:05,Cranberry Foccacia,$31.36,false
+558,2020-03-03 10:45:03,Tart - Raisin And Pecan,$10.40,false
+559,2020-01-20 13:46:45,Garbag Bags - Black,$21.61,true
+560,2020-01-28 11:45:33,Soup - Campbells - Tomato,$17.37,false
+561,2020-01-08 18:01:42,Juice - Propel Sport,$11.68,false
+562,2020-03-18 08:41:34,Beans - Green,$33.39,false
+563,2020-01-25 03:04:13,Yoplait - Strawbrasp Peac,$5.78,false
+564,2020-02-24 20:29:46,Mushroom - Chanterelle Frozen,$29.98,true
+565,2020-03-29 00:52:05,Wasabi Paste,$11.49,false
+566,2020-02-05 05:39:08,Olives - Stuffed,$22.75,false
+567,2020-03-12 11:17:28,Corn - On The Cob,$30.70,true
+568,2020-02-24 15:18:36,Wine - Barossa Valley Estate,$34.07,false
+569,2020-02-04 14:05:13,Wine - Port Late Bottled Vintage,$30.12,true
+570,2020-01-16 15:26:07,Hand Towel,$14.23,true
+571,2020-02-23 09:54:55,Swordfish Loin Portions,$5.79,false
+572,2020-02-03 19:42:10,Water - Aquafina Vitamin,$26.09,false
+573,2020-01-18 05:52:42,Nantucket Apple Juice,$36.59,true
+574,2020-01-07 04:05:01,Container - Clear 32 Oz,$38.73,true
+575,2020-01-16 01:34:37,Swiss Chard - Red,$12.47,false
+576,2020-03-26 04:24:54,"Wine - White, Antinore Orvieto",$23.73,true
+577,2020-01-31 06:06:34,Rolled Oats,$39.27,true
+578,2020-01-19 02:59:12,"Sparkling Wine - Rose, Freixenet",$15.90,false
+579,2020-03-12 10:37:14,Wine - Sawmill Creek Autumn,$20.75,true
+580,2020-01-17 01:19:31,Kahlua,$16.36,true
+581,2020-01-17 04:03:09,Tomato - Green,$17.51,true
+582,2020-02-16 14:35:30,Pectin,$19.99,false
+583,2020-02-25 22:58:27,Long Island Ice Tea,$7.47,true
+584,2020-03-29 16:21:09,Ham - Procutinni,$15.28,true
+585,2020-01-13 09:39:35,Versatainer Nc - 8288,$15.33,false
+586,2020-03-23 15:25:48,Sprouts - Corn,$22.44,false
+587,2020-02-05 08:11:55,"Yogurt - Raspberry, 175 Gr",$23.75,false
+588,2020-03-21 16:31:58,Pepper - Orange,$26.34,false
+589,2020-01-18 13:42:28,Maple Syrup,$17.83,false
+590,2020-02-13 06:39:45,"Wine - White, Schroder And Schyl",$8.70,true
+591,2020-03-14 03:20:23,Rabbit - Saddles,$9.54,true
+592,2020-02-14 23:30:20,Table Cloth 144x90 White,$39.92,false
+593,2020-01-14 01:45:30,Snapple Raspberry Tea,$26.13,true
+594,2020-03-16 18:40:29,Marjoram - Fresh,$15.46,false
+595,2020-01-11 08:52:52,Onions - Vidalia,$27.86,false
+596,2020-02-03 18:24:06,Flour - So Mix Cake White,$25.86,false
+597,2020-02-07 05:38:48,Wine - Champagne Brut Veuve,$32.32,true
+598,2020-02-26 10:43:17,Tuna - Fresh,$7.80,false
+599,2020-03-05 14:58:18,Mussels - Cultivated,$20.78,true
+600,2020-03-31 22:27:23,Beets,$7.68,true
+601,2020-01-21 01:53:54,Wonton Wrappers,$17.20,false
+602,2020-01-19 11:31:38,Cheese - Provolone,$23.69,true
+603,2020-01-22 11:17:06,Rye Special Old,$35.92,true
+604,2020-02-17 00:48:15,Pork Ham Prager,$28.58,true
+605,2020-03-02 02:03:59,Whmis - Spray Bottle Trigger,$5.10,false
+606,2020-02-06 03:50:34,Bacardi Mojito,$34.47,false
+607,2020-02-09 23:11:20,Kellogs Special K Cereal,$10.56,true
+608,2020-03-09 04:23:21,Oil - Hazelnut,$10.99,true
+609,2020-01-06 17:33:23,Lettuce - Curly Endive,$33.71,true
+610,2020-03-08 20:51:32,"Wine - Bourgogne 2002, La",$19.99,true
+611,2020-03-05 08:43:34,Lemonade - Pineapple Passion,$21.07,false
+612,2020-03-21 12:01:15,Cake - French Pear Tart,$22.99,true
+613,2020-02-19 09:07:34,Squid - Breaded,$33.26,true
+614,2020-03-27 08:59:26,Milk Powder,$23.68,true
+615,2020-02-18 21:50:48,"Wine - Red, Pelee Island Merlot",$26.21,false
+616,2020-01-25 22:11:02,Oil - Pumpkinseed,$30.87,true
+617,2020-02-19 16:46:34,Ice Cream Bar - Rolo Cone,$13.50,true
+618,2020-01-16 22:22:01,Beef - Shank,$29.56,false
+619,2020-02-14 04:38:41,Oven Mitts - 15 Inch,$21.67,false
+620,2020-03-07 01:54:53,Goldschalger,$27.63,true
+621,2020-02-24 21:22:46,Kumquat,$27.15,false
+622,2020-03-29 02:56:43,Coffee - Almond Amaretto,$32.09,false
+623,2020-02-24 20:33:54,"Chicken - Leg, Boneless",$35.96,true
+624,2020-02-16 08:35:42,Salt And Pepper Mix - Black,$27.84,true
+625,2020-01-09 08:40:45,Beef - Striploin,$23.81,true
+626,2020-01-12 06:24:28,Tomatoes - Heirloom,$15.14,false
+627,2020-01-28 07:10:11,Silicone Parch. 16.3x24.3,$11.82,true
+628,2020-01-08 16:49:59,Turnip - Wax,$36.89,false
+629,2020-03-16 17:27:00,Bacardi Breezer - Tropical,$22.52,true
+630,2020-02-04 13:09:50,"Beef - Chuck, Boneless",$25.40,false
+631,2020-03-12 17:58:37,Wine - Penfolds Koonuga Hill,$5.27,true
+632,2020-03-13 05:52:14,Oven Mitt - 13 Inch,$10.30,false
+633,2020-03-06 07:03:32,Wine - Pinot Noir Mondavi Coastal,$5.92,true
+634,2020-03-21 03:17:02,Cup - 4oz Translucent,$23.26,false
+635,2020-01-16 00:38:10,Muffin Mix - Lemon Cranberry,$21.90,true
+636,2020-01-27 20:05:34,"Pork - Butt, Boneless",$20.93,false
+637,2020-03-12 12:53:11,Lemon Grass,$19.84,false
+638,2020-03-31 04:57:41,"Sauce - White, Mix",$21.66,false
+639,2020-01-31 14:27:28,"Pesto - Primerba, Paste",$16.23,false
+640,2020-03-26 04:35:13,Langers - Ruby Red Grapfruit,$15.84,true
+641,2020-02-01 15:46:39,Bread Cranberry Foccacia,$27.04,false
+642,2020-02-03 02:27:55,Wine - German Riesling,$29.29,true
+643,2020-02-15 21:21:24,"Basil - Primerba, Paste",$20.39,true
+644,2020-03-20 01:55:22,Coffee - Cafe Moreno,$20.07,false
+645,2020-02-10 09:21:20,Mushroom - Portebello,$27.41,true
+646,2020-01-25 13:25:24,Venison - Striploin,$28.83,false
+647,2020-01-24 18:09:37,Chocolate - White,$37.69,false
+648,2020-03-29 11:53:22,Soup - Campbells Mac N Cheese,$13.01,true
+649,2020-03-25 13:11:58,Table Cloth 62x114 White,$31.70,true
+650,2020-01-29 04:21:48,Langers - Ruby Red Grapfruit,$38.70,false
+651,2020-02-13 11:39:06,"Pasta - Bauletti, Chicken White",$38.46,true
+652,2020-02-26 12:30:45,"Salmon - Atlantic, Skin On",$26.42,false
+653,2020-03-06 07:57:08,Sauce Tomato Pouch,$34.22,true
+654,2020-02-27 16:38:24,Pastry - Butterscotch Baked,$9.74,false
+655,2020-03-12 07:12:09,Blouse / Shirt / Sweater,$18.61,false
+656,2020-03-08 20:01:14,Madeira,$38.26,true
+657,2020-03-14 02:57:24,Mushroom - Portebello,$27.27,true
+658,2020-01-11 13:08:22,Pizza Pizza Dough,$7.16,true
+659,2020-02-27 11:55:10,"Doilies - 5, Paper",$26.31,false
+660,2020-01-09 21:45:05,"Pasta - Spaghetti, Dry",$26.81,false
+661,2020-01-21 01:14:26,Snapple - Mango Maddness,$38.45,true
+662,2020-01-03 01:24:44,"Soup - Campbells, Classic Chix",$23.33,true
+663,2020-03-14 00:06:44,Cookie Double Choco,$24.85,true
+664,2020-02-21 13:33:51,Oven Mitts 17 Inch,$35.60,true
+665,2020-01-08 03:22:33,Cake - Mini Potato Pancake,$9.88,false
+666,2020-03-11 09:26:21,Strawberries - California,$24.66,true
+667,2020-02-26 09:58:51,"Rum - Spiced, Captain Morgan",$24.68,false
+668,2020-01-11 18:10:50,Rice - Aborio,$34.32,true
+669,2020-01-07 04:20:10,Compound - Pear,$35.28,false
+670,2020-02-23 15:57:56,Bread - Burger,$9.18,false
+671,2020-01-11 22:05:55,"Tendrils - Baby Pea, Organic",$10.97,true
+672,2020-02-06 17:25:58,Beer - Sleeman Fine Porter,$39.18,true
+673,2020-02-02 12:23:37,"Brownies - Two Bite, Chocolate",$12.39,true
+674,2020-03-26 09:38:15,Bread - English Muffin,$27.49,false
+675,2020-02-17 12:47:12,Smoked Paprika,$13.57,false
+676,2020-02-23 15:04:44,Tea - Green,$7.72,true
+677,2020-02-29 08:48:53,"Chilli Paste, Hot Sambal Oelek",$13.47,true
+678,2020-01-03 20:12:53,Sausage - Breakfast,$32.67,true
+679,2020-01-15 20:17:06,Water - Spring 1.5lit,$23.79,false
+680,2020-02-06 22:56:20,"Seedlings - Mix, Organic",$18.51,true
+681,2020-01-11 17:23:11,"Vermouth - Sweet, Cinzano",$8.12,false
+682,2020-03-08 08:52:39,Instant Coffee,$32.73,true
+683,2020-01-04 03:57:43,Kale - Red,$16.13,false
+684,2020-03-08 15:24:02,Cheese - Goat,$27.85,false
+685,2020-01-18 15:48:58,Sugar - Invert,$31.25,true
+686,2020-01-20 17:21:27,Mangoes,$36.40,true
+687,2020-03-17 16:35:29,Bread - Pain Au Liat X12,$21.95,false
+688,2020-01-25 02:49:11,Wine - Lamancha Do Crianza,$13.72,true
+689,2020-01-27 08:20:02,Wine - Balbach Riverside,$27.28,true
+690,2020-01-27 16:45:53,Tomato Puree,$12.18,false
+691,2020-02-26 09:58:58,"Juice - Grape, White",$12.53,false
+692,2020-02-20 03:35:26,"Tabasco Sauce, 2 Oz",$11.47,false
+693,2020-01-31 11:54:49,Crackers - Melba Toast,$9.57,false
+694,2020-03-14 22:25:24,Dill Weed - Dry,$39.84,false
+695,2020-01-07 07:40:54,Tea - Decaf 1 Cup,$35.71,true
+696,2020-02-27 18:20:54,Ice Cream Bar - Hagen Daz,$31.87,false
+697,2020-02-09 02:22:17,Quinoa,$37.96,false
+698,2020-03-16 08:21:28,V8 - Berry Blend,$39.00,false
+699,2020-03-13 07:37:17,Fondant - Icing,$29.25,false
+700,2020-03-10 10:12:53,Sausage - Blood Pudding,$18.23,true
+701,2020-01-08 16:41:59,Vinegar - Sherry,$11.46,true
+702,2020-02-17 15:24:43,Rice - Brown,$22.37,true
+703,2020-02-28 01:56:38,Wine - Masi Valpolocell,$38.94,true
+704,2020-03-05 11:30:20,Table Cloth - 53x69 Colour,$20.65,false
+705,2020-03-05 15:20:03,Lettuce - Radicchio,$39.46,true
+706,2020-02-06 13:04:54,Eggplant Italian,$34.60,false
+707,2020-02-11 12:49:48,Spice - Pepper Portions,$10.83,true
+708,2020-03-16 18:31:13,Container - Hngd Cll Blk 7x7x3,$37.64,true
+709,2020-03-26 20:33:35,Radish - Pickled,$18.46,false
+710,2020-02-02 13:24:29,"Nut - Pecan, Pieces",$37.94,true
+711,2020-03-25 05:42:23,"Vermouth - Sweet, Cinzano",$27.37,true
+712,2020-01-25 18:20:23,Wine - Cotes Du Rhone,$21.84,false
+713,2020-01-07 18:39:30,"Coffee - Colombian, Portioned",$9.88,false
+714,2020-03-12 17:38:32,"Mushroom - Oyster, Fresh",$31.39,true
+715,2020-02-24 17:37:19,Cup Translucent 9 Oz,$36.74,false
+716,2020-01-30 13:37:34,"Pasta - Lasagna, Dry",$10.96,false
+717,2020-01-07 10:26:05,"Cheese - Brie,danish",$21.96,true
+718,2020-03-20 10:32:16,Lighter - Bbq,$11.79,false
+719,2020-03-12 14:02:22,Creme De Banane - Marie,$36.72,true
+720,2020-01-17 01:57:18,Cattail Hearts,$17.44,true
+721,2020-03-31 05:46:33,Beans - Yellow,$9.84,false
+722,2020-03-19 21:32:17,Apple - Granny Smith,$10.72,false
+723,2020-02-26 14:56:49,Table Cloth 54x72 Colour,$40.00,true
+724,2020-01-14 11:41:35,"Pork - Loin, Boneless",$32.21,true
+725,2020-03-27 00:31:13,Appetizer - Crab And Brie,$22.23,false
+726,2020-03-18 07:00:53,Sobe - Orange Carrot,$25.03,false
+727,2020-03-16 22:21:46,Grapefruit - Pink,$10.44,false
+728,2020-02-18 13:04:09,"Lemonade - Mandarin, 591 Ml",$36.96,false
+729,2020-02-15 06:07:33,"Cheese - Brie, Cups 125g",$8.17,true
+730,2020-01-10 00:55:31,"Sauce - Apple, Unsweetened",$35.98,false
+731,2020-03-14 00:07:58,"Split Peas - Yellow, Dry",$32.49,true
+732,2020-02-03 04:17:21,Tuna - Fresh,$39.38,false
+733,2020-02-22 00:40:56,Crackers - Graham,$31.57,false
+734,2020-02-24 17:35:52,Table Cloth 90x90 Colour,$21.17,true
+735,2020-02-03 06:29:15,Appetizer - Southwestern,$32.15,true
+736,2020-02-16 18:00:30,Chinese Foods - Plain Fried Rice,$11.84,false
+737,2020-01-27 12:37:26,Rabbit - Saddles,$35.97,true
+738,2020-02-07 00:09:09,"Lettuce - Mini Greens, Whole",$19.23,false
+739,2020-01-25 09:02:14,Soup - Cream Of Potato / Leek,$27.26,true
+740,2020-02-14 11:28:37,Shrimp - Black Tiger 6 - 8,$25.03,true
+741,2020-03-04 15:43:23,Cup - 4oz Translucent,$7.88,false
+742,2020-03-22 16:13:27,Chips - Assorted,$21.97,false
+743,2020-01-24 11:00:42,"Pasta - Lasagne, Fresh",$22.96,false
+744,2020-01-09 04:46:14,Veal - Kidney,$24.40,true
+745,2020-01-01 08:52:31,Cookie Dough - Peanut Butter,$7.98,false
+746,2020-02-05 10:06:53,Bamboo Shoots - Sliced,$20.03,true
+747,2020-03-02 19:37:03,Stainless Steel Cleaner Vision,$5.52,false
+748,2020-01-07 07:20:57,Soho Lychee Liqueur,$22.08,true
+749,2020-01-05 06:03:21,Fenngreek Seed,$14.25,false
+750,2020-03-22 18:50:59,Anchovy Fillets,$7.07,true
+751,2020-03-31 13:26:27,Blackberries,$39.11,false
+752,2020-02-06 06:27:23,Peas Snow,$37.12,true
+753,2020-02-29 23:16:34,Beer - Heinekin,$7.55,true
+754,2020-01-05 07:57:41,Carbonated Water - Cherry,$6.29,false
+755,2020-03-16 02:35:02,"Soup - Knorr, French Onion",$25.42,false
+756,2020-03-21 19:38:02,Longos - Burritos,$20.01,false
+757,2020-03-18 11:29:12,Pepper - Gypsy Pepper,$30.41,false
+758,2020-01-23 10:16:34,Foil Cont Round,$27.46,true
+759,2020-02-27 23:42:57,Beer - True North Lager,$22.69,true
+760,2020-01-03 12:03:55,"Veal - Insides, Grains",$27.47,false
+761,2020-01-22 06:18:44,Flour Dark Rye,$6.79,false
+762,2020-03-31 00:08:38,Vinegar - Tarragon,$18.03,true
+763,2020-02-18 02:37:33,Cup - 8oz Coffee Perforated,$37.94,false
+764,2020-01-25 19:58:18,Beef - Eye Of Round,$32.85,false
+765,2020-02-23 15:26:49,Bread - Italian Roll With Herbs,$6.35,true
+766,2020-02-15 20:42:01,"Pork - Back, Short Cut, Boneless",$21.38,false
+767,2020-02-01 23:24:04,Water - Tonic,$26.80,true
+768,2020-03-20 03:16:21,Pork - Side Ribs,$6.02,true
+769,2020-02-26 03:27:23,"Shrimp - 16 - 20 Cooked, Peeled",$25.83,true
+770,2020-03-25 05:50:34,"Pork - Tenderloin, Frozen",$16.24,false
+771,2020-01-20 04:35:12,Tea - Herbal Orange Spice,$12.24,true
+772,2020-01-24 11:01:06,Bread Base - Italian,$29.79,false
+773,2020-02-26 05:54:17,Radish - Pickled,$13.12,false
+774,2020-02-10 08:49:32,Thermometer Digital,$6.33,true
+775,2020-01-12 06:00:55,Veal - Leg,$39.89,false
+776,2020-02-27 11:04:54,Lettuce - Spring Mix,$20.45,false
+777,2020-01-30 09:57:17,"Sauce - Black Current, Dry Mix",$33.04,false
+778,2020-02-21 02:40:43,Vinegar - Cider,$6.04,false
+779,2020-02-22 00:07:15,Mushroom - Chanterelle Frozen,$27.29,false
+780,2020-02-03 03:54:41,"Juice - Clam, 46 Oz",$6.11,false
+781,2020-03-17 05:54:14,Sesame Seed Black,$13.92,false
+782,2020-03-12 04:04:20,Ecolab - Hobart Washarm End Cap,$35.11,false
+783,2020-01-30 07:45:30,Tomatoes - Orange,$27.02,true
+784,2020-01-06 01:07:52,"Fish - Artic Char, Cold Smoked",$21.65,true
+785,2020-03-30 07:42:06,Lobster - Live,$15.43,true
+786,2020-02-05 02:36:03,Shortbread - Cookie Crumbs,$7.34,false
+787,2020-02-29 16:37:46,"Veal - Round, Eye Of",$21.09,true
+788,2020-02-07 21:38:07,Mcguinness - Blue Curacao,$18.30,true
+789,2020-03-01 10:57:07,Towels - Paper / Kraft,$16.34,true
+790,2020-01-15 07:34:10,Flax Seed,$24.97,true
+791,2020-01-09 16:00:25,Sour Puss Sour Apple,$16.02,false
+792,2020-02-23 17:05:55,Wine - Pinot Noir Mondavi Coastal,$18.37,false
+793,2020-02-17 17:57:40,Cheese - Provolone,$35.04,false
+794,2020-02-07 18:24:41,Nantucket - Kiwi Berry Cktl.,$18.83,false
+795,2020-01-22 17:47:37,Pepperoni Slices,$16.57,false
+796,2020-02-12 09:26:06,Pepper - Gypsy Pepper,$36.28,true
+797,2020-03-08 20:55:13,Chocolate Bar - Smarties,$11.21,true
+798,2020-01-10 00:58:46,Cookie Dough - Chunky,$30.50,false
+799,2020-01-09 09:39:46,Spice - Pepper Portions,$11.59,true
+800,2020-02-12 18:53:52,Plasticforkblack,$8.25,true
+801,2020-03-20 04:07:26,Bag Stand,$8.64,true
+802,2020-02-09 05:44:18,"Cheese - Cheddar, Medium",$28.05,false
+803,2020-03-26 08:29:52,Pears - Bartlett,$25.56,true
+804,2020-03-25 18:14:45,Wine - Chardonnay South,$39.31,false
+805,2020-02-01 22:18:14,Glove - Cutting,$7.21,false
+806,2020-02-23 14:13:03,Coriander - Seed,$34.45,true
+807,2020-02-16 11:40:17,Muffin - Mix - Bran And Maple 15l,$19.08,true
+808,2020-02-26 17:05:43,"Vodka - Lemon, Absolut",$9.92,false
+809,2020-01-16 12:35:51,Syrup - Monin - Passion Fruit,$10.14,true
+810,2020-02-11 15:50:54,Wine - Merlot Vina Carmen,$31.24,false
+811,2020-02-16 16:25:22,Yogurt - Plain,$12.44,true
+812,2020-01-21 20:20:23,Gelatine Powder,$11.53,true
+813,2020-03-30 19:21:57,Boogies,$25.59,true
+814,2020-02-01 17:21:56,Ham - Cooked Bayonne Tinned,$12.10,false
+815,2020-01-24 00:01:24,Longos - Chicken Cordon Bleu,$12.52,true
+816,2020-02-08 12:09:23,"Turnip - White, Organic",$7.96,true
+817,2020-02-06 18:44:16,Cheese - Camembert,$35.12,false
+818,2020-01-15 18:00:26,"Jam - Strawberry, 20 Ml Jar",$22.24,false
+819,2020-03-31 13:53:11,"Lamb - Shoulder, Boneless",$30.85,true
+820,2020-03-23 19:30:25,Hold Up Tool Storage Rack,$27.25,true
+821,2020-03-15 05:29:22,Turkey - Oven Roast Breast,$12.10,false
+822,2020-03-12 14:31:54,Lid - 0090 Clear,$8.53,true
+823,2020-03-30 19:37:45,"Wine - White, Lindemans Bin 95",$18.81,true
+824,2020-03-15 22:40:09,Sage - Fresh,$33.25,true
+825,2020-02-09 14:01:03,Pork Loin Bine - In Frenched,$16.94,false
+826,2020-03-05 04:53:41,Mussels - Frozen,$25.61,false
+827,2020-02-28 04:28:02,Garbag Bags - Black,$28.88,true
+828,2020-02-13 16:51:57,Zucchini - Green,$27.31,false
+829,2020-01-06 17:58:08,Grapes - Red,$16.47,false
+830,2020-03-06 15:44:14,Clementine,$12.80,true
+831,2020-02-15 08:43:32,Wine - Rubyport,$39.71,true
+832,2020-02-24 10:00:44,Mackerel Whole Fresh,$8.89,true
+833,2020-03-26 20:16:26,"Apple - Delicious, Red",$39.90,true
+834,2020-03-21 07:29:13,Guava,$25.68,false
+835,2020-03-11 13:35:17,Hersey Shakes,$33.51,true
+836,2020-03-13 15:13:40,Island Oasis - Strawberry,$19.91,true
+837,2020-02-20 20:28:37,"Chicken - White Meat, No Tender",$34.95,true
+838,2020-02-11 00:55:41,Mushroom - White Button,$27.81,false
+839,2020-03-07 20:06:26,Wanton Wrap,$31.73,false
+840,2020-03-03 08:31:21,Apple - Granny Smith,$26.12,true
+841,2020-03-25 08:22:59,Compound - Passion Fruit,$23.66,false
+842,2020-03-17 11:39:17,Raspberries - Frozen,$5.71,false
+843,2020-01-09 15:28:50,"Chocolate - Pistoles, White",$30.86,false
+844,2020-02-19 00:27:57,"Nut - Cashews, Whole, Raw",$39.28,true
+845,2020-03-18 12:59:20,Gloves - Goldtouch Disposable,$10.88,true
+846,2020-02-12 03:22:36,Beef - Prime Rib Aaa,$38.54,true
+847,2020-02-21 18:02:04,"Artichoke - Hearts, Canned",$37.43,true
+848,2020-01-08 00:43:57,"Pepsi, 355 Ml",$25.39,false
+849,2020-01-08 21:16:23,Steampan - Lid For Half Size,$29.79,false
+850,2020-03-24 11:28:20,Dish Towel,$7.97,false
+851,2020-01-20 16:44:18,Tea - Vanilla Chai,$31.08,false
+852,2020-02-05 15:10:52,Wine - Alicanca Vinho Verde,$35.87,true
+853,2020-02-17 08:37:48,Ice Cream Bar - Oreo Cone,$26.00,false
+854,2020-01-15 00:25:51,Cake - Cheese Cake 9 Inch,$12.92,false
+855,2020-02-28 05:23:14,Beer - Rickards Red,$9.52,true
+856,2020-02-23 20:43:30,Smoked Tongue,$9.82,true
+857,2020-02-15 14:31:06,Hagen Daza - Dk Choocolate,$35.36,true
+858,2020-03-22 12:57:59,Cheese - Goat,$37.27,true
+859,2020-01-15 18:23:08,"Fish - Atlantic Salmon, Cold",$25.12,true
+860,2020-03-26 05:17:46,Appetizer - Smoked Salmon / Dill,$6.31,false
+861,2020-01-07 21:31:53,"Wine - White, Lindemans Bin 95",$26.43,false
+862,2020-03-08 14:29:26,Cheese - Brick With Onion,$27.15,false
+863,2020-01-27 05:35:43,Blue Curacao - Marie Brizard,$15.85,true
+864,2020-03-21 14:40:05,Milk - Skim,$6.36,false
+865,2020-03-13 06:48:25,Beans - Butter Lrg Lima,$33.04,false
+866,2020-02-14 12:01:25,Flour - So Mix Cake White,$39.20,true
+867,2020-03-05 20:05:44,Rice - Wild,$29.06,false
+868,2020-01-27 16:55:59,Lid - 0090 Clear,$33.91,false
+869,2020-03-04 03:22:12,"Wine - Red, Lurton Merlot De",$14.53,false
+870,2020-03-03 04:47:25,Monkfish Fresh - Skin Off,$33.70,false
+871,2020-01-11 02:28:50,Mushroom - Chanterelle Frozen,$37.99,true
+872,2020-02-06 15:53:42,"Wine - Red, Metus Rose",$38.00,true
+873,2020-02-23 05:07:02,Wine - Chateauneuf Du Pape,$15.87,false
+874,2020-03-22 04:18:58,Tea - Grapefruit Green Tea,$22.45,false
+875,2020-01-19 17:11:37,Sour Puss - Tangerine,$38.78,true
+876,2020-03-25 11:02:55,Sauce - Rosee,$10.30,true
+877,2020-02-22 22:52:39,Asparagus - Mexican,$18.48,false
+878,2020-01-11 21:38:22,Transfer Sheets,$24.00,false
+879,2020-01-28 11:32:48,"Arctic Char - Fresh, Whole",$10.39,true
+880,2020-03-24 23:31:25,Irish Cream - Baileys,$21.24,false
+881,2020-02-18 14:21:18,Lettuce - Sea / Sea Asparagus,$14.41,false
+882,2020-02-14 22:27:15,Cheese - Brie,$38.97,true
+883,2020-02-22 07:22:14,"Oranges - Navel, 72",$21.73,true
+884,2020-01-30 00:35:38,Cheese - Camembert,$8.64,false
+885,2020-02-12 07:12:51,Wine - Guy Sage Touraine,$27.22,false
+886,2020-03-19 10:25:46,Sauce - Oyster,$11.09,true
+887,2020-01-18 12:11:28,Mikes Hard Lemonade,$30.70,true
+888,2020-01-09 03:13:23,Pickle - Dill,$36.59,false
+889,2020-01-17 19:11:49,Strawberries,$11.81,true
+890,2020-03-28 13:10:01,Crab - Meat,$24.20,false
+891,2020-03-16 05:16:55,Broccoli - Fresh,$32.16,true
+892,2020-02-17 16:32:21,Beef - Bresaola,$21.46,true
+893,2020-01-16 18:20:34,Pepper - Pablano,$19.98,true
+894,2020-02-16 18:16:56,Towel Dispenser,$20.75,true
+895,2020-01-23 08:16:08,Bread - Onion Focaccia,$35.51,false
+896,2020-03-23 11:07:08,Tea - Green,$18.44,false
+897,2020-03-16 02:20:04,Island Oasis - Wildberry,$34.49,true
+898,2020-03-26 01:25:53,Butter Sweet,$11.86,true
+899,2020-02-28 09:01:55,Hipnotiq Liquor,$7.84,true
+900,2020-01-09 16:17:31,Contreau,$31.61,false
+901,2020-03-27 23:00:55,Appetizer - Shrimp Puff,$27.53,true
+902,2020-02-16 08:13:33,Arctic Char - Fillets,$20.85,true
+903,2020-01-25 15:24:46,Cheese - St. Paulin,$38.36,false
+904,2020-02-17 19:32:39,"Wine - White, Ej Gallo",$34.97,true
+905,2020-02-14 23:20:10,Tomato - Tricolor Cherry,$11.26,false
+906,2020-01-10 06:42:43,Sauce - Sesame Thai Dressing,$13.56,true
+907,2020-01-15 11:04:19,"Crab - Claws, Snow 16 - 24",$31.06,false
+908,2020-01-07 20:01:31,Syrup - Pancake,$16.49,true
+909,2020-01-10 18:22:38,Island Oasis - Pina Colada,$5.71,false
+910,2020-02-13 07:54:44,Beer - Mill St Organic,$35.78,true
+911,2020-01-10 02:29:43,Chinese Foods - Pepper Beef,$21.59,false
+912,2020-03-20 15:18:40,"Pork - Loin, Bone - In",$32.75,false
+913,2020-02-14 01:46:40,Wine - Masi Valpolocell,$29.09,true
+914,2020-02-25 11:21:09,Shiro Miso,$19.22,true
+915,2020-01-31 13:35:14,Rosemary - Dry,$11.42,true
+916,2020-01-20 22:19:18,"Juice - Apple, 500 Ml",$15.50,false
+917,2020-02-11 19:19:16,Island Oasis - Strawberry,$29.66,true
+918,2020-01-24 07:24:36,Juice - Lime,$30.36,false
+919,2020-01-30 14:20:37,Tea - Decaf 1 Cup,$37.79,true
+920,2020-01-10 08:17:08,Water - Spring 1.5lit,$25.66,true
+921,2020-02-18 12:35:25,Compound - Orange,$26.81,false
+922,2020-02-18 00:53:52,Macaroons - Two Bite Choc,$20.05,false
+923,2020-03-03 13:46:19,Foam Tray S2,$25.61,false
+924,2020-01-27 15:43:33,Pork Loin Cutlets,$15.96,false
+925,2020-03-18 19:06:20,Glucose,$37.53,true
+926,2020-02-05 21:01:30,Bols Melon Liqueur,$31.73,true
+927,2020-01-26 05:17:06,Flour Dark Rye,$14.13,true
+928,2020-01-22 01:03:24,Cranberries - Dry,$39.82,true
+929,2020-03-25 09:57:18,Butter - Unsalted,$12.24,false
+930,2020-03-14 17:37:36,Flour - Semolina,$29.40,true
+931,2020-01-31 01:07:49,Beer - Camerons Auburn,$33.96,false
+932,2020-03-10 20:15:25,Bagel - Everything,$36.15,true
+933,2020-03-03 21:28:53,Chips Potato Reg 43g,$13.00,true
+934,2020-03-21 06:56:42,Sponge Cake Mix - Chocolate,$36.50,true
+935,2020-01-26 22:39:03,Whmis - Spray Bottle Trigger,$31.54,true
+936,2020-03-10 16:25:51,Muffin Mix - Blueberry,$19.67,true
+937,2020-03-28 13:32:45,Jameson - Irish Whiskey,$30.87,false
+938,2020-03-28 23:30:09,Tarts Assorted,$14.55,false
+939,2020-01-21 08:33:53,Soup - French Can Pea,$26.18,true
+940,2020-01-28 08:33:53,"Sauce - Black Current, Dry Mix",$19.08,false
+941,2020-01-24 12:55:13,Eggs - Extra Large,$22.39,false
+942,2020-03-28 01:13:07,Sugar - Splenda Sweetener,$36.93,true
+943,2020-01-04 22:43:59,Cake - Sheet Strawberry,$11.71,false
+944,2020-02-03 01:02:30,Oil - Coconut,$8.49,true
+945,2020-02-10 02:46:46,"Bread - White, Unsliced",$28.58,true
+946,2020-02-06 03:59:40,Capers - Pickled,$35.33,false
+947,2020-01-02 06:42:32,"Oranges - Navel, 72",$23.12,true
+948,2020-02-27 17:07:47,Chutney Sauce,$33.96,true
+949,2020-03-28 17:27:42,"Squash - Pattypan, Yellow",$23.33,false
+950,2020-01-18 23:33:30,Wine - Spumante Bambino White,$12.07,false
+951,2020-03-02 08:38:56,Corn Shoots,$19.81,false
+952,2020-02-25 05:28:11,Campari,$10.88,false
+953,2020-02-17 01:38:27,"Lemonade - Strawberry, 591 Ml",$28.06,false
+954,2020-01-22 12:27:52,Cheese - Bocconcini,$18.01,true
+955,2020-02-06 17:30:05,Sauce Bbq Smokey,$12.21,true
+956,2020-03-27 10:22:31,Carbonated Water - Peach,$35.28,true
+957,2020-01-05 04:14:24,Lambcasing,$39.45,true
+958,2020-01-24 09:33:36,Country Roll,$30.69,false
+959,2020-01-10 00:39:51,"Bread - Roll, Whole Wheat",$14.70,true
+960,2020-01-01 20:52:05,Sugar - Brown,$30.19,false
+961,2020-01-24 06:39:29,Steampan - Half Size Shallow,$7.67,true
+962,2020-01-11 02:38:32,"Pepper - Red, Finger Hot",$39.36,false
+963,2020-03-31 01:21:42,Beer - Camerons Cream Ale,$6.33,true
+964,2020-01-24 13:55:09,Wine - Casillero Del Diablo,$36.80,false
+965,2020-01-06 12:10:50,"Wine - Niagara,vqa Reisling",$18.77,false
+966,2020-01-23 09:11:56,Wine - Rosso Toscano Igt,$31.14,false
+967,2020-01-17 20:04:46,Calaloo,$21.02,true
+968,2020-01-24 06:53:37,"Doilies - 5, Paper",$10.34,false
+969,2020-03-17 15:31:40,Ecolab - Hobart Upr Prewash Arm,$9.24,true
+970,2020-01-07 06:12:19,"Coffee - Colombian, Portioned",$39.94,true
+971,2020-02-27 18:23:45,"Seedlings - Buckwheat, Organic",$35.61,true
+972,2020-01-19 23:27:29,Pastry - Carrot Muffin - Mini,$29.16,false
+973,2020-01-28 18:34:47,V8 - Tropical Blend,$28.17,true
+974,2020-01-17 15:00:29,Wine - Chablis J Moreau Et Fils,$14.67,true
+975,2020-03-28 21:50:32,"Tomatoes - Vine Ripe, Yellow",$31.51,false
+976,2020-03-09 22:35:16,Veal - Ground,$28.51,false
+977,2020-01-12 01:21:33,Wine - Alicanca Vinho Verde,$19.66,false
+978,2020-01-27 01:00:14,"Crab - Blue, Frozen",$35.33,true
+979,2020-01-10 17:08:20,"Tomatoes - Diced, Canned",$23.77,true
+980,2020-02-11 22:37:32,Chef Hat 20cm,$14.93,false
+981,2020-03-13 07:34:24,Cocoa Powder - Dutched,$18.08,false
+982,2020-02-01 15:08:00,Jello - Assorted,$29.51,true
+983,2020-01-04 08:01:10,Rice - 7 Grain Blend,$21.80,false
+984,2020-01-05 23:33:08,Island Oasis - Pina Colada,$36.71,false
+985,2020-02-10 15:35:04,Peas - Frozen,$39.30,false
+986,2020-02-12 19:38:19,Campari,$28.12,false
+987,2020-03-14 22:15:56,Chips Potato Salt Vinegar 43g,$11.69,true
+988,2020-01-28 12:37:40,Southern Comfort,$25.07,false
+989,2020-02-06 10:56:26,Wine - Ice Wine,$29.66,false
+990,2020-03-08 06:04:42,"Wine - White, Chardonnay",$5.38,false
+991,2020-01-11 10:44:38,Brandy Cherry - Mcguinness,$33.53,true
+992,2020-03-13 02:59:45,"Cheese - Mozzarella, Shredded",$29.92,false
+993,2020-03-22 01:55:16,Halibut - Steaks,$23.23,true
+994,2020-02-14 11:04:14,"Pasta - Fettuccine, Egg, Fresh",$25.09,false
+995,2020-03-11 02:21:13,"Tortillas - Flour, 8",$29.82,true
+996,2020-03-23 02:28:36,Squid Ink,$8.01,false
+997,2020-01-04 00:53:38,Yogurt - French Vanilla,$21.00,false
+998,2020-02-17 06:03:36,Arizona - Plum Green Tea,$6.75,true
+999,2020-01-28 15:11:50,"Tomatoes - Vine Ripe, Yellow",$5.08,false
+1000,2020-02-20 14:53:27,Chinese Lemon Pork,$30.04,true

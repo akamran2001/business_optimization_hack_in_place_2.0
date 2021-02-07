@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/business_optimization_hack_in_place_2.0/static/css/main.1cae04e0.chunk.css",
-    "main.js": "/business_optimization_hack_in_place_2.0/static/js/main.e1b8fb22.chunk.js",
-    "main.js.map": "/business_optimization_hack_in_place_2.0/static/js/main.e1b8fb22.chunk.js.map",
+    "main.css": "/business_optimization_hack_in_place_2.0/static/css/main.3ca83100.chunk.css",
+    "main.js": "/business_optimization_hack_in_place_2.0/static/js/main.03a52020.chunk.js",
+    "main.js.map": "/business_optimization_hack_in_place_2.0/static/js/main.03a52020.chunk.js.map",
     "runtime-main.js": "/business_optimization_hack_in_place_2.0/static/js/runtime-main.6dfd6982.js",
     "runtime-main.js.map": "/business_optimization_hack_in_place_2.0/static/js/runtime-main.6dfd6982.js.map",
     "static/css/2.028e56f8.chunk.css": "/business_optimization_hack_in_place_2.0/static/css/2.028e56f8.chunk.css",
-    "static/js/2.30754b10.chunk.js": "/business_optimization_hack_in_place_2.0/static/js/2.30754b10.chunk.js",
-    "static/js/2.30754b10.chunk.js.map": "/business_optimization_hack_in_place_2.0/static/js/2.30754b10.chunk.js.map",
+    "static/js/2.987a34aa.chunk.js": "/business_optimization_hack_in_place_2.0/static/js/2.987a34aa.chunk.js",
+    "static/js/2.987a34aa.chunk.js.map": "/business_optimization_hack_in_place_2.0/static/js/2.987a34aa.chunk.js.map",
     "static/js/3.cb2e6862.chunk.js": "/business_optimization_hack_in_place_2.0/static/js/3.cb2e6862.chunk.js",
     "static/js/3.cb2e6862.chunk.js.map": "/business_optimization_hack_in_place_2.0/static/js/3.cb2e6862.chunk.js.map",
     "index.html": "/business_optimization_hack_in_place_2.0/index.html",
     "static/css/2.028e56f8.chunk.css.map": "/business_optimization_hack_in_place_2.0/static/css/2.028e56f8.chunk.css.map",
-    "static/css/main.1cae04e0.chunk.css.map": "/business_optimization_hack_in_place_2.0/static/css/main.1cae04e0.chunk.css.map",
-    "static/js/2.30754b10.chunk.js.LICENSE.txt": "/business_optimization_hack_in_place_2.0/static/js/2.30754b10.chunk.js.LICENSE.txt",
+    "static/css/main.3ca83100.chunk.css.map": "/business_optimization_hack_in_place_2.0/static/css/main.3ca83100.chunk.css.map",
+    "static/js/2.987a34aa.chunk.js.LICENSE.txt": "/business_optimization_hack_in_place_2.0/static/js/2.987a34aa.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/business_optimization_hack_in_place_2.0/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.6dfd6982.js",
     "static/css/2.028e56f8.chunk.css",
-    "static/js/2.30754b10.chunk.js",
-    "static/css/main.1cae04e0.chunk.css",
-    "static/js/main.e1b8fb22.chunk.js"
+    "static/js/2.987a34aa.chunk.js",
+    "static/css/main.3ca83100.chunk.css",
+    "static/js/main.03a52020.chunk.js"
   ]
 }

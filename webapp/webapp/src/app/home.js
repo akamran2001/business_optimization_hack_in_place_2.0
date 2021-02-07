@@ -1,12 +1,19 @@
 import React from "react";
 import Money_Graph from "./money_graph";
-import InputButton from "./manual_input"
+import InputButton from "./manual_input";
 import CustHistogram from "./customer_histogram";
 
 function home(props) {
   return (
     <div className="container">
       <div className="row">
+        <div
+          className="row"
+          style={{ backgroundColor: "black", color: "white" }}
+        >
+          <h1>Bis Viz</h1>
+          <p>Business Visualizations</p>
+        </div>
         <div className="col-sm">
           <div className="row">
             <h1>Amount Purchased Throughout the Day</h1>
@@ -23,7 +30,8 @@ function home(props) {
             <CustHistogram />
           </div>
         </div>
-        <div>
+
+        <div className="col-sm">
           <InputButton />
         </div>
       </div>

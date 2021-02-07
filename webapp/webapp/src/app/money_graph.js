@@ -1,6 +1,6 @@
 import React from "react";
 import { Chart } from "react-charts";
-
+import Data from "../data.json";
 function Money_Graph() {
   const data = React.useMemo(
     () => [
@@ -12,16 +12,6 @@ function Money_Graph() {
           [2, 4],
           [3, 2],
           [4, 7],
-        ],
-      },
-      {
-        label: "Series 2",
-        data: [
-          [0, 3],
-          [1, 1],
-          [2, 5],
-          [3, 6],
-          [4, 4],
         ],
       },
     ],

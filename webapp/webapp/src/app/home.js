@@ -1,5 +1,6 @@
 import React from "react";
 import Money_Graph from "./money_graph";
+
 function home(props) {
   return (
     <div>

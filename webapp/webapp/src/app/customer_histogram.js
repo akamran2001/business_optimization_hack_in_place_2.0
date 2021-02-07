@@ -1,11 +1,11 @@
 import React from "react"
 import { Chart } from 'react-charts'
 import fs from "fs"
-import data from "MOCK_DATA.csv"
+import data from "../MOCK_DATA.csv"
 
 /*convert the mock data into */
 function jsonConvert(data){
-    csv = fs.readFileSync(data)
+    let csv = fs.readFileSync(data)
     let arrayLines = csv.split("\n")
     let result = []
     let headers = arrayLines[0].split(", ") //get the headers 
@@ -27,9 +27,13 @@ function jsonConvert(data){
     return JSON.stringify(result); //JSON
 }
 
+var json_data = jsonConvert(data)
 
 /* reading the mock data */
-function MyChart(){
-    
+console.log(json_data)
+
+/*put the mock data into a chart*/ 
+function custHistogram(){
 }
 
+export default jsonConvert

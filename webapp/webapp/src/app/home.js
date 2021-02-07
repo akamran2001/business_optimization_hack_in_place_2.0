@@ -9,7 +9,9 @@ function home(props) {
         <div className="col-sm">
           <Money_Graph />
         </div>
-        <div className="col-sm"></div>
+        <div className="col-sm">
+          <CustHistogram />
+        </div>
       </div>
     </div>
   );

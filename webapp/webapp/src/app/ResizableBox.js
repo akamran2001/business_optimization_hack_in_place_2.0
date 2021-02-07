@@ -7,7 +7,7 @@ export default function ResizableBox({
   children,
   width = 500,
   height = 300,
-  resizable = false,
+  resizable = true,
   style = {},
   className,
 }) {

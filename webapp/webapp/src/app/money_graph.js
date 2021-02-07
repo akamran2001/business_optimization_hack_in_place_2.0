@@ -31,6 +31,7 @@ function Money_Graph() {
           { primary: new Date("2021-02-07T22:00:00.000"), secondary: 59 },
           { primary: new Date("2021-02-07T22:30:00.000"), secondary: 50 },
         ],
+        color: "#d50000",
       },
     ],
     []
@@ -45,7 +46,12 @@ function Money_Graph() {
   const axes = React.useMemo(
     () => [
       { primary: true, position: "bottom", type: "time" },
-      { position: "left", type: "linear", stacked: true },
+      {
+        position: "left",
+        type: "linear",
+        stacked: true,
+        format: (d) => `$${d}`,
+      },
     ],
     []
   );
@@ -53,8 +59,13 @@ function Money_Graph() {
   const lineChart = (
     // A react-chart hyper-responsively and continuously fills the available
     // space of its parent element automatically
-    <ResizableBox>
-      <Chart data={data} series={series} axes={axes} tooltip />
+    <ResizableBox
+      style={{
+        backgroundColor: "#263238",
+        borderRadius: "5px",
+      }}
+    >
+      <Chart data={data} series={series} axes={axes} tooltip dark />
     </ResizableBox>
   );
   return lineChart;

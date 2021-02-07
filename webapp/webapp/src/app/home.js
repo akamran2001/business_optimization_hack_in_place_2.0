@@ -11,10 +11,11 @@ function home(props) {
           className="row"
           style={{ backgroundColor: "black", color: "white" }}
         >
-          <h1>Bis Viz</h1>
-          <p>Business Visualizations</p>
+          <h1>Bizz Trak</h1>
+          <p>Business Visualizations for the modern entrepenuer</p>
         </div>
         <div className="col-sm">
+          git{" "}
           <div className="row">
             <h1>Amount Purchased Throughout the Day</h1>
           </div>

@@ -1,6 +1,6 @@
 import React from "react";
 import Money_Graph from "./money_graph";
-import CustHistogram from "./customer_histogram"
+import CustHistogram from "./customer_histogram";
 
 function home(props) {
   return (
@@ -8,7 +8,9 @@ function home(props) {
       <div className="row">
         <div className="col-sm">
           <Money_Graph />
-          <CustHistogram/>
+        </div>
+        <div className="col-sm">
+          <CustHistogram />
         </div>
       </div>
     </div>

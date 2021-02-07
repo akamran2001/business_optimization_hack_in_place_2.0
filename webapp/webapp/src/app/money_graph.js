@@ -1,6 +1,5 @@
 import React from "react";
 import { Chart } from "react-charts";
-import Data from "../data.json";
 import ResizableBox from "./ResizableBox";
 function Money_Graph() {
   const data = React.useMemo(

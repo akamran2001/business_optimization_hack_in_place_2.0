@@ -80,7 +80,7 @@ function CustHistogram() {
         height: "300px",
       }}
     >
-      <Chart data={data} axes={axes} series={series} />
+      <Chart data={data} axes={axes} series={series} tooltip />
     </div>
   );
   return barChart;

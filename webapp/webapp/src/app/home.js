@@ -15,7 +15,12 @@ function home(props) {
           </div>
         </div>
         <div className="col-sm">
-          <CustHistogram />
+          <div className="row">
+            <h1>Customer Frequency vs Time Period</h1>
+          </div>
+          <div className="row">
+            <CustHistogram />
+          </div>
         </div>
       </div>
     </div>

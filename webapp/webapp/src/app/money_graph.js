@@ -3,18 +3,6 @@ import { Chart } from "react-charts";
 import Data from "../data.json";
 import ResizableBox from "./ResizableBox";
 function Money_Graph() {
-  // let date_price = Data.map((item) => {
-  //   let currency = item["Purchase Price"];
-  //   let price = currency.slice(1, currency.length);
-  //   price = parseFloat(price);
-  //   const date = new Date(item.DateTime);
-  //   return {
-  //     x: date,
-  //     y: price,
-  //   };
-  // });
-  // date_price = date_price.slice(15, 25);
-  // console.log(date_price);
   const data = React.useMemo(
     () => [
       {

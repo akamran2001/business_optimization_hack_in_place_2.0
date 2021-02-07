@@ -15,7 +15,6 @@ function home(props) {
           <p>Business Visualizations for the modern entrepenuer</p>
         </div>
         <div className="col-sm">
-          git{" "}
           <div className="row">
             <h1>Amount Purchased Throughout the Day</h1>
           </div>

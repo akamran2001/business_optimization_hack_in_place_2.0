@@ -1,5 +1,6 @@
 import React from "react";
 import Money_Graph from "./money_graph";
+import InputButton from "./manual_input"
 import CustHistogram from "./customer_histogram";
 
 function home(props) {
@@ -21,6 +22,9 @@ function home(props) {
           <div className="row">
             <CustHistogram />
           </div>
+        </div>
+        <div>
+          <InputButton />
         </div>
       </div>
     </div>

@@ -1,0 +1,7002 @@
+[
+  {
+    "id": 1,
+    "DateTime": "2020-02-26 01:16:57",
+    "Product Name": "Lid Coffee Cup 8oz Blk",
+    "Purchase Price": "$10.61",
+    "Membership?": true
+  },
+  {
+    "id": 2,
+    "DateTime": "2020-01-26 10:08:48",
+    "Product Name": "Soup V8 Roasted Red Pepper",
+    "Purchase Price": "$10.44",
+    "Membership?": true
+  },
+  {
+    "id": 3,
+    "DateTime": "2020-02-27 09:49:38",
+    "Product Name": "Apple - Granny Smith",
+    "Purchase Price": "$39.43",
+    "Membership?": true
+  },
+  {
+    "id": 4,
+    "DateTime": "2020-03-07 00:18:53",
+    "Product Name": "Nutmeg - Ground",
+    "Purchase Price": "$36.52",
+    "Membership?": true
+  },
+  {
+    "id": 5,
+    "DateTime": "2020-02-13 20:35:54",
+    "Product Name": "Anchovy Paste - 56 G Tube",
+    "Purchase Price": "$27.24",
+    "Membership?": true
+  },
+  {
+    "id": 6,
+    "DateTime": "2020-02-16 15:52:47",
+    "Product Name": "Prunes - Pitted",
+    "Purchase Price": "$5.15",
+    "Membership?": false
+  },
+  {
+    "id": 7,
+    "DateTime": "2020-01-02 22:44:02",
+    "Product Name": "Venison - Ground",
+    "Purchase Price": "$13.26",
+    "Membership?": false
+  },
+  {
+    "id": 8,
+    "DateTime": "2020-03-07 18:26:16",
+    "Product Name": "Sunflower Seed Raw",
+    "Purchase Price": "$34.68",
+    "Membership?": false
+  },
+  {
+    "id": 9,
+    "DateTime": "2020-02-21 21:17:24",
+    "Product Name": "Soup - Campbells Bean Medley",
+    "Purchase Price": "$37.78",
+    "Membership?": false
+  },
+  {
+    "id": 10,
+    "DateTime": "2020-02-11 06:45:11",
+    "Product Name": "Bread - Multigrain, Loaf",
+    "Purchase Price": "$10.16",
+    "Membership?": true
+  },
+  {
+    "id": 11,
+    "DateTime": "2020-01-31 23:33:44",
+    "Product Name": "Grapes - Black",
+    "Purchase Price": "$27.73",
+    "Membership?": true
+  },
+  {
+    "id": 12,
+    "DateTime": "2020-02-18 22:55:52",
+    "Product Name": "Tomatoes - Vine Ripe, Yellow",
+    "Purchase Price": "$7.96",
+    "Membership?": true
+  },
+  {
+    "id": 13,
+    "DateTime": "2020-01-07 22:38:43",
+    "Product Name": "Beans - Black Bean, Dry",
+    "Purchase Price": "$23.25",
+    "Membership?": false
+  },
+  {
+    "id": 14,
+    "DateTime": "2020-01-27 10:42:26",
+    "Product Name": "Puree - Mocha",
+    "Purchase Price": "$7.67",
+    "Membership?": false
+  },
+  {
+    "id": 15,
+    "DateTime": "2020-01-31 07:13:53",
+    "Product Name": "Sauce - Rosee",
+    "Purchase Price": "$5.15",
+    "Membership?": true
+  },
+  {
+    "id": 16,
+    "DateTime": "2020-01-09 16:02:20",
+    "Product Name": "Soup - Campbells Chili Veg",
+    "Purchase Price": "$13.95",
+    "Membership?": true
+  },
+  {
+    "id": 17,
+    "DateTime": "2020-01-09 13:47:01",
+    "Product Name": "Juice - Clam, 46 Oz",
+    "Purchase Price": "$11.80",
+    "Membership?": true
+  },
+  {
+    "id": 18,
+    "DateTime": "2020-02-24 00:24:20",
+    "Product Name": "Wine - Carmenere Casillero Del",
+    "Purchase Price": "$33.42",
+    "Membership?": false
+  },
+  {
+    "id": 19,
+    "DateTime": "2020-03-14 21:55:23",
+    "Product Name": "Sauce - Thousand Island",
+    "Purchase Price": "$16.23",
+    "Membership?": false
+  },
+  {
+    "id": 20,
+    "DateTime": "2020-02-22 13:31:39",
+    "Product Name": "Bagel - Everything Presliced",
+    "Purchase Price": "$37.09",
+    "Membership?": false
+  },
+  {
+    "id": 21,
+    "DateTime": "2020-03-21 05:44:40",
+    "Product Name": "Sauce - Rosee",
+    "Purchase Price": "$26.13",
+    "Membership?": false
+  },
+  {
+    "id": 22,
+    "DateTime": "2020-03-18 13:11:20",
+    "Product Name": "Cakes Assorted",
+    "Purchase Price": "$22.52",
+    "Membership?": false
+  },
+  {
+    "id": 23,
+    "DateTime": "2020-01-29 10:40:49",
+    "Product Name": "Sugar - Icing",
+    "Purchase Price": "$24.92",
+    "Membership?": false
+  },
+  {
+    "id": 24,
+    "DateTime": "2020-02-18 00:40:19",
+    "Product Name": "Black Currants",
+    "Purchase Price": "$31.79",
+    "Membership?": false
+  },
+  {
+    "id": 25,
+    "DateTime": "2020-02-03 16:51:46",
+    "Product Name": "Appetizer - Assorted Box",
+    "Purchase Price": "$22.29",
+    "Membership?": false
+  },
+  {
+    "id": 26,
+    "DateTime": "2020-03-29 03:31:59",
+    "Product Name": "Cheese - Gorgonzola",
+    "Purchase Price": "$12.91",
+    "Membership?": false
+  },
+  {
+    "id": 27,
+    "DateTime": "2020-03-29 21:33:44",
+    "Product Name": "Pasta - Shells, Medium, Dry",
+    "Purchase Price": "$13.74",
+    "Membership?": false
+  },
+  {
+    "id": 28,
+    "DateTime": "2020-03-04 15:18:27",
+    "Product Name": "Crab Brie In Phyllo",
+    "Purchase Price": "$26.26",
+    "Membership?": false
+  },
+  {
+    "id": 29,
+    "DateTime": "2020-01-14 11:36:05",
+    "Product Name": "Spice - Montreal Steak Spice",
+    "Purchase Price": "$30.07",
+    "Membership?": true
+  },
+  {
+    "id": 30,
+    "DateTime": "2020-02-10 09:04:59",
+    "Product Name": "Quinoa",
+    "Purchase Price": "$25.41",
+    "Membership?": false
+  },
+  {
+    "id": 31,
+    "DateTime": "2020-02-23 06:04:04",
+    "Product Name": "Pastry - Butterscotch Baked",
+    "Purchase Price": "$7.00",
+    "Membership?": false
+  },
+  {
+    "id": 32,
+    "DateTime": "2020-03-31 11:59:27",
+    "Product Name": "Bread - 10 Grain Parisian",
+    "Purchase Price": "$17.78",
+    "Membership?": true
+  },
+  {
+    "id": 33,
+    "DateTime": "2020-03-11 11:42:33",
+    "Product Name": "Soup - Campbells Tomato Ravioli",
+    "Purchase Price": "$19.15",
+    "Membership?": false
+  },
+  {
+    "id": 34,
+    "DateTime": "2020-01-14 20:57:08",
+    "Product Name": "Muffin Hinge Container 6",
+    "Purchase Price": "$20.01",
+    "Membership?": false
+  },
+  {
+    "id": 35,
+    "DateTime": "2020-03-03 14:52:14",
+    "Product Name": "Yogurt - Strawberry, 175 Gr",
+    "Purchase Price": "$30.08",
+    "Membership?": false
+  },
+  {
+    "id": 36,
+    "DateTime": "2020-03-19 10:31:02",
+    "Product Name": "Lemon Pepper",
+    "Purchase Price": "$26.05",
+    "Membership?": false
+  },
+  {
+    "id": 37,
+    "DateTime": "2020-02-18 05:39:07",
+    "Product Name": "Pop Shoppe Cream Soda",
+    "Purchase Price": "$28.22",
+    "Membership?": false
+  },
+  {
+    "id": 38,
+    "DateTime": "2020-03-23 11:38:33",
+    "Product Name": "Ice Cream Bar - Rolo Cone",
+    "Purchase Price": "$29.80",
+    "Membership?": false
+  },
+  {
+    "id": 39,
+    "DateTime": "2020-02-05 18:09:55",
+    "Product Name": "Yams",
+    "Purchase Price": "$7.17",
+    "Membership?": true
+  },
+  {
+    "id": 40,
+    "DateTime": "2020-01-21 01:51:10",
+    "Product Name": "Cheese - Perron Cheddar",
+    "Purchase Price": "$28.76",
+    "Membership?": true
+  },
+  {
+    "id": 41,
+    "DateTime": "2020-03-17 06:16:16",
+    "Product Name": "Muffin - Zero Transfat",
+    "Purchase Price": "$22.49",
+    "Membership?": false
+  },
+  {
+    "id": 42,
+    "DateTime": "2020-03-06 15:02:57",
+    "Product Name": "Ice - Clear, 300 Lb For Carving",
+    "Purchase Price": "$37.61",
+    "Membership?": false
+  },
+  {
+    "id": 43,
+    "DateTime": "2020-03-15 05:01:47",
+    "Product Name": "Veal - Tenderloin, Untrimmed",
+    "Purchase Price": "$6.33",
+    "Membership?": false
+  },
+  {
+    "id": 44,
+    "DateTime": "2020-01-23 17:26:38",
+    "Product Name": "Sauce - Fish 25 Ozf Bottle",
+    "Purchase Price": "$33.29",
+    "Membership?": true
+  },
+  {
+    "id": 45,
+    "DateTime": "2020-03-07 20:50:51",
+    "Product Name": "Gloves - Goldtouch Disposable",
+    "Purchase Price": "$38.99",
+    "Membership?": true
+  },
+  {
+    "id": 46,
+    "DateTime": "2020-03-29 21:36:01",
+    "Product Name": "Cilantro / Coriander - Fresh",
+    "Purchase Price": "$18.93",
+    "Membership?": true
+  },
+  {
+    "id": 47,
+    "DateTime": "2020-02-11 10:07:07",
+    "Product Name": "Chips - Doritos",
+    "Purchase Price": "$20.69",
+    "Membership?": false
+  },
+  {
+    "id": 48,
+    "DateTime": "2020-02-10 17:48:34",
+    "Product Name": "Sugar - Palm",
+    "Purchase Price": "$24.16",
+    "Membership?": true
+  },
+  {
+    "id": 49,
+    "DateTime": "2020-01-22 00:57:45",
+    "Product Name": "Wine - White, Gewurtzraminer",
+    "Purchase Price": "$31.91",
+    "Membership?": false
+  },
+  {
+    "id": 50,
+    "DateTime": "2020-01-11 11:35:38",
+    "Product Name": "Gloves - Goldtouch Disposable",
+    "Purchase Price": "$26.40",
+    "Membership?": false
+  },
+  {
+    "id": 51,
+    "DateTime": "2020-02-25 02:34:14",
+    "Product Name": "Cheese - Brie, Triple Creme",
+    "Purchase Price": "$22.38",
+    "Membership?": false
+  },
+  {
+    "id": 52,
+    "DateTime": "2020-03-03 14:25:25",
+    "Product Name": "Cheese - Pont Couvert",
+    "Purchase Price": "$31.64",
+    "Membership?": false
+  },
+  {
+    "id": 53,
+    "DateTime": "2020-03-20 07:11:22",
+    "Product Name": "Soup - French Can Pea",
+    "Purchase Price": "$12.27",
+    "Membership?": true
+  },
+  {
+    "id": 54,
+    "DateTime": "2020-01-25 17:26:08",
+    "Product Name": "Juice - Cranberry, 341 Ml",
+    "Purchase Price": "$24.43",
+    "Membership?": false
+  },
+  {
+    "id": 55,
+    "DateTime": "2020-01-05 07:16:51",
+    "Product Name": "Tea - Apple Green Tea",
+    "Purchase Price": "$23.05",
+    "Membership?": false
+  },
+  {
+    "id": 56,
+    "DateTime": "2020-01-26 08:59:19",
+    "Product Name": "Flower - Daisies",
+    "Purchase Price": "$17.39",
+    "Membership?": false
+  },
+  {
+    "id": 57,
+    "DateTime": "2020-03-06 02:27:35",
+    "Product Name": "Chevril",
+    "Purchase Price": "$30.00",
+    "Membership?": false
+  },
+  {
+    "id": 58,
+    "DateTime": "2020-03-06 01:01:48",
+    "Product Name": "Appetizer - Sausage Rolls",
+    "Purchase Price": "$18.43",
+    "Membership?": false
+  },
+  {
+    "id": 59,
+    "DateTime": "2020-02-24 22:01:23",
+    "Product Name": "Dc Hikiage Hira Huba",
+    "Purchase Price": "$5.21",
+    "Membership?": true
+  },
+  {
+    "id": 60,
+    "DateTime": "2020-03-21 23:00:54",
+    "Product Name": "Crackers - Graham",
+    "Purchase Price": "$30.23",
+    "Membership?": false
+  },
+  {
+    "id": 61,
+    "DateTime": "2020-02-03 12:52:55",
+    "Product Name": "Liqueur - Melon",
+    "Purchase Price": "$11.90",
+    "Membership?": false
+  },
+  {
+    "id": 62,
+    "DateTime": "2020-03-28 13:42:24",
+    "Product Name": "Mix - Cappucino Cocktail",
+    "Purchase Price": "$36.77",
+    "Membership?": true
+  },
+  {
+    "id": 63,
+    "DateTime": "2020-01-02 06:20:22",
+    "Product Name": "Sauce - Rosee",
+    "Purchase Price": "$11.49",
+    "Membership?": false
+  },
+  {
+    "id": 64,
+    "DateTime": "2020-02-22 17:10:45",
+    "Product Name": "Pineapple - Regular",
+    "Purchase Price": "$35.18",
+    "Membership?": false
+  },
+  {
+    "id": 65,
+    "DateTime": "2020-02-16 19:14:41",
+    "Product Name": "Rice - Jasmine Sented",
+    "Purchase Price": "$39.25",
+    "Membership?": false
+  },
+  {
+    "id": 66,
+    "DateTime": "2020-02-28 09:14:57",
+    "Product Name": "Leeks - Large",
+    "Purchase Price": "$20.27",
+    "Membership?": false
+  },
+  {
+    "id": 67,
+    "DateTime": "2020-03-14 06:41:46",
+    "Product Name": "Bread - Granary Small Pull",
+    "Purchase Price": "$21.05",
+    "Membership?": false
+  },
+  {
+    "id": 68,
+    "DateTime": "2020-02-21 16:11:05",
+    "Product Name": "Grapes - Black",
+    "Purchase Price": "$35.19",
+    "Membership?": true
+  },
+  {
+    "id": 69,
+    "DateTime": "2020-01-21 14:36:02",
+    "Product Name": "Soup - Campbells Broccoli",
+    "Purchase Price": "$20.80",
+    "Membership?": false
+  },
+  {
+    "id": 70,
+    "DateTime": "2020-02-27 20:58:21",
+    "Product Name": "Halibut - Whole, Fresh",
+    "Purchase Price": "$18.23",
+    "Membership?": false
+  },
+  {
+    "id": 71,
+    "DateTime": "2020-01-18 12:45:14",
+    "Product Name": "Cream Of Tartar",
+    "Purchase Price": "$36.20",
+    "Membership?": false
+  },
+  {
+    "id": 72,
+    "DateTime": "2020-03-11 01:41:34",
+    "Product Name": "Trueblue - Blueberry",
+    "Purchase Price": "$33.15",
+    "Membership?": true
+  },
+  {
+    "id": 73,
+    "DateTime": "2020-02-11 13:00:43",
+    "Product Name": "Longos - Lasagna Beef",
+    "Purchase Price": "$24.63",
+    "Membership?": true
+  },
+  {
+    "id": 74,
+    "DateTime": "2020-02-29 02:26:13",
+    "Product Name": "Glass - Wine, Plastic, Clear 5 Oz",
+    "Purchase Price": "$21.88",
+    "Membership?": true
+  },
+  {
+    "id": 75,
+    "DateTime": "2020-03-18 00:11:56",
+    "Product Name": "Lamb Rack Frenched Australian",
+    "Purchase Price": "$19.23",
+    "Membership?": true
+  },
+  {
+    "id": 76,
+    "DateTime": "2020-02-15 18:52:09",
+    "Product Name": "Watercress",
+    "Purchase Price": "$14.28",
+    "Membership?": false
+  },
+  {
+    "id": 77,
+    "DateTime": "2020-03-29 03:11:54",
+    "Product Name": "Crackers - Soda / Saltins",
+    "Purchase Price": "$6.87",
+    "Membership?": true
+  },
+  {
+    "id": 78,
+    "DateTime": "2020-01-05 05:12:28",
+    "Product Name": "Pickles - Gherkins",
+    "Purchase Price": "$11.34",
+    "Membership?": true
+  },
+  {
+    "id": 79,
+    "DateTime": "2020-01-06 20:31:58",
+    "Product Name": "Baking Soda",
+    "Purchase Price": "$32.07",
+    "Membership?": false
+  },
+  {
+    "id": 80,
+    "DateTime": "2020-01-09 01:25:17",
+    "Product Name": "Chevril",
+    "Purchase Price": "$17.97",
+    "Membership?": false
+  },
+  {
+    "id": 81,
+    "DateTime": "2020-03-27 16:18:36",
+    "Product Name": "Chocolate - Dark",
+    "Purchase Price": "$21.16",
+    "Membership?": false
+  },
+  {
+    "id": 82,
+    "DateTime": "2020-03-17 17:41:21",
+    "Product Name": "Pepper - Green Thai",
+    "Purchase Price": "$20.21",
+    "Membership?": false
+  },
+  {
+    "id": 83,
+    "DateTime": "2020-02-02 01:07:29",
+    "Product Name": "Thyme - Fresh",
+    "Purchase Price": "$24.07",
+    "Membership?": false
+  },
+  {
+    "id": 84,
+    "DateTime": "2020-01-09 22:46:21",
+    "Product Name": "Beets - Mini Golden",
+    "Purchase Price": "$19.40",
+    "Membership?": false
+  },
+  {
+    "id": 85,
+    "DateTime": "2020-03-08 04:14:56",
+    "Product Name": "Milk - Homo",
+    "Purchase Price": "$38.67",
+    "Membership?": true
+  },
+  {
+    "id": 86,
+    "DateTime": "2020-03-11 07:23:37",
+    "Product Name": "Shrimp - 31/40",
+    "Purchase Price": "$24.97",
+    "Membership?": true
+  },
+  {
+    "id": 87,
+    "DateTime": "2020-03-22 19:22:53",
+    "Product Name": "Wine - Magnotta - Belpaese",
+    "Purchase Price": "$7.01",
+    "Membership?": false
+  },
+  {
+    "id": 88,
+    "DateTime": "2020-03-02 18:15:33",
+    "Product Name": "Onions - Green",
+    "Purchase Price": "$37.20",
+    "Membership?": true
+  },
+  {
+    "id": 89,
+    "DateTime": "2020-02-20 11:55:54",
+    "Product Name": "Coffee - 10oz Cup 92961",
+    "Purchase Price": "$18.95",
+    "Membership?": true
+  },
+  {
+    "id": 90,
+    "DateTime": "2020-03-14 23:41:07",
+    "Product Name": "Longos - Grilled Salmon With Bbq",
+    "Purchase Price": "$28.55",
+    "Membership?": false
+  },
+  {
+    "id": 91,
+    "DateTime": "2020-01-19 01:29:41",
+    "Product Name": "Vector Energy Bar",
+    "Purchase Price": "$16.55",
+    "Membership?": false
+  },
+  {
+    "id": 92,
+    "DateTime": "2020-01-14 18:35:59",
+    "Product Name": "Wine - Prosecco Valdobiaddene",
+    "Purchase Price": "$9.95",
+    "Membership?": true
+  },
+  {
+    "id": 93,
+    "DateTime": "2020-01-11 08:44:13",
+    "Product Name": "Pepper - Red Chili",
+    "Purchase Price": "$24.15",
+    "Membership?": true
+  },
+  {
+    "id": 94,
+    "DateTime": "2020-02-24 17:36:05",
+    "Product Name": "Cranberry Foccacia",
+    "Purchase Price": "$33.38",
+    "Membership?": false
+  },
+  {
+    "id": 95,
+    "DateTime": "2020-02-27 23:04:07",
+    "Product Name": "Flour - Teff",
+    "Purchase Price": "$28.63",
+    "Membership?": true
+  },
+  {
+    "id": 96,
+    "DateTime": "2020-02-22 07:56:55",
+    "Product Name": "Rice Pilaf, Dry,package",
+    "Purchase Price": "$12.83",
+    "Membership?": false
+  },
+  {
+    "id": 97,
+    "DateTime": "2020-03-14 10:34:02",
+    "Product Name": "Clam Nectar",
+    "Purchase Price": "$5.83",
+    "Membership?": false
+  },
+  {
+    "id": 98,
+    "DateTime": "2020-01-22 07:26:55",
+    "Product Name": "Smirnoff Green Apple Twist",
+    "Purchase Price": "$12.34",
+    "Membership?": false
+  },
+  {
+    "id": 99,
+    "DateTime": "2020-02-29 18:44:58",
+    "Product Name": "Soup - Knorr, Country Bean",
+    "Purchase Price": "$29.05",
+    "Membership?": true
+  },
+  {
+    "id": 100,
+    "DateTime": "2020-01-29 03:50:53",
+    "Product Name": "Teriyaki Sauce",
+    "Purchase Price": "$5.47",
+    "Membership?": false
+  },
+  {
+    "id": 101,
+    "DateTime": "2020-01-11 18:24:42",
+    "Product Name": "Bread - Wheat Baguette",
+    "Purchase Price": "$7.04",
+    "Membership?": true
+  },
+  {
+    "id": 102,
+    "DateTime": "2020-02-09 07:18:12",
+    "Product Name": "Pork - Loin, Center Cut",
+    "Purchase Price": "$31.80",
+    "Membership?": true
+  },
+  {
+    "id": 103,
+    "DateTime": "2020-02-09 04:10:29",
+    "Product Name": "Flour - Corn, Fine",
+    "Purchase Price": "$10.00",
+    "Membership?": true
+  },
+  {
+    "id": 104,
+    "DateTime": "2020-01-24 16:19:34",
+    "Product Name": "Cookies - Fortune",
+    "Purchase Price": "$14.14",
+    "Membership?": true
+  },
+  {
+    "id": 105,
+    "DateTime": "2020-02-12 06:59:41",
+    "Product Name": "Beef - Inside Round",
+    "Purchase Price": "$23.88",
+    "Membership?": false
+  },
+  {
+    "id": 106,
+    "DateTime": "2020-03-31 21:34:55",
+    "Product Name": "7up Diet, 355 Ml",
+    "Purchase Price": "$8.94",
+    "Membership?": true
+  },
+  {
+    "id": 107,
+    "DateTime": "2020-01-13 06:52:47",
+    "Product Name": "Honey - Liquid",
+    "Purchase Price": "$28.59",
+    "Membership?": false
+  },
+  {
+    "id": 108,
+    "DateTime": "2020-02-04 01:22:12",
+    "Product Name": "Oil - Shortening,liqud, Fry",
+    "Purchase Price": "$32.92",
+    "Membership?": false
+  },
+  {
+    "id": 109,
+    "DateTime": "2020-02-09 18:42:26",
+    "Product Name": "Sambuca - Ramazzotti",
+    "Purchase Price": "$33.52",
+    "Membership?": true
+  },
+  {
+    "id": 110,
+    "DateTime": "2020-01-31 11:56:55",
+    "Product Name": "Yogurt - Banana, 175 Gr",
+    "Purchase Price": "$5.52",
+    "Membership?": false
+  },
+  {
+    "id": 111,
+    "DateTime": "2020-03-16 01:55:20",
+    "Product Name": "Beef - Outside, Round",
+    "Purchase Price": "$31.51",
+    "Membership?": false
+  },
+  {
+    "id": 112,
+    "DateTime": "2020-02-04 19:22:28",
+    "Product Name": "Garam Marsala",
+    "Purchase Price": "$7.97",
+    "Membership?": true
+  },
+  {
+    "id": 113,
+    "DateTime": "2020-03-08 03:26:56",
+    "Product Name": "Cumin - Whole",
+    "Purchase Price": "$12.03",
+    "Membership?": false
+  },
+  {
+    "id": 114,
+    "DateTime": "2020-02-03 03:00:46",
+    "Product Name": "Squash - Pattypan, Yellow",
+    "Purchase Price": "$19.71",
+    "Membership?": false
+  },
+  {
+    "id": 115,
+    "DateTime": "2020-02-01 11:49:01",
+    "Product Name": "Basil - Dry, Rubbed",
+    "Purchase Price": "$36.65",
+    "Membership?": true
+  },
+  {
+    "id": 116,
+    "DateTime": "2020-01-17 01:33:59",
+    "Product Name": "Chicken - Whole Fryers",
+    "Purchase Price": "$37.08",
+    "Membership?": false
+  },
+  {
+    "id": 117,
+    "DateTime": "2020-03-31 19:00:40",
+    "Product Name": "Cheese - Valancey",
+    "Purchase Price": "$29.31",
+    "Membership?": true
+  },
+  {
+    "id": 118,
+    "DateTime": "2020-03-02 21:02:00",
+    "Product Name": "Mousse - Banana Chocolate",
+    "Purchase Price": "$27.34",
+    "Membership?": false
+  },
+  {
+    "id": 119,
+    "DateTime": "2020-02-18 15:50:50",
+    "Product Name": "Juice - Apple 284ml",
+    "Purchase Price": "$24.88",
+    "Membership?": false
+  },
+  {
+    "id": 120,
+    "DateTime": "2020-03-18 11:35:28",
+    "Product Name": "Carbonated Water - Cherry",
+    "Purchase Price": "$27.62",
+    "Membership?": true
+  },
+  {
+    "id": 121,
+    "DateTime": "2020-02-07 19:55:17",
+    "Product Name": "Nut - Almond, Blanched, Sliced",
+    "Purchase Price": "$35.62",
+    "Membership?": true
+  },
+  {
+    "id": 122,
+    "DateTime": "2020-01-17 17:28:46",
+    "Product Name": "Artichoke - Fresh",
+    "Purchase Price": "$37.51",
+    "Membership?": false
+  },
+  {
+    "id": 123,
+    "DateTime": "2020-03-10 22:27:24",
+    "Product Name": "Lotus Rootlets - Canned",
+    "Purchase Price": "$13.71",
+    "Membership?": true
+  },
+  {
+    "id": 124,
+    "DateTime": "2020-03-22 14:19:43",
+    "Product Name": "Wonton Wrappers",
+    "Purchase Price": "$20.26",
+    "Membership?": false
+  },
+  {
+    "id": 125,
+    "DateTime": "2020-01-05 06:40:56",
+    "Product Name": "Loquat",
+    "Purchase Price": "$14.91",
+    "Membership?": true
+  },
+  {
+    "id": 126,
+    "DateTime": "2020-01-17 16:25:23",
+    "Product Name": "Cheese - St. Paulin",
+    "Purchase Price": "$27.29",
+    "Membership?": true
+  },
+  {
+    "id": 127,
+    "DateTime": "2020-01-14 01:05:28",
+    "Product Name": "Wine - Pinot Noir Mondavi Coastal",
+    "Purchase Price": "$26.36",
+    "Membership?": false
+  },
+  {
+    "id": 128,
+    "DateTime": "2020-02-29 16:39:24",
+    "Product Name": "Beer - Moosehead",
+    "Purchase Price": "$18.19",
+    "Membership?": true
+  },
+  {
+    "id": 129,
+    "DateTime": "2020-02-02 14:13:12",
+    "Product Name": "Grapes - Green",
+    "Purchase Price": "$24.98",
+    "Membership?": true
+  },
+  {
+    "id": 130,
+    "DateTime": "2020-01-15 17:50:15",
+    "Product Name": "Chocolate Bar - Reese Pieces",
+    "Purchase Price": "$6.77",
+    "Membership?": true
+  },
+  {
+    "id": 131,
+    "DateTime": "2020-03-12 08:20:54",
+    "Product Name": "Wine - Montecillo Rioja Crianza",
+    "Purchase Price": "$14.23",
+    "Membership?": false
+  },
+  {
+    "id": 132,
+    "DateTime": "2020-01-02 21:20:56",
+    "Product Name": "Carbonated Water - Strawberry",
+    "Purchase Price": "$18.75",
+    "Membership?": true
+  },
+  {
+    "id": 133,
+    "DateTime": "2020-01-27 16:37:29",
+    "Product Name": "Chocolate - Compound Coating",
+    "Purchase Price": "$32.61",
+    "Membership?": true
+  },
+  {
+    "id": 134,
+    "DateTime": "2020-02-28 01:36:45",
+    "Product Name": "Rappini - Andy Boy",
+    "Purchase Price": "$27.07",
+    "Membership?": false
+  },
+  {
+    "id": 135,
+    "DateTime": "2020-03-31 18:31:12",
+    "Product Name": "Carbonated Water - Blackberry",
+    "Purchase Price": "$10.62",
+    "Membership?": false
+  },
+  {
+    "id": 136,
+    "DateTime": "2020-02-04 23:22:45",
+    "Product Name": "Chocolate Bar - Reese Pieces",
+    "Purchase Price": "$37.39",
+    "Membership?": true
+  },
+  {
+    "id": 137,
+    "DateTime": "2020-03-14 15:23:59",
+    "Product Name": "Mayonnaise",
+    "Purchase Price": "$22.19",
+    "Membership?": true
+  },
+  {
+    "id": 138,
+    "DateTime": "2020-03-18 17:15:38",
+    "Product Name": "Beans - Wax",
+    "Purchase Price": "$12.60",
+    "Membership?": true
+  },
+  {
+    "id": 139,
+    "DateTime": "2020-03-23 18:28:26",
+    "Product Name": "Pork - Ham Hocks - Smoked",
+    "Purchase Price": "$13.79",
+    "Membership?": true
+  },
+  {
+    "id": 140,
+    "DateTime": "2020-01-11 06:53:21",
+    "Product Name": "Appetizer - Crab And Brie",
+    "Purchase Price": "$6.26",
+    "Membership?": false
+  },
+  {
+    "id": 141,
+    "DateTime": "2020-02-19 01:24:25",
+    "Product Name": "Tarragon - Primerba, Paste",
+    "Purchase Price": "$7.67",
+    "Membership?": true
+  },
+  {
+    "id": 142,
+    "DateTime": "2020-02-23 07:18:16",
+    "Product Name": "Silicone Parch. 16.3x24.3",
+    "Purchase Price": "$22.10",
+    "Membership?": false
+  },
+  {
+    "id": 143,
+    "DateTime": "2020-03-12 12:21:08",
+    "Product Name": "Cup - 4oz Translucent",
+    "Purchase Price": "$31.35",
+    "Membership?": true
+  },
+  {
+    "id": 144,
+    "DateTime": "2020-01-05 18:00:31",
+    "Product Name": "Oil - Shortening,liqud, Fry",
+    "Purchase Price": "$39.91",
+    "Membership?": true
+  },
+  {
+    "id": 145,
+    "DateTime": "2020-01-29 20:06:43",
+    "Product Name": "Pear - Prickly",
+    "Purchase Price": "$39.45",
+    "Membership?": false
+  },
+  {
+    "id": 146,
+    "DateTime": "2020-03-14 00:09:55",
+    "Product Name": "Grenadillo",
+    "Purchase Price": "$20.32",
+    "Membership?": false
+  },
+  {
+    "id": 147,
+    "DateTime": "2020-01-02 02:24:04",
+    "Product Name": "Chutney Sauce",
+    "Purchase Price": "$33.55",
+    "Membership?": false
+  },
+  {
+    "id": 148,
+    "DateTime": "2020-01-22 02:13:07",
+    "Product Name": "Yokaline",
+    "Purchase Price": "$12.03",
+    "Membership?": true
+  },
+  {
+    "id": 149,
+    "DateTime": "2020-03-12 10:25:16",
+    "Product Name": "Soup - Base Broth Chix",
+    "Purchase Price": "$10.28",
+    "Membership?": false
+  },
+  {
+    "id": 150,
+    "DateTime": "2020-01-27 11:14:11",
+    "Product Name": "Cinnamon Rolls",
+    "Purchase Price": "$19.87",
+    "Membership?": true
+  },
+  {
+    "id": 151,
+    "DateTime": "2020-01-16 03:19:39",
+    "Product Name": "Myers Planters Punch",
+    "Purchase Price": "$29.20",
+    "Membership?": true
+  },
+  {
+    "id": 152,
+    "DateTime": "2020-02-15 22:03:41",
+    "Product Name": "Cheese - Camembert",
+    "Purchase Price": "$7.37",
+    "Membership?": true
+  },
+  {
+    "id": 153,
+    "DateTime": "2020-02-08 16:40:47",
+    "Product Name": "V8 Splash Strawberry Kiwi",
+    "Purchase Price": "$16.03",
+    "Membership?": true
+  },
+  {
+    "id": 154,
+    "DateTime": "2020-03-13 15:59:56",
+    "Product Name": "Chicken - Whole Roasting",
+    "Purchase Price": "$7.54",
+    "Membership?": false
+  },
+  {
+    "id": 155,
+    "DateTime": "2020-01-19 06:46:58",
+    "Product Name": "Cumin - Ground",
+    "Purchase Price": "$10.51",
+    "Membership?": true
+  },
+  {
+    "id": 156,
+    "DateTime": "2020-03-16 00:08:25",
+    "Product Name": "Veal - Knuckle",
+    "Purchase Price": "$7.16",
+    "Membership?": true
+  },
+  {
+    "id": 157,
+    "DateTime": "2020-03-09 14:55:40",
+    "Product Name": "Avocado",
+    "Purchase Price": "$7.44",
+    "Membership?": true
+  },
+  {
+    "id": 158,
+    "DateTime": "2020-03-14 13:55:01",
+    "Product Name": "Cream Of Tartar",
+    "Purchase Price": "$21.51",
+    "Membership?": false
+  },
+  {
+    "id": 159,
+    "DateTime": "2020-02-08 17:10:47",
+    "Product Name": "Pears - Fiorelle",
+    "Purchase Price": "$32.83",
+    "Membership?": true
+  },
+  {
+    "id": 160,
+    "DateTime": "2020-02-13 04:39:42",
+    "Product Name": "Star Anise, Whole",
+    "Purchase Price": "$39.55",
+    "Membership?": true
+  },
+  {
+    "id": 161,
+    "DateTime": "2020-03-25 05:06:22",
+    "Product Name": "Wine - Muscadet Sur Lie",
+    "Purchase Price": "$6.69",
+    "Membership?": true
+  },
+  {
+    "id": 162,
+    "DateTime": "2020-02-16 03:18:13",
+    "Product Name": "Cheese - Oka",
+    "Purchase Price": "$37.16",
+    "Membership?": false
+  },
+  {
+    "id": 163,
+    "DateTime": "2020-01-14 06:21:45",
+    "Product Name": "Cheese - Boursin, Garlic / Herbs",
+    "Purchase Price": "$7.36",
+    "Membership?": true
+  },
+  {
+    "id": 164,
+    "DateTime": "2020-03-26 11:57:01",
+    "Product Name": "Nougat - Paste / Cream",
+    "Purchase Price": "$35.66",
+    "Membership?": false
+  },
+  {
+    "id": 165,
+    "DateTime": "2020-01-24 10:31:33",
+    "Product Name": "Oil - Truffle, White",
+    "Purchase Price": "$16.31",
+    "Membership?": true
+  },
+  {
+    "id": 166,
+    "DateTime": "2020-02-22 12:18:30",
+    "Product Name": "Veal - Loin",
+    "Purchase Price": "$22.45",
+    "Membership?": false
+  },
+  {
+    "id": 167,
+    "DateTime": "2020-01-04 05:20:57",
+    "Product Name": "Cheese - Augre Des Champs",
+    "Purchase Price": "$29.31",
+    "Membership?": false
+  },
+  {
+    "id": 168,
+    "DateTime": "2020-01-20 13:33:17",
+    "Product Name": "Chicken - Ground",
+    "Purchase Price": "$27.57",
+    "Membership?": true
+  },
+  {
+    "id": 169,
+    "DateTime": "2020-03-28 16:05:17",
+    "Product Name": "Lid - Translucent, 3.5 And 6 Oz",
+    "Purchase Price": "$17.48",
+    "Membership?": false
+  },
+  {
+    "id": 170,
+    "DateTime": "2020-01-23 03:17:38",
+    "Product Name": "Beef - Kobe Striploin",
+    "Purchase Price": "$11.12",
+    "Membership?": true
+  },
+  {
+    "id": 171,
+    "DateTime": "2020-01-28 23:43:16",
+    "Product Name": "Coconut - Whole",
+    "Purchase Price": "$5.30",
+    "Membership?": false
+  },
+  {
+    "id": 172,
+    "DateTime": "2020-02-06 00:22:58",
+    "Product Name": "Lamb - Bones",
+    "Purchase Price": "$10.02",
+    "Membership?": false
+  },
+  {
+    "id": 173,
+    "DateTime": "2020-01-25 16:24:29",
+    "Product Name": "Peas Snow",
+    "Purchase Price": "$14.02",
+    "Membership?": true
+  },
+  {
+    "id": 174,
+    "DateTime": "2020-02-24 08:38:20",
+    "Product Name": "Bread - French Stick",
+    "Purchase Price": "$18.93",
+    "Membership?": true
+  },
+  {
+    "id": 175,
+    "DateTime": "2020-01-04 11:08:06",
+    "Product Name": "Poppy Seed",
+    "Purchase Price": "$14.76",
+    "Membership?": true
+  },
+  {
+    "id": 176,
+    "DateTime": "2020-03-31 06:40:32",
+    "Product Name": "Turkey - Breast, Smoked",
+    "Purchase Price": "$19.04",
+    "Membership?": true
+  },
+  {
+    "id": 177,
+    "DateTime": "2020-01-11 09:54:29",
+    "Product Name": "Wine - Chateau Bonnet",
+    "Purchase Price": "$29.24",
+    "Membership?": true
+  },
+  {
+    "id": 178,
+    "DateTime": "2020-02-07 02:56:24",
+    "Product Name": "Mini - Vol Au Vents",
+    "Purchase Price": "$12.13",
+    "Membership?": true
+  },
+  {
+    "id": 179,
+    "DateTime": "2020-02-01 19:30:14",
+    "Product Name": "Flower - Daisies",
+    "Purchase Price": "$8.70",
+    "Membership?": false
+  },
+  {
+    "id": 180,
+    "DateTime": "2020-02-15 15:35:37",
+    "Product Name": "Beans - French",
+    "Purchase Price": "$17.84",
+    "Membership?": false
+  },
+  {
+    "id": 181,
+    "DateTime": "2020-03-27 01:48:29",
+    "Product Name": "Juice - Apple 284ml",
+    "Purchase Price": "$26.10",
+    "Membership?": false
+  },
+  {
+    "id": 182,
+    "DateTime": "2020-01-30 08:45:24",
+    "Product Name": "Bagelers - Cinn / Brown",
+    "Purchase Price": "$23.11",
+    "Membership?": true
+  },
+  {
+    "id": 183,
+    "DateTime": "2020-01-15 01:48:12",
+    "Product Name": "Onion - Dried",
+    "Purchase Price": "$21.98",
+    "Membership?": true
+  },
+  {
+    "id": 184,
+    "DateTime": "2020-03-05 08:44:15",
+    "Product Name": "Beef - Ground Medium",
+    "Purchase Price": "$5.73",
+    "Membership?": false
+  },
+  {
+    "id": 185,
+    "DateTime": "2020-03-09 08:29:17",
+    "Product Name": "Pepsi - 600ml",
+    "Purchase Price": "$10.15",
+    "Membership?": true
+  },
+  {
+    "id": 186,
+    "DateTime": "2020-03-27 02:39:28",
+    "Product Name": "Beef - Tenderloin Tails",
+    "Purchase Price": "$26.50",
+    "Membership?": true
+  },
+  {
+    "id": 187,
+    "DateTime": "2020-03-19 22:14:51",
+    "Product Name": "Chicken - Whole Fryers",
+    "Purchase Price": "$35.34",
+    "Membership?": false
+  },
+  {
+    "id": 188,
+    "DateTime": "2020-01-25 07:57:33",
+    "Product Name": "Wine - Gewurztraminer Pierre",
+    "Purchase Price": "$8.40",
+    "Membership?": false
+  },
+  {
+    "id": 189,
+    "DateTime": "2020-03-05 01:51:26",
+    "Product Name": "Wine - Blue Nun Qualitatswein",
+    "Purchase Price": "$33.23",
+    "Membership?": true
+  },
+  {
+    "id": 190,
+    "DateTime": "2020-02-22 20:58:15",
+    "Product Name": "Rosemary - Dry",
+    "Purchase Price": "$8.72",
+    "Membership?": false
+  },
+  {
+    "id": 191,
+    "DateTime": "2020-03-23 23:55:31",
+    "Product Name": "Food Colouring - Pink",
+    "Purchase Price": "$37.56",
+    "Membership?": true
+  },
+  {
+    "id": 192,
+    "DateTime": "2020-01-03 03:22:31",
+    "Product Name": "Napkin - Beverage 1 Ply",
+    "Purchase Price": "$15.96",
+    "Membership?": false
+  },
+  {
+    "id": 193,
+    "DateTime": "2020-02-04 11:24:03",
+    "Product Name": "Bagel - 12 Grain Preslice",
+    "Purchase Price": "$26.74",
+    "Membership?": true
+  },
+  {
+    "id": 194,
+    "DateTime": "2020-01-26 10:25:15",
+    "Product Name": "Lettuce - Spring Mix",
+    "Purchase Price": "$35.96",
+    "Membership?": false
+  },
+  {
+    "id": 195,
+    "DateTime": "2020-02-16 22:20:40",
+    "Product Name": "Wine - Masi Valpolocell",
+    "Purchase Price": "$9.20",
+    "Membership?": true
+  },
+  {
+    "id": 196,
+    "DateTime": "2020-02-08 16:49:59",
+    "Product Name": "Onions - White",
+    "Purchase Price": "$21.71",
+    "Membership?": false
+  },
+  {
+    "id": 197,
+    "DateTime": "2020-02-09 11:21:35",
+    "Product Name": "Pasta - Bauletti, Chicken White",
+    "Purchase Price": "$23.60",
+    "Membership?": true
+  },
+  {
+    "id": 198,
+    "DateTime": "2020-02-05 06:13:22",
+    "Product Name": "Chicken Thigh - Bone Out",
+    "Purchase Price": "$30.39",
+    "Membership?": true
+  },
+  {
+    "id": 199,
+    "DateTime": "2020-03-30 06:21:14",
+    "Product Name": "Baking Powder",
+    "Purchase Price": "$7.87",
+    "Membership?": true
+  },
+  {
+    "id": 200,
+    "DateTime": "2020-01-23 10:35:00",
+    "Product Name": "The Pop Shoppe - Black Cherry",
+    "Purchase Price": "$32.53",
+    "Membership?": true
+  },
+  {
+    "id": 201,
+    "DateTime": "2020-03-05 10:48:58",
+    "Product Name": "Cheese - Sheep Milk",
+    "Purchase Price": "$6.55",
+    "Membership?": false
+  },
+  {
+    "id": 202,
+    "DateTime": "2020-02-05 15:40:06",
+    "Product Name": "Cake - Cake Sheet Macaroon",
+    "Purchase Price": "$29.89",
+    "Membership?": true
+  },
+  {
+    "id": 203,
+    "DateTime": "2020-03-14 21:18:23",
+    "Product Name": "Cup - 8oz Coffee Perforated",
+    "Purchase Price": "$9.45",
+    "Membership?": false
+  },
+  {
+    "id": 204,
+    "DateTime": "2020-02-29 13:27:58",
+    "Product Name": "Mussels - Frozen",
+    "Purchase Price": "$18.59",
+    "Membership?": true
+  },
+  {
+    "id": 205,
+    "DateTime": "2020-01-04 03:29:25",
+    "Product Name": "Wine - Mondavi Coastal Private",
+    "Purchase Price": "$39.28",
+    "Membership?": true
+  },
+  {
+    "id": 206,
+    "DateTime": "2020-01-09 07:10:51",
+    "Product Name": "Lemonade - Pineapple Passion",
+    "Purchase Price": "$11.05",
+    "Membership?": true
+  },
+  {
+    "id": 207,
+    "DateTime": "2020-02-04 07:45:52",
+    "Product Name": "Soup - Campbells Beef Strogonoff",
+    "Purchase Price": "$7.70",
+    "Membership?": false
+  },
+  {
+    "id": 208,
+    "DateTime": "2020-01-25 12:34:48",
+    "Product Name": "Vinegar - Champagne",
+    "Purchase Price": "$27.96",
+    "Membership?": false
+  },
+  {
+    "id": 209,
+    "DateTime": "2020-01-30 09:17:20",
+    "Product Name": "Longos - Grilled Salmon With Bbq",
+    "Purchase Price": "$27.58",
+    "Membership?": true
+  },
+  {
+    "id": 210,
+    "DateTime": "2020-01-24 02:15:09",
+    "Product Name": "Spice - Chili Powder Mexican",
+    "Purchase Price": "$31.27",
+    "Membership?": true
+  },
+  {
+    "id": 211,
+    "DateTime": "2020-01-24 22:07:24",
+    "Product Name": "Jam - Apricot",
+    "Purchase Price": "$36.19",
+    "Membership?": false
+  },
+  {
+    "id": 212,
+    "DateTime": "2020-03-24 17:31:09",
+    "Product Name": "Vegetable - Base",
+    "Purchase Price": "$35.97",
+    "Membership?": true
+  },
+  {
+    "id": 213,
+    "DateTime": "2020-02-04 00:58:51",
+    "Product Name": "Squid - Tubes / Tenticles 10/20",
+    "Purchase Price": "$33.86",
+    "Membership?": false
+  },
+  {
+    "id": 214,
+    "DateTime": "2020-02-21 11:12:35",
+    "Product Name": "Crab Meat Claw Pasteurise",
+    "Purchase Price": "$31.13",
+    "Membership?": true
+  },
+  {
+    "id": 215,
+    "DateTime": "2020-01-26 18:15:10",
+    "Product Name": "Soup - Chicken And Wild Rice",
+    "Purchase Price": "$25.80",
+    "Membership?": false
+  },
+  {
+    "id": 216,
+    "DateTime": "2020-02-14 16:28:51",
+    "Product Name": "Wine - Niagara,vqa Reisling",
+    "Purchase Price": "$31.43",
+    "Membership?": false
+  },
+  {
+    "id": 217,
+    "DateTime": "2020-02-08 21:51:54",
+    "Product Name": "Squid - U 5",
+    "Purchase Price": "$34.44",
+    "Membership?": false
+  },
+  {
+    "id": 218,
+    "DateTime": "2020-01-20 04:46:24",
+    "Product Name": "Crackers Cheez It",
+    "Purchase Price": "$21.68",
+    "Membership?": false
+  },
+  {
+    "id": 219,
+    "DateTime": "2020-03-17 02:39:05",
+    "Product Name": "Veal - Round, Eye Of",
+    "Purchase Price": "$5.66",
+    "Membership?": false
+  },
+  {
+    "id": 220,
+    "DateTime": "2020-03-15 07:51:35",
+    "Product Name": "Pears - Bartlett",
+    "Purchase Price": "$31.89",
+    "Membership?": false
+  },
+  {
+    "id": 221,
+    "DateTime": "2020-02-18 18:03:31",
+    "Product Name": "Huck White Towels",
+    "Purchase Price": "$30.28",
+    "Membership?": false
+  },
+  {
+    "id": 222,
+    "DateTime": "2020-01-10 17:26:49",
+    "Product Name": "Mushroom - Shitake, Dry",
+    "Purchase Price": "$13.32",
+    "Membership?": true
+  },
+  {
+    "id": 223,
+    "DateTime": "2020-02-03 18:47:08",
+    "Product Name": "Carrots - Purple, Organic",
+    "Purchase Price": "$22.99",
+    "Membership?": false
+  },
+  {
+    "id": 224,
+    "DateTime": "2020-01-30 10:52:52",
+    "Product Name": "Extract Vanilla Pure",
+    "Purchase Price": "$10.40",
+    "Membership?": true
+  },
+  {
+    "id": 225,
+    "DateTime": "2020-01-06 09:39:58",
+    "Product Name": "Seedlings - Mix, Organic",
+    "Purchase Price": "$8.95",
+    "Membership?": false
+  },
+  {
+    "id": 226,
+    "DateTime": "2020-01-16 21:49:20",
+    "Product Name": "Ham - Procutinni",
+    "Purchase Price": "$25.01",
+    "Membership?": true
+  },
+  {
+    "id": 227,
+    "DateTime": "2020-03-08 00:22:46",
+    "Product Name": "Wine - Bouchard La Vignee Pinot",
+    "Purchase Price": "$25.04",
+    "Membership?": false
+  },
+  {
+    "id": 228,
+    "DateTime": "2020-01-07 16:26:22",
+    "Product Name": "Broom Handle",
+    "Purchase Price": "$9.60",
+    "Membership?": false
+  },
+  {
+    "id": 229,
+    "DateTime": "2020-03-06 02:12:07",
+    "Product Name": "Beer - Rickards Red",
+    "Purchase Price": "$19.51",
+    "Membership?": true
+  },
+  {
+    "id": 230,
+    "DateTime": "2020-03-09 17:25:26",
+    "Product Name": "Broom Handle",
+    "Purchase Price": "$5.33",
+    "Membership?": true
+  },
+  {
+    "id": 231,
+    "DateTime": "2020-01-06 10:44:43",
+    "Product Name": "Sugar - Monocystal / Rock",
+    "Purchase Price": "$26.36",
+    "Membership?": true
+  },
+  {
+    "id": 232,
+    "DateTime": "2020-02-21 10:24:44",
+    "Product Name": "Star Anise, Whole",
+    "Purchase Price": "$11.17",
+    "Membership?": false
+  },
+  {
+    "id": 233,
+    "DateTime": "2020-01-31 04:30:28",
+    "Product Name": "Carrots - Jumbo",
+    "Purchase Price": "$11.50",
+    "Membership?": false
+  },
+  {
+    "id": 234,
+    "DateTime": "2020-01-08 01:37:58",
+    "Product Name": "Basil - Dry, Rubbed",
+    "Purchase Price": "$27.05",
+    "Membership?": true
+  },
+  {
+    "id": 235,
+    "DateTime": "2020-03-10 13:11:19",
+    "Product Name": "Rambutan",
+    "Purchase Price": "$35.87",
+    "Membership?": false
+  },
+  {
+    "id": 236,
+    "DateTime": "2020-02-12 19:58:01",
+    "Product Name": "Shortbread - Cookie Crumbs",
+    "Purchase Price": "$19.62",
+    "Membership?": false
+  },
+  {
+    "id": 237,
+    "DateTime": "2020-03-31 09:41:23",
+    "Product Name": "Bread - Frozen Basket Variety",
+    "Purchase Price": "$33.19",
+    "Membership?": true
+  },
+  {
+    "id": 238,
+    "DateTime": "2020-01-14 12:28:28",
+    "Product Name": "Pie Shell - 9",
+    "Purchase Price": "$35.02",
+    "Membership?": true
+  },
+  {
+    "id": 239,
+    "DateTime": "2020-02-07 09:10:46",
+    "Product Name": "Tomatoes - Roma",
+    "Purchase Price": "$38.40",
+    "Membership?": true
+  },
+  {
+    "id": 240,
+    "DateTime": "2020-02-02 22:45:05",
+    "Product Name": "Cheese - Grie Des Champ",
+    "Purchase Price": "$21.52",
+    "Membership?": true
+  },
+  {
+    "id": 241,
+    "DateTime": "2020-02-18 20:12:59",
+    "Product Name": "Sherbet - Raspberry",
+    "Purchase Price": "$27.27",
+    "Membership?": false
+  },
+  {
+    "id": 242,
+    "DateTime": "2020-03-12 21:46:41",
+    "Product Name": "Sachet",
+    "Purchase Price": "$21.93",
+    "Membership?": false
+  },
+  {
+    "id": 243,
+    "DateTime": "2020-03-03 04:41:39",
+    "Product Name": "Macaroons - Homestyle Two Bit",
+    "Purchase Price": "$16.71",
+    "Membership?": false
+  },
+  {
+    "id": 244,
+    "DateTime": "2020-01-25 00:37:42",
+    "Product Name": "Longos - Burritos",
+    "Purchase Price": "$38.62",
+    "Membership?": false
+  },
+  {
+    "id": 245,
+    "DateTime": "2020-01-10 21:16:42",
+    "Product Name": "Wine - Red, Gamay Noir",
+    "Purchase Price": "$7.19",
+    "Membership?": true
+  },
+  {
+    "id": 246,
+    "DateTime": "2020-02-03 09:52:38",
+    "Product Name": "Sugar - Invert",
+    "Purchase Price": "$38.93",
+    "Membership?": true
+  },
+  {
+    "id": 247,
+    "DateTime": "2020-03-16 02:38:52",
+    "Product Name": "Pasta - Cappellini, Dry",
+    "Purchase Price": "$29.52",
+    "Membership?": true
+  },
+  {
+    "id": 248,
+    "DateTime": "2020-01-06 04:28:56",
+    "Product Name": "Lettuce - Red Leaf",
+    "Purchase Price": "$15.18",
+    "Membership?": true
+  },
+  {
+    "id": 249,
+    "DateTime": "2020-01-27 15:42:06",
+    "Product Name": "Asparagus - White, Canned",
+    "Purchase Price": "$32.73",
+    "Membership?": false
+  },
+  {
+    "id": 250,
+    "DateTime": "2020-03-03 02:28:15",
+    "Product Name": "Nantucket Pine Orangebanana",
+    "Purchase Price": "$6.00",
+    "Membership?": false
+  },
+  {
+    "id": 251,
+    "DateTime": "2020-03-24 15:57:26",
+    "Product Name": "Milk - 2% 250 Ml",
+    "Purchase Price": "$12.93",
+    "Membership?": true
+  },
+  {
+    "id": 252,
+    "DateTime": "2020-03-01 05:08:59",
+    "Product Name": "Muffin - Mix - Bran And Maple 15l",
+    "Purchase Price": "$14.75",
+    "Membership?": true
+  },
+  {
+    "id": 253,
+    "DateTime": "2020-02-05 03:42:29",
+    "Product Name": "Muffin - Mix - Mango Sour Cherry",
+    "Purchase Price": "$27.10",
+    "Membership?": true
+  },
+  {
+    "id": 254,
+    "DateTime": "2020-03-20 01:25:51",
+    "Product Name": "Sprouts - China Rose",
+    "Purchase Price": "$22.72",
+    "Membership?": false
+  },
+  {
+    "id": 255,
+    "DateTime": "2020-02-29 23:27:39",
+    "Product Name": "Wine - Prosecco Valdobienne",
+    "Purchase Price": "$24.52",
+    "Membership?": true
+  },
+  {
+    "id": 256,
+    "DateTime": "2020-03-07 15:29:01",
+    "Product Name": "Food Colouring - Green",
+    "Purchase Price": "$33.50",
+    "Membership?": true
+  },
+  {
+    "id": 257,
+    "DateTime": "2020-03-03 01:25:25",
+    "Product Name": "Pepsi - 600ml",
+    "Purchase Price": "$17.79",
+    "Membership?": false
+  },
+  {
+    "id": 258,
+    "DateTime": "2020-01-16 06:09:00",
+    "Product Name": "Nut - Walnut, Chopped",
+    "Purchase Price": "$15.23",
+    "Membership?": true
+  },
+  {
+    "id": 259,
+    "DateTime": "2020-02-27 18:14:59",
+    "Product Name": "Triple Sec - Mcguinness",
+    "Purchase Price": "$10.51",
+    "Membership?": true
+  },
+  {
+    "id": 260,
+    "DateTime": "2020-02-15 23:45:26",
+    "Product Name": "Melon - Watermelon, Seedless",
+    "Purchase Price": "$23.54",
+    "Membership?": true
+  },
+  {
+    "id": 261,
+    "DateTime": "2020-03-14 16:11:24",
+    "Product Name": "Shrimp - 100 / 200 Cold Water",
+    "Purchase Price": "$16.58",
+    "Membership?": true
+  },
+  {
+    "id": 262,
+    "DateTime": "2020-01-03 18:55:56",
+    "Product Name": "Juice - Prune",
+    "Purchase Price": "$25.40",
+    "Membership?": false
+  },
+  {
+    "id": 263,
+    "DateTime": "2020-02-23 16:20:21",
+    "Product Name": "Bacardi Raspberry",
+    "Purchase Price": "$28.31",
+    "Membership?": false
+  },
+  {
+    "id": 264,
+    "DateTime": "2020-03-10 00:23:42",
+    "Product Name": "Chevril",
+    "Purchase Price": "$17.07",
+    "Membership?": true
+  },
+  {
+    "id": 265,
+    "DateTime": "2020-01-26 01:16:16",
+    "Product Name": "Bar Energy Chocchip",
+    "Purchase Price": "$22.30",
+    "Membership?": false
+  },
+  {
+    "id": 266,
+    "DateTime": "2020-01-20 06:51:55",
+    "Product Name": "Crush - Grape, 355 Ml",
+    "Purchase Price": "$16.38",
+    "Membership?": true
+  },
+  {
+    "id": 267,
+    "DateTime": "2020-03-30 17:46:01",
+    "Product Name": "Goulash Seasoning",
+    "Purchase Price": "$15.18",
+    "Membership?": true
+  },
+  {
+    "id": 268,
+    "DateTime": "2020-02-03 11:42:44",
+    "Product Name": "Celery",
+    "Purchase Price": "$6.52",
+    "Membership?": true
+  },
+  {
+    "id": 269,
+    "DateTime": "2020-01-26 17:28:39",
+    "Product Name": "Wild Boar - Tenderloin",
+    "Purchase Price": "$17.64",
+    "Membership?": false
+  },
+  {
+    "id": 270,
+    "DateTime": "2020-03-06 14:03:48",
+    "Product Name": "Chicken - Livers",
+    "Purchase Price": "$5.76",
+    "Membership?": false
+  },
+  {
+    "id": 271,
+    "DateTime": "2020-02-13 21:37:54",
+    "Product Name": "Squeeze Bottle",
+    "Purchase Price": "$12.62",
+    "Membership?": true
+  },
+  {
+    "id": 272,
+    "DateTime": "2020-03-05 02:18:38",
+    "Product Name": "Cherries - Frozen",
+    "Purchase Price": "$33.51",
+    "Membership?": true
+  },
+  {
+    "id": 273,
+    "DateTime": "2020-01-24 13:45:06",
+    "Product Name": "Steampan Lid",
+    "Purchase Price": "$14.08",
+    "Membership?": false
+  },
+  {
+    "id": 274,
+    "DateTime": "2020-01-24 18:58:31",
+    "Product Name": "Flax Seed",
+    "Purchase Price": "$37.12",
+    "Membership?": false
+  },
+  {
+    "id": 275,
+    "DateTime": "2020-03-17 12:58:07",
+    "Product Name": "Goat - Whole Cut",
+    "Purchase Price": "$21.92",
+    "Membership?": true
+  },
+  {
+    "id": 276,
+    "DateTime": "2020-01-05 16:42:38",
+    "Product Name": "Olives - Green, Pitted",
+    "Purchase Price": "$31.81",
+    "Membership?": false
+  },
+  {
+    "id": 277,
+    "DateTime": "2020-01-05 05:19:48",
+    "Product Name": "Lady Fingers",
+    "Purchase Price": "$13.05",
+    "Membership?": false
+  },
+  {
+    "id": 278,
+    "DateTime": "2020-03-05 22:00:43",
+    "Product Name": "Black Currants",
+    "Purchase Price": "$6.62",
+    "Membership?": true
+  },
+  {
+    "id": 279,
+    "DateTime": "2020-01-21 13:35:34",
+    "Product Name": "Lamb - Shanks",
+    "Purchase Price": "$35.58",
+    "Membership?": true
+  },
+  {
+    "id": 280,
+    "DateTime": "2020-03-04 06:52:02",
+    "Product Name": "Fish - Halibut, Cold Smoked",
+    "Purchase Price": "$18.55",
+    "Membership?": true
+  },
+  {
+    "id": 281,
+    "DateTime": "2020-01-04 22:14:58",
+    "Product Name": "Wine - Muscadet Sur Lie",
+    "Purchase Price": "$10.91",
+    "Membership?": true
+  },
+  {
+    "id": 282,
+    "DateTime": "2020-02-19 21:00:39",
+    "Product Name": "Squid Ink",
+    "Purchase Price": "$5.55",
+    "Membership?": true
+  },
+  {
+    "id": 283,
+    "DateTime": "2020-02-27 14:03:50",
+    "Product Name": "Gatorade - Lemon Lime",
+    "Purchase Price": "$29.09",
+    "Membership?": true
+  },
+  {
+    "id": 284,
+    "DateTime": "2020-01-04 14:01:45",
+    "Product Name": "Wine - Merlot Vina Carmen",
+    "Purchase Price": "$36.29",
+    "Membership?": false
+  },
+  {
+    "id": 285,
+    "DateTime": "2020-01-20 11:51:02",
+    "Product Name": "Rum - White, Gg White",
+    "Purchase Price": "$36.85",
+    "Membership?": false
+  },
+  {
+    "id": 286,
+    "DateTime": "2020-03-03 23:39:24",
+    "Product Name": "Jam - Marmalade, Orange",
+    "Purchase Price": "$38.14",
+    "Membership?": true
+  },
+  {
+    "id": 287,
+    "DateTime": "2020-03-15 21:47:34",
+    "Product Name": "White Fish - Filets",
+    "Purchase Price": "$21.43",
+    "Membership?": false
+  },
+  {
+    "id": 288,
+    "DateTime": "2020-03-20 09:10:17",
+    "Product Name": "Gelatine Leaves - Envelopes",
+    "Purchase Price": "$27.13",
+    "Membership?": false
+  },
+  {
+    "id": 289,
+    "DateTime": "2020-03-27 05:19:14",
+    "Product Name": "Water - Tonic",
+    "Purchase Price": "$15.41",
+    "Membership?": true
+  },
+  {
+    "id": 290,
+    "DateTime": "2020-01-06 13:54:35",
+    "Product Name": "Soup Knorr Chili With Beans",
+    "Purchase Price": "$11.97",
+    "Membership?": true
+  },
+  {
+    "id": 291,
+    "DateTime": "2020-02-09 04:25:27",
+    "Product Name": "Tart Shells - Savory, 4",
+    "Purchase Price": "$16.96",
+    "Membership?": false
+  },
+  {
+    "id": 292,
+    "DateTime": "2020-02-20 15:29:49",
+    "Product Name": "Bread - Granary Small Pull",
+    "Purchase Price": "$26.12",
+    "Membership?": true
+  },
+  {
+    "id": 293,
+    "DateTime": "2020-01-26 18:23:47",
+    "Product Name": "Oil - Macadamia",
+    "Purchase Price": "$31.01",
+    "Membership?": true
+  },
+  {
+    "id": 294,
+    "DateTime": "2020-02-23 22:56:44",
+    "Product Name": "English Muffin",
+    "Purchase Price": "$9.36",
+    "Membership?": true
+  },
+  {
+    "id": 295,
+    "DateTime": "2020-02-20 23:29:36",
+    "Product Name": "Sweet Pea Sprouts",
+    "Purchase Price": "$28.45",
+    "Membership?": false
+  },
+  {
+    "id": 296,
+    "DateTime": "2020-01-27 21:23:29",
+    "Product Name": "Muffin - Zero Transfat",
+    "Purchase Price": "$14.06",
+    "Membership?": true
+  },
+  {
+    "id": 297,
+    "DateTime": "2020-01-13 11:50:27",
+    "Product Name": "Bagel - Everything",
+    "Purchase Price": "$21.31",
+    "Membership?": false
+  },
+  {
+    "id": 298,
+    "DateTime": "2020-02-02 19:28:36",
+    "Product Name": "Cheese - Brie,danish",
+    "Purchase Price": "$39.80",
+    "Membership?": true
+  },
+  {
+    "id": 299,
+    "DateTime": "2020-02-11 21:20:45",
+    "Product Name": "Sage - Rubbed",
+    "Purchase Price": "$36.89",
+    "Membership?": false
+  },
+  {
+    "id": 300,
+    "DateTime": "2020-03-18 01:29:30",
+    "Product Name": "Bagelers",
+    "Purchase Price": "$9.98",
+    "Membership?": true
+  },
+  {
+    "id": 301,
+    "DateTime": "2020-01-06 01:04:05",
+    "Product Name": "Pasta - Fett Alfredo, Single Serve",
+    "Purchase Price": "$29.32",
+    "Membership?": false
+  },
+  {
+    "id": 302,
+    "DateTime": "2020-02-21 02:10:08",
+    "Product Name": "Sugar - Brown",
+    "Purchase Price": "$8.92",
+    "Membership?": true
+  },
+  {
+    "id": 303,
+    "DateTime": "2020-01-17 18:02:36",
+    "Product Name": "Butter - Salted, Micro",
+    "Purchase Price": "$28.75",
+    "Membership?": true
+  },
+  {
+    "id": 304,
+    "DateTime": "2020-02-16 14:30:05",
+    "Product Name": "Soup Campbells Mexicali Tortilla",
+    "Purchase Price": "$11.37",
+    "Membership?": true
+  },
+  {
+    "id": 305,
+    "DateTime": "2020-02-29 04:35:59",
+    "Product Name": "Beans - Fava, Canned",
+    "Purchase Price": "$30.59",
+    "Membership?": false
+  },
+  {
+    "id": 306,
+    "DateTime": "2020-03-06 04:41:32",
+    "Product Name": "Shrimp - 16/20, Iqf, Shell On",
+    "Purchase Price": "$18.46",
+    "Membership?": false
+  },
+  {
+    "id": 307,
+    "DateTime": "2020-02-24 23:56:48",
+    "Product Name": "Petit Baguette",
+    "Purchase Price": "$9.84",
+    "Membership?": true
+  },
+  {
+    "id": 308,
+    "DateTime": "2020-02-26 22:00:04",
+    "Product Name": "Ginger - Pickled",
+    "Purchase Price": "$8.33",
+    "Membership?": true
+  },
+  {
+    "id": 309,
+    "DateTime": "2020-02-16 17:20:52",
+    "Product Name": "Bread - French Stick",
+    "Purchase Price": "$7.31",
+    "Membership?": true
+  },
+  {
+    "id": 310,
+    "DateTime": "2020-01-15 15:51:06",
+    "Product Name": "Tea - English Breakfast",
+    "Purchase Price": "$34.13",
+    "Membership?": false
+  },
+  {
+    "id": 311,
+    "DateTime": "2020-03-30 04:20:54",
+    "Product Name": "Amarula Cream",
+    "Purchase Price": "$23.62",
+    "Membership?": false
+  },
+  {
+    "id": 312,
+    "DateTime": "2020-02-18 23:37:02",
+    "Product Name": "Wine - Mas Chicet Rose, Vintage",
+    "Purchase Price": "$39.52",
+    "Membership?": false
+  },
+  {
+    "id": 313,
+    "DateTime": "2020-03-13 14:49:54",
+    "Product Name": "Lemonade - Black Cherry, 591 Ml",
+    "Purchase Price": "$21.49",
+    "Membership?": false
+  },
+  {
+    "id": 314,
+    "DateTime": "2020-03-21 16:06:58",
+    "Product Name": "Cheese Cheddar Processed",
+    "Purchase Price": "$26.75",
+    "Membership?": true
+  },
+  {
+    "id": 315,
+    "DateTime": "2020-03-12 08:18:33",
+    "Product Name": "Sauce - Soy Low Sodium - 3.87l",
+    "Purchase Price": "$22.76",
+    "Membership?": true
+  },
+  {
+    "id": 316,
+    "DateTime": "2020-03-05 18:07:37",
+    "Product Name": "Whmis - Spray Bottle Trigger",
+    "Purchase Price": "$27.31",
+    "Membership?": true
+  },
+  {
+    "id": 317,
+    "DateTime": "2020-03-03 19:22:19",
+    "Product Name": "Rhubarb",
+    "Purchase Price": "$34.41",
+    "Membership?": true
+  },
+  {
+    "id": 318,
+    "DateTime": "2020-03-19 00:46:11",
+    "Product Name": "Island Oasis - Peach Daiquiri",
+    "Purchase Price": "$23.32",
+    "Membership?": false
+  },
+  {
+    "id": 319,
+    "DateTime": "2020-01-18 12:32:23",
+    "Product Name": "Tea - Lemon Green Tea",
+    "Purchase Price": "$8.00",
+    "Membership?": false
+  },
+  {
+    "id": 320,
+    "DateTime": "2020-01-17 21:51:39",
+    "Product Name": "Wine - White, Riesling, Henry Of",
+    "Purchase Price": "$6.33",
+    "Membership?": true
+  },
+  {
+    "id": 321,
+    "DateTime": "2020-03-15 10:47:32",
+    "Product Name": "Thyme - Dried",
+    "Purchase Price": "$35.34",
+    "Membership?": true
+  },
+  {
+    "id": 322,
+    "DateTime": "2020-02-25 18:50:51",
+    "Product Name": "Cognac - Courvaisier",
+    "Purchase Price": "$22.93",
+    "Membership?": false
+  },
+  {
+    "id": 323,
+    "DateTime": "2020-03-29 13:26:02",
+    "Product Name": "Clam - Cherrystone",
+    "Purchase Price": "$39.37",
+    "Membership?": false
+  },
+  {
+    "id": 324,
+    "DateTime": "2020-02-21 16:52:09",
+    "Product Name": "Lamb - Loin Chops",
+    "Purchase Price": "$30.18",
+    "Membership?": true
+  },
+  {
+    "id": 325,
+    "DateTime": "2020-02-05 08:57:43",
+    "Product Name": "Cheese - Le Cheve Noir",
+    "Purchase Price": "$8.64",
+    "Membership?": false
+  },
+  {
+    "id": 326,
+    "DateTime": "2020-01-06 01:02:24",
+    "Product Name": "Peach - Halves",
+    "Purchase Price": "$13.12",
+    "Membership?": true
+  },
+  {
+    "id": 327,
+    "DateTime": "2020-03-29 19:27:33",
+    "Product Name": "Vaccum Bag - 14x20",
+    "Purchase Price": "$36.76",
+    "Membership?": true
+  },
+  {
+    "id": 328,
+    "DateTime": "2020-02-10 14:26:12",
+    "Product Name": "Vermacelli - Sprinkles, Assorted",
+    "Purchase Price": "$18.90",
+    "Membership?": false
+  },
+  {
+    "id": 329,
+    "DateTime": "2020-03-28 02:38:42",
+    "Product Name": "Fond - Neutral",
+    "Purchase Price": "$14.79",
+    "Membership?": true
+  },
+  {
+    "id": 330,
+    "DateTime": "2020-01-26 15:51:06",
+    "Product Name": "Peas - Pigeon, Dry",
+    "Purchase Price": "$35.82",
+    "Membership?": false
+  },
+  {
+    "id": 331,
+    "DateTime": "2020-03-23 04:38:05",
+    "Product Name": "Ecolab Silver Fusion",
+    "Purchase Price": "$29.19",
+    "Membership?": false
+  },
+  {
+    "id": 332,
+    "DateTime": "2020-03-06 03:30:41",
+    "Product Name": "Smoked Tongue",
+    "Purchase Price": "$9.63",
+    "Membership?": true
+  },
+  {
+    "id": 333,
+    "DateTime": "2020-03-28 14:54:27",
+    "Product Name": "Veal - Osso Bucco",
+    "Purchase Price": "$34.95",
+    "Membership?": true
+  },
+  {
+    "id": 334,
+    "DateTime": "2020-02-12 23:44:09",
+    "Product Name": "Cornflakes",
+    "Purchase Price": "$14.44",
+    "Membership?": true
+  },
+  {
+    "id": 335,
+    "DateTime": "2020-01-13 10:21:57",
+    "Product Name": "Arrowroot",
+    "Purchase Price": "$7.20",
+    "Membership?": false
+  },
+  {
+    "id": 336,
+    "DateTime": "2020-01-21 14:55:46",
+    "Product Name": "Fuji Apples",
+    "Purchase Price": "$22.31",
+    "Membership?": true
+  },
+  {
+    "id": 337,
+    "DateTime": "2020-03-02 08:51:32",
+    "Product Name": "Soupcontfoam16oz 116con",
+    "Purchase Price": "$25.23",
+    "Membership?": true
+  },
+  {
+    "id": 338,
+    "DateTime": "2020-01-16 20:13:49",
+    "Product Name": "Milk - Skim",
+    "Purchase Price": "$39.34",
+    "Membership?": true
+  },
+  {
+    "id": 339,
+    "DateTime": "2020-01-24 16:40:21",
+    "Product Name": "Mace",
+    "Purchase Price": "$12.45",
+    "Membership?": true
+  },
+  {
+    "id": 340,
+    "DateTime": "2020-02-20 15:35:32",
+    "Product Name": "V8 Pet",
+    "Purchase Price": "$14.99",
+    "Membership?": false
+  },
+  {
+    "id": 341,
+    "DateTime": "2020-01-12 09:58:26",
+    "Product Name": "Juice - V8 Splash",
+    "Purchase Price": "$14.45",
+    "Membership?": false
+  },
+  {
+    "id": 342,
+    "DateTime": "2020-02-05 20:48:12",
+    "Product Name": "Ecolab - Power Fusion",
+    "Purchase Price": "$31.23",
+    "Membership?": true
+  },
+  {
+    "id": 343,
+    "DateTime": "2020-01-23 19:18:14",
+    "Product Name": "Ice Cream - Super Sandwich",
+    "Purchase Price": "$11.28",
+    "Membership?": false
+  },
+  {
+    "id": 344,
+    "DateTime": "2020-03-11 14:12:24",
+    "Product Name": "Soup - Base Broth Beef",
+    "Purchase Price": "$23.71",
+    "Membership?": true
+  },
+  {
+    "id": 345,
+    "DateTime": "2020-01-21 05:37:53",
+    "Product Name": "Appetizer - Asian Shrimp Roll",
+    "Purchase Price": "$13.48",
+    "Membership?": true
+  },
+  {
+    "id": 346,
+    "DateTime": "2020-01-14 04:11:22",
+    "Product Name": "Pork Casing",
+    "Purchase Price": "$14.61",
+    "Membership?": false
+  },
+  {
+    "id": 347,
+    "DateTime": "2020-03-11 05:59:35",
+    "Product Name": "Cheese - Ermite Bleu",
+    "Purchase Price": "$21.46",
+    "Membership?": false
+  },
+  {
+    "id": 348,
+    "DateTime": "2020-03-24 15:42:03",
+    "Product Name": "Rice - Long Grain",
+    "Purchase Price": "$21.23",
+    "Membership?": true
+  },
+  {
+    "id": 349,
+    "DateTime": "2020-02-16 10:26:33",
+    "Product Name": "Sauce - Caesar Dressing",
+    "Purchase Price": "$31.89",
+    "Membership?": true
+  },
+  {
+    "id": 350,
+    "DateTime": "2020-02-10 05:29:39",
+    "Product Name": "Wine - Magnotta, White",
+    "Purchase Price": "$17.41",
+    "Membership?": true
+  },
+  {
+    "id": 351,
+    "DateTime": "2020-01-21 14:20:49",
+    "Product Name": "Pastry - Choclate Baked",
+    "Purchase Price": "$39.47",
+    "Membership?": true
+  },
+  {
+    "id": 352,
+    "DateTime": "2020-03-31 21:44:28",
+    "Product Name": "Chocolate - Unsweetened",
+    "Purchase Price": "$36.34",
+    "Membership?": false
+  },
+  {
+    "id": 353,
+    "DateTime": "2020-01-27 19:51:05",
+    "Product Name": "Lettuce Romaine Chopped",
+    "Purchase Price": "$21.24",
+    "Membership?": true
+  },
+  {
+    "id": 354,
+    "DateTime": "2020-01-19 08:34:42",
+    "Product Name": "Cake - Mini Potato Pancake",
+    "Purchase Price": "$5.27",
+    "Membership?": false
+  },
+  {
+    "id": 355,
+    "DateTime": "2020-01-29 07:37:33",
+    "Product Name": "Coriander - Ground",
+    "Purchase Price": "$31.11",
+    "Membership?": true
+  },
+  {
+    "id": 356,
+    "DateTime": "2020-02-10 02:06:19",
+    "Product Name": "Curry Powder Madras",
+    "Purchase Price": "$30.88",
+    "Membership?": true
+  },
+  {
+    "id": 357,
+    "DateTime": "2020-03-06 08:25:21",
+    "Product Name": "Cocktail Napkin Blue",
+    "Purchase Price": "$35.85",
+    "Membership?": true
+  },
+  {
+    "id": 358,
+    "DateTime": "2020-01-19 13:57:58",
+    "Product Name": "Carrots - Purple, Organic",
+    "Purchase Price": "$39.48",
+    "Membership?": true
+  },
+  {
+    "id": 359,
+    "DateTime": "2020-02-19 05:22:06",
+    "Product Name": "Tart Shells - Sweet, 4",
+    "Purchase Price": "$19.19",
+    "Membership?": false
+  },
+  {
+    "id": 360,
+    "DateTime": "2020-01-06 20:36:04",
+    "Product Name": "Lettuce - Boston Bib",
+    "Purchase Price": "$5.20",
+    "Membership?": false
+  },
+  {
+    "id": 361,
+    "DateTime": "2020-03-26 18:37:51",
+    "Product Name": "Lemon Pepper",
+    "Purchase Price": "$16.54",
+    "Membership?": true
+  },
+  {
+    "id": 362,
+    "DateTime": "2020-01-22 06:25:43",
+    "Product Name": "Soho Lychee Liqueur",
+    "Purchase Price": "$7.66",
+    "Membership?": false
+  },
+  {
+    "id": 363,
+    "DateTime": "2020-03-26 14:53:13",
+    "Product Name": "Mushroom Morel Fresh",
+    "Purchase Price": "$34.16",
+    "Membership?": false
+  },
+  {
+    "id": 364,
+    "DateTime": "2020-03-03 06:53:14",
+    "Product Name": "Bread Crumbs - Panko",
+    "Purchase Price": "$15.02",
+    "Membership?": true
+  },
+  {
+    "id": 365,
+    "DateTime": "2020-01-10 19:08:12",
+    "Product Name": "Pastry - Banana Muffin - Mini",
+    "Purchase Price": "$23.31",
+    "Membership?": true
+  },
+  {
+    "id": 366,
+    "DateTime": "2020-03-26 08:09:41",
+    "Product Name": "Slt - Individual Portions",
+    "Purchase Price": "$9.41",
+    "Membership?": false
+  },
+  {
+    "id": 367,
+    "DateTime": "2020-02-07 13:18:04",
+    "Product Name": "Lady Fingers",
+    "Purchase Price": "$9.46",
+    "Membership?": false
+  },
+  {
+    "id": 368,
+    "DateTime": "2020-03-11 19:11:00",
+    "Product Name": "Wine - Savigny - Les - Beaune",
+    "Purchase Price": "$22.03",
+    "Membership?": true
+  },
+  {
+    "id": 369,
+    "DateTime": "2020-02-21 10:22:10",
+    "Product Name": "Pork - Smoked Kassler",
+    "Purchase Price": "$13.23",
+    "Membership?": true
+  },
+  {
+    "id": 370,
+    "DateTime": "2020-03-01 19:45:34",
+    "Product Name": "Pate - Peppercorn",
+    "Purchase Price": "$34.60",
+    "Membership?": true
+  },
+  {
+    "id": 371,
+    "DateTime": "2020-03-16 13:04:07",
+    "Product Name": "Shrimp - 100 / 200 Cold Water",
+    "Purchase Price": "$8.67",
+    "Membership?": false
+  },
+  {
+    "id": 372,
+    "DateTime": "2020-01-01 07:43:47",
+    "Product Name": "Glucose",
+    "Purchase Price": "$7.05",
+    "Membership?": true
+  },
+  {
+    "id": 373,
+    "DateTime": "2020-03-24 12:40:27",
+    "Product Name": "Broccoli - Fresh",
+    "Purchase Price": "$22.43",
+    "Membership?": false
+  },
+  {
+    "id": 374,
+    "DateTime": "2020-03-14 05:03:42",
+    "Product Name": "Cut Wakame - Hanawakaba",
+    "Purchase Price": "$8.02",
+    "Membership?": true
+  },
+  {
+    "id": 375,
+    "DateTime": "2020-03-30 21:38:42",
+    "Product Name": "Stock - Veal, Brown",
+    "Purchase Price": "$9.86",
+    "Membership?": false
+  },
+  {
+    "id": 376,
+    "DateTime": "2020-01-18 02:15:09",
+    "Product Name": "Rootbeer",
+    "Purchase Price": "$28.28",
+    "Membership?": false
+  },
+  {
+    "id": 377,
+    "DateTime": "2020-03-12 20:49:07",
+    "Product Name": "Coffee - Cafe Moreno",
+    "Purchase Price": "$34.27",
+    "Membership?": true
+  },
+  {
+    "id": 378,
+    "DateTime": "2020-03-20 21:46:43",
+    "Product Name": "Plastic Wrap",
+    "Purchase Price": "$20.11",
+    "Membership?": true
+  },
+  {
+    "id": 379,
+    "DateTime": "2020-03-15 00:35:37",
+    "Product Name": "Salsify, Organic",
+    "Purchase Price": "$17.68",
+    "Membership?": true
+  },
+  {
+    "id": 380,
+    "DateTime": "2020-01-02 06:58:14",
+    "Product Name": "Glucose",
+    "Purchase Price": "$5.96",
+    "Membership?": true
+  },
+  {
+    "id": 381,
+    "DateTime": "2020-01-15 11:46:43",
+    "Product Name": "Bread Ww Cluster",
+    "Purchase Price": "$7.87",
+    "Membership?": false
+  },
+  {
+    "id": 382,
+    "DateTime": "2020-01-02 05:58:32",
+    "Product Name": "Chicken - Wieners",
+    "Purchase Price": "$9.38",
+    "Membership?": true
+  },
+  {
+    "id": 383,
+    "DateTime": "2020-03-01 20:01:49",
+    "Product Name": "Potato - Sweet",
+    "Purchase Price": "$9.09",
+    "Membership?": false
+  },
+  {
+    "id": 384,
+    "DateTime": "2020-03-31 18:15:29",
+    "Product Name": "Wine - Alsace Gewurztraminer",
+    "Purchase Price": "$6.30",
+    "Membership?": true
+  },
+  {
+    "id": 385,
+    "DateTime": "2020-02-26 11:38:28",
+    "Product Name": "Tea Peppermint",
+    "Purchase Price": "$19.59",
+    "Membership?": true
+  },
+  {
+    "id": 386,
+    "DateTime": "2020-01-23 12:34:38",
+    "Product Name": "Wine - Shiraz Wolf Blass Premium",
+    "Purchase Price": "$25.24",
+    "Membership?": true
+  },
+  {
+    "id": 387,
+    "DateTime": "2020-03-18 14:06:09",
+    "Product Name": "Appetizer - Assorted Box",
+    "Purchase Price": "$35.48",
+    "Membership?": false
+  },
+  {
+    "id": 388,
+    "DateTime": "2020-02-17 06:03:50",
+    "Product Name": "Wine - Prosecco Valdobiaddene",
+    "Purchase Price": "$38.05",
+    "Membership?": true
+  },
+  {
+    "id": 389,
+    "DateTime": "2020-02-28 01:55:12",
+    "Product Name": "Salmon - Atlantic, Skin On",
+    "Purchase Price": "$32.23",
+    "Membership?": true
+  },
+  {
+    "id": 390,
+    "DateTime": "2020-03-29 19:37:40",
+    "Product Name": "Rabbit - Frozen",
+    "Purchase Price": "$37.79",
+    "Membership?": true
+  },
+  {
+    "id": 391,
+    "DateTime": "2020-03-24 09:53:47",
+    "Product Name": "Spice - Peppercorn Melange",
+    "Purchase Price": "$29.27",
+    "Membership?": true
+  },
+  {
+    "id": 392,
+    "DateTime": "2020-01-14 22:35:03",
+    "Product Name": "Pastry - Banana Tea Loaf",
+    "Purchase Price": "$13.87",
+    "Membership?": true
+  },
+  {
+    "id": 393,
+    "DateTime": "2020-03-21 14:19:13",
+    "Product Name": "Hold Up Tool Storage Rack",
+    "Purchase Price": "$19.64",
+    "Membership?": true
+  },
+  {
+    "id": 394,
+    "DateTime": "2020-03-23 16:06:14",
+    "Product Name": "Bread Roll Foccacia",
+    "Purchase Price": "$25.96",
+    "Membership?": true
+  },
+  {
+    "id": 395,
+    "DateTime": "2020-01-28 18:59:45",
+    "Product Name": "Rosemary - Fresh",
+    "Purchase Price": "$28.35",
+    "Membership?": false
+  },
+  {
+    "id": 396,
+    "DateTime": "2020-03-27 19:33:34",
+    "Product Name": "Pie Filling - Pumpkin",
+    "Purchase Price": "$19.72",
+    "Membership?": false
+  },
+  {
+    "id": 397,
+    "DateTime": "2020-02-21 21:50:35",
+    "Product Name": "Lemonade - Strawberry, 591 Ml",
+    "Purchase Price": "$22.21",
+    "Membership?": false
+  },
+  {
+    "id": 398,
+    "DateTime": "2020-03-31 02:38:46",
+    "Product Name": "Cookie Trail Mix",
+    "Purchase Price": "$20.19",
+    "Membership?": false
+  },
+  {
+    "id": 399,
+    "DateTime": "2020-02-28 08:52:46",
+    "Product Name": "Beef - Top Sirloin",
+    "Purchase Price": "$9.05",
+    "Membership?": true
+  },
+  {
+    "id": 400,
+    "DateTime": "2020-01-23 04:44:14",
+    "Product Name": "Pepper - Sorrano",
+    "Purchase Price": "$11.64",
+    "Membership?": false
+  },
+  {
+    "id": 401,
+    "DateTime": "2020-01-07 09:38:26",
+    "Product Name": "Cake Sheet Combo Party Pack",
+    "Purchase Price": "$38.37",
+    "Membership?": true
+  },
+  {
+    "id": 402,
+    "DateTime": "2020-01-18 13:47:54",
+    "Product Name": "Appetizer - Sausage Rolls",
+    "Purchase Price": "$37.71",
+    "Membership?": false
+  },
+  {
+    "id": 403,
+    "DateTime": "2020-02-05 03:45:58",
+    "Product Name": "Appetizer - Smoked Salmon / Dill",
+    "Purchase Price": "$38.62",
+    "Membership?": true
+  },
+  {
+    "id": 404,
+    "DateTime": "2020-03-10 13:24:34",
+    "Product Name": "Bread Base - Toscano",
+    "Purchase Price": "$26.34",
+    "Membership?": true
+  },
+  {
+    "id": 405,
+    "DateTime": "2020-01-15 06:56:27",
+    "Product Name": "Eggplant - Baby",
+    "Purchase Price": "$15.81",
+    "Membership?": false
+  },
+  {
+    "id": 406,
+    "DateTime": "2020-01-30 18:29:10",
+    "Product Name": "Mushroom - Shitake, Dry",
+    "Purchase Price": "$19.23",
+    "Membership?": false
+  },
+  {
+    "id": 407,
+    "DateTime": "2020-03-01 07:37:55",
+    "Product Name": "Flour - Strong Pizza",
+    "Purchase Price": "$24.18",
+    "Membership?": false
+  },
+  {
+    "id": 408,
+    "DateTime": "2020-03-12 04:57:26",
+    "Product Name": "Appetizer - Veg Assortment",
+    "Purchase Price": "$38.16",
+    "Membership?": false
+  },
+  {
+    "id": 409,
+    "DateTime": "2020-01-18 22:40:19",
+    "Product Name": "Beans - Kidney, Red Dry",
+    "Purchase Price": "$27.73",
+    "Membership?": false
+  },
+  {
+    "id": 410,
+    "DateTime": "2020-03-01 07:55:14",
+    "Product Name": "Raisin - Golden",
+    "Purchase Price": "$6.76",
+    "Membership?": true
+  },
+  {
+    "id": 411,
+    "DateTime": "2020-02-29 18:34:36",
+    "Product Name": "Dip - Tapenade",
+    "Purchase Price": "$21.18",
+    "Membership?": false
+  },
+  {
+    "id": 412,
+    "DateTime": "2020-02-27 14:47:29",
+    "Product Name": "Canada Dry",
+    "Purchase Price": "$9.26",
+    "Membership?": false
+  },
+  {
+    "id": 413,
+    "DateTime": "2020-02-17 08:05:40",
+    "Product Name": "Lettuce - Boston Bib - Organic",
+    "Purchase Price": "$11.12",
+    "Membership?": false
+  },
+  {
+    "id": 414,
+    "DateTime": "2020-02-14 04:02:58",
+    "Product Name": "Chutney Sauce - Mango",
+    "Purchase Price": "$18.84",
+    "Membership?": true
+  },
+  {
+    "id": 415,
+    "DateTime": "2020-01-25 15:57:09",
+    "Product Name": "Magnotta - Bel Paese White",
+    "Purchase Price": "$32.59",
+    "Membership?": false
+  },
+  {
+    "id": 416,
+    "DateTime": "2020-02-15 15:55:17",
+    "Product Name": "Blouse / Shirt / Sweater",
+    "Purchase Price": "$11.72",
+    "Membership?": false
+  },
+  {
+    "id": 417,
+    "DateTime": "2020-03-12 06:38:02",
+    "Product Name": "Soup - Campbells, Classic Chix",
+    "Purchase Price": "$22.08",
+    "Membership?": false
+  },
+  {
+    "id": 418,
+    "DateTime": "2020-03-23 04:22:03",
+    "Product Name": "Artichoke - Hearts, Canned",
+    "Purchase Price": "$36.52",
+    "Membership?": true
+  },
+  {
+    "id": 419,
+    "DateTime": "2020-01-25 09:14:26",
+    "Product Name": "Wine - Hardys Bankside Shiraz",
+    "Purchase Price": "$34.09",
+    "Membership?": false
+  },
+  {
+    "id": 420,
+    "DateTime": "2020-03-28 02:33:00",
+    "Product Name": "Wine - White, Lindemans Bin 95",
+    "Purchase Price": "$36.80",
+    "Membership?": false
+  },
+  {
+    "id": 421,
+    "DateTime": "2020-03-27 01:53:16",
+    "Product Name": "Butter - Salted",
+    "Purchase Price": "$7.76",
+    "Membership?": true
+  },
+  {
+    "id": 422,
+    "DateTime": "2020-02-13 19:42:22",
+    "Product Name": "Sauce - White, Mix",
+    "Purchase Price": "$34.42",
+    "Membership?": false
+  },
+  {
+    "id": 423,
+    "DateTime": "2020-01-17 08:16:01",
+    "Product Name": "Galliano",
+    "Purchase Price": "$28.32",
+    "Membership?": false
+  },
+  {
+    "id": 424,
+    "DateTime": "2020-01-20 11:50:27",
+    "Product Name": "Russian Prince",
+    "Purchase Price": "$8.81",
+    "Membership?": true
+  },
+  {
+    "id": 425,
+    "DateTime": "2020-02-16 08:16:31",
+    "Product Name": "Onions Granulated",
+    "Purchase Price": "$16.82",
+    "Membership?": true
+  },
+  {
+    "id": 426,
+    "DateTime": "2020-01-29 07:28:05",
+    "Product Name": "Pasta - Angel Hair",
+    "Purchase Price": "$32.86",
+    "Membership?": true
+  },
+  {
+    "id": 427,
+    "DateTime": "2020-03-02 20:48:52",
+    "Product Name": "Remy Red Berry Infusion",
+    "Purchase Price": "$37.95",
+    "Membership?": false
+  },
+  {
+    "id": 428,
+    "DateTime": "2020-01-12 07:00:09",
+    "Product Name": "Olives - Kalamata",
+    "Purchase Price": "$31.17",
+    "Membership?": true
+  },
+  {
+    "id": 429,
+    "DateTime": "2020-02-25 00:18:44",
+    "Product Name": "Lamb Leg - Bone - In Nz",
+    "Purchase Price": "$21.54",
+    "Membership?": false
+  },
+  {
+    "id": 430,
+    "DateTime": "2020-02-08 20:36:42",
+    "Product Name": "Bread - Pullman, Sliced",
+    "Purchase Price": "$35.82",
+    "Membership?": false
+  },
+  {
+    "id": 431,
+    "DateTime": "2020-01-22 18:12:02",
+    "Product Name": "Pork Loin Bine - In Frenched",
+    "Purchase Price": "$38.01",
+    "Membership?": true
+  },
+  {
+    "id": 432,
+    "DateTime": "2020-02-21 21:06:30",
+    "Product Name": "Coffee - Hazelnut Cream",
+    "Purchase Price": "$34.60",
+    "Membership?": true
+  },
+  {
+    "id": 433,
+    "DateTime": "2020-02-22 04:22:31",
+    "Product Name": "Nut - Cashews, Whole, Raw",
+    "Purchase Price": "$10.36",
+    "Membership?": true
+  },
+  {
+    "id": 434,
+    "DateTime": "2020-02-01 06:18:10",
+    "Product Name": "Split Peas - Green, Dry",
+    "Purchase Price": "$8.14",
+    "Membership?": false
+  },
+  {
+    "id": 435,
+    "DateTime": "2020-02-05 12:01:26",
+    "Product Name": "Soda Water - Club Soda, 355 Ml",
+    "Purchase Price": "$28.46",
+    "Membership?": false
+  },
+  {
+    "id": 436,
+    "DateTime": "2020-01-18 02:24:05",
+    "Product Name": "Plasticknivesblack",
+    "Purchase Price": "$37.79",
+    "Membership?": true
+  },
+  {
+    "id": 437,
+    "DateTime": "2020-02-20 10:19:28",
+    "Product Name": "Ostrich - Prime Cut",
+    "Purchase Price": "$8.29",
+    "Membership?": false
+  },
+  {
+    "id": 438,
+    "DateTime": "2020-02-21 13:38:12",
+    "Product Name": "Apricots Fresh",
+    "Purchase Price": "$32.57",
+    "Membership?": true
+  },
+  {
+    "id": 439,
+    "DateTime": "2020-03-30 17:48:42",
+    "Product Name": "Syrup - Monin, Swiss Choclate",
+    "Purchase Price": "$17.92",
+    "Membership?": false
+  },
+  {
+    "id": 440,
+    "DateTime": "2020-03-27 18:11:41",
+    "Product Name": "Pepper - Red, Finger Hot",
+    "Purchase Price": "$32.00",
+    "Membership?": false
+  },
+  {
+    "id": 441,
+    "DateTime": "2020-01-13 12:12:20",
+    "Product Name": "Tomatoes - Heirloom",
+    "Purchase Price": "$31.64",
+    "Membership?": false
+  },
+  {
+    "id": 442,
+    "DateTime": "2020-01-09 04:36:46",
+    "Product Name": "Beef - Baby, Liver",
+    "Purchase Price": "$39.91",
+    "Membership?": true
+  },
+  {
+    "id": 443,
+    "DateTime": "2020-02-17 09:57:51",
+    "Product Name": "Eggplant Oriental",
+    "Purchase Price": "$7.28",
+    "Membership?": false
+  },
+  {
+    "id": 444,
+    "DateTime": "2020-01-24 02:29:12",
+    "Product Name": "Fennel",
+    "Purchase Price": "$12.98",
+    "Membership?": false
+  },
+  {
+    "id": 445,
+    "DateTime": "2020-01-03 02:32:04",
+    "Product Name": "Pasta - Fusili, Dry",
+    "Purchase Price": "$31.24",
+    "Membership?": false
+  },
+  {
+    "id": 446,
+    "DateTime": "2020-03-30 01:41:01",
+    "Product Name": "Lychee",
+    "Purchase Price": "$37.77",
+    "Membership?": false
+  },
+  {
+    "id": 447,
+    "DateTime": "2020-03-31 17:45:58",
+    "Product Name": "Pepsi - Diet, 355 Ml",
+    "Purchase Price": "$33.96",
+    "Membership?": true
+  },
+  {
+    "id": 448,
+    "DateTime": "2020-01-18 06:43:53",
+    "Product Name": "Napkin Colour",
+    "Purchase Price": "$11.96",
+    "Membership?": true
+  },
+  {
+    "id": 449,
+    "DateTime": "2020-01-13 07:08:10",
+    "Product Name": "Dip - Tapenade",
+    "Purchase Price": "$27.57",
+    "Membership?": true
+  },
+  {
+    "id": 450,
+    "DateTime": "2020-01-24 13:46:45",
+    "Product Name": "Lettuce - Curly Endive",
+    "Purchase Price": "$38.94",
+    "Membership?": true
+  },
+  {
+    "id": 451,
+    "DateTime": "2020-03-18 01:36:31",
+    "Product Name": "Halibut - Steaks",
+    "Purchase Price": "$31.38",
+    "Membership?": true
+  },
+  {
+    "id": 452,
+    "DateTime": "2020-02-28 06:38:45",
+    "Product Name": "Bread - White, Sliced",
+    "Purchase Price": "$15.71",
+    "Membership?": false
+  },
+  {
+    "id": 453,
+    "DateTime": "2020-01-22 22:51:41",
+    "Product Name": "Muffin Orange Individual",
+    "Purchase Price": "$30.95",
+    "Membership?": true
+  },
+  {
+    "id": 454,
+    "DateTime": "2020-03-04 19:38:50",
+    "Product Name": "Clams - Canned",
+    "Purchase Price": "$26.36",
+    "Membership?": true
+  },
+  {
+    "id": 455,
+    "DateTime": "2020-02-14 17:04:09",
+    "Product Name": "Wine - Fino Tio Pepe Gonzalez",
+    "Purchase Price": "$6.30",
+    "Membership?": true
+  },
+  {
+    "id": 456,
+    "DateTime": "2020-03-26 00:52:38",
+    "Product Name": "Lamb - Ground",
+    "Purchase Price": "$10.16",
+    "Membership?": true
+  },
+  {
+    "id": 457,
+    "DateTime": "2020-03-14 09:00:48",
+    "Product Name": "Wine - Ruffino Chianti",
+    "Purchase Price": "$39.87",
+    "Membership?": false
+  },
+  {
+    "id": 458,
+    "DateTime": "2020-02-12 23:52:59",
+    "Product Name": "Mousse - Mango",
+    "Purchase Price": "$28.40",
+    "Membership?": false
+  },
+  {
+    "id": 459,
+    "DateTime": "2020-02-17 19:37:05",
+    "Product Name": "Beef - Bones, Cut - Up",
+    "Purchase Price": "$18.94",
+    "Membership?": false
+  },
+  {
+    "id": 460,
+    "DateTime": "2020-03-11 19:14:58",
+    "Product Name": "Wine - Maipo Valle Cabernet",
+    "Purchase Price": "$5.40",
+    "Membership?": true
+  },
+  {
+    "id": 461,
+    "DateTime": "2020-01-21 06:17:42",
+    "Product Name": "Wine - Casillero Del Diablo",
+    "Purchase Price": "$32.63",
+    "Membership?": true
+  },
+  {
+    "id": 462,
+    "DateTime": "2020-02-08 19:34:06",
+    "Product Name": "Cabbage - Green",
+    "Purchase Price": "$20.58",
+    "Membership?": false
+  },
+  {
+    "id": 463,
+    "DateTime": "2020-01-08 22:25:00",
+    "Product Name": "Corn Shoots",
+    "Purchase Price": "$34.70",
+    "Membership?": true
+  },
+  {
+    "id": 464,
+    "DateTime": "2020-03-18 18:37:16",
+    "Product Name": "Calypso - Pineapple Passion",
+    "Purchase Price": "$35.87",
+    "Membership?": false
+  },
+  {
+    "id": 465,
+    "DateTime": "2020-03-12 23:28:06",
+    "Product Name": "Wasabi Powder",
+    "Purchase Price": "$35.42",
+    "Membership?": true
+  },
+  {
+    "id": 466,
+    "DateTime": "2020-03-31 00:08:54",
+    "Product Name": "Coffee - Frthy Coffee Crisp",
+    "Purchase Price": "$28.46",
+    "Membership?": true
+  },
+  {
+    "id": 467,
+    "DateTime": "2020-02-29 04:36:06",
+    "Product Name": "Garlic - Primerba, Paste",
+    "Purchase Price": "$25.05",
+    "Membership?": true
+  },
+  {
+    "id": 468,
+    "DateTime": "2020-01-04 06:32:28",
+    "Product Name": "Coffee - Colombian, Portioned",
+    "Purchase Price": "$18.58",
+    "Membership?": false
+  },
+  {
+    "id": 469,
+    "DateTime": "2020-02-28 06:16:43",
+    "Product Name": "Appetizer - Shrimp Puff",
+    "Purchase Price": "$30.00",
+    "Membership?": true
+  },
+  {
+    "id": 470,
+    "DateTime": "2020-01-07 00:57:20",
+    "Product Name": "Cheese - Goat With Herbs",
+    "Purchase Price": "$5.49",
+    "Membership?": true
+  },
+  {
+    "id": 471,
+    "DateTime": "2020-01-18 01:11:35",
+    "Product Name": "Towels - Paper / Kraft",
+    "Purchase Price": "$7.31",
+    "Membership?": true
+  },
+  {
+    "id": 472,
+    "DateTime": "2020-02-03 08:18:05",
+    "Product Name": "Flour Pastry Super Fine",
+    "Purchase Price": "$16.71",
+    "Membership?": true
+  },
+  {
+    "id": 473,
+    "DateTime": "2020-03-24 14:06:44",
+    "Product Name": "Artichoke - Fresh",
+    "Purchase Price": "$12.21",
+    "Membership?": true
+  },
+  {
+    "id": 474,
+    "DateTime": "2020-02-12 10:20:05",
+    "Product Name": "Lamb - Loin Chops",
+    "Purchase Price": "$8.98",
+    "Membership?": false
+  },
+  {
+    "id": 475,
+    "DateTime": "2020-03-06 03:07:27",
+    "Product Name": "Sour Puss Raspberry",
+    "Purchase Price": "$38.24",
+    "Membership?": false
+  },
+  {
+    "id": 476,
+    "DateTime": "2020-02-27 09:58:33",
+    "Product Name": "Bar Mix - Pina Colada, 355 Ml",
+    "Purchase Price": "$34.66",
+    "Membership?": true
+  },
+  {
+    "id": 477,
+    "DateTime": "2020-02-03 03:17:00",
+    "Product Name": "Soy Protein",
+    "Purchase Price": "$25.80",
+    "Membership?": false
+  },
+  {
+    "id": 478,
+    "DateTime": "2020-03-15 22:02:04",
+    "Product Name": "Steampan - Foil",
+    "Purchase Price": "$28.68",
+    "Membership?": false
+  },
+  {
+    "id": 479,
+    "DateTime": "2020-01-18 04:41:53",
+    "Product Name": "Sugar - Individual Portions",
+    "Purchase Price": "$8.61",
+    "Membership?": false
+  },
+  {
+    "id": 480,
+    "DateTime": "2020-01-10 16:52:54",
+    "Product Name": "Beef - Rouladin, Sliced",
+    "Purchase Price": "$9.42",
+    "Membership?": true
+  },
+  {
+    "id": 481,
+    "DateTime": "2020-03-15 16:26:06",
+    "Product Name": "Cloves - Whole",
+    "Purchase Price": "$33.41",
+    "Membership?": false
+  },
+  {
+    "id": 482,
+    "DateTime": "2020-02-07 10:40:18",
+    "Product Name": "Bread - Malt",
+    "Purchase Price": "$24.40",
+    "Membership?": true
+  },
+  {
+    "id": 483,
+    "DateTime": "2020-01-31 17:39:35",
+    "Product Name": "Cheese - Sheep Milk",
+    "Purchase Price": "$37.16",
+    "Membership?": false
+  },
+  {
+    "id": 484,
+    "DateTime": "2020-01-22 05:42:26",
+    "Product Name": "Ice Cream - Vanilla",
+    "Purchase Price": "$15.23",
+    "Membership?": false
+  },
+  {
+    "id": 485,
+    "DateTime": "2020-01-03 17:14:49",
+    "Product Name": "Chips Potato Swt Chilli Sour",
+    "Purchase Price": "$32.19",
+    "Membership?": false
+  },
+  {
+    "id": 486,
+    "DateTime": "2020-01-18 20:26:15",
+    "Product Name": "Pasta - Agnolotti - Butternut",
+    "Purchase Price": "$31.23",
+    "Membership?": false
+  },
+  {
+    "id": 487,
+    "DateTime": "2020-02-04 07:27:03",
+    "Product Name": "Sesame Seed Black",
+    "Purchase Price": "$9.60",
+    "Membership?": true
+  },
+  {
+    "id": 488,
+    "DateTime": "2020-03-02 02:22:09",
+    "Product Name": "Muffin - Mix - Bran And Maple 15l",
+    "Purchase Price": "$28.84",
+    "Membership?": true
+  },
+  {
+    "id": 489,
+    "DateTime": "2020-03-12 06:02:13",
+    "Product Name": "Chinese Foods - Cantonese",
+    "Purchase Price": "$35.87",
+    "Membership?": false
+  },
+  {
+    "id": 490,
+    "DateTime": "2020-02-10 01:21:00",
+    "Product Name": "Chickensplit Half",
+    "Purchase Price": "$9.89",
+    "Membership?": false
+  },
+  {
+    "id": 491,
+    "DateTime": "2020-01-12 15:35:48",
+    "Product Name": "Vinegar - Red Wine",
+    "Purchase Price": "$29.55",
+    "Membership?": false
+  },
+  {
+    "id": 492,
+    "DateTime": "2020-01-15 04:01:52",
+    "Product Name": "Cookie Trail Mix",
+    "Purchase Price": "$31.39",
+    "Membership?": true
+  },
+  {
+    "id": 493,
+    "DateTime": "2020-01-21 08:08:25",
+    "Product Name": "Food Colouring - Red",
+    "Purchase Price": "$6.63",
+    "Membership?": true
+  },
+  {
+    "id": 494,
+    "DateTime": "2020-01-25 02:06:08",
+    "Product Name": "Coconut Milk - Unsweetened",
+    "Purchase Price": "$28.20",
+    "Membership?": true
+  },
+  {
+    "id": 495,
+    "DateTime": "2020-03-30 20:12:19",
+    "Product Name": "Rum - Mount Gay Eclipes",
+    "Purchase Price": "$5.18",
+    "Membership?": false
+  },
+  {
+    "id": 496,
+    "DateTime": "2020-02-05 10:52:07",
+    "Product Name": "Appetizer - Smoked Salmon / Dill",
+    "Purchase Price": "$32.32",
+    "Membership?": false
+  },
+  {
+    "id": 497,
+    "DateTime": "2020-02-26 21:27:35",
+    "Product Name": "Lady Fingers",
+    "Purchase Price": "$8.73",
+    "Membership?": true
+  },
+  {
+    "id": 498,
+    "DateTime": "2020-01-29 11:02:06",
+    "Product Name": "Cheese - Mozzarella, Shredded",
+    "Purchase Price": "$6.75",
+    "Membership?": true
+  },
+  {
+    "id": 499,
+    "DateTime": "2020-01-31 12:32:42",
+    "Product Name": "Cheese - Victor Et Berthold",
+    "Purchase Price": "$24.54",
+    "Membership?": true
+  },
+  {
+    "id": 500,
+    "DateTime": "2020-01-27 17:00:39",
+    "Product Name": "Wine - Spumante Bambino White",
+    "Purchase Price": "$29.08",
+    "Membership?": false
+  },
+  {
+    "id": 501,
+    "DateTime": "2020-03-11 16:31:06",
+    "Product Name": "Oregano - Fresh",
+    "Purchase Price": "$26.72",
+    "Membership?": false
+  },
+  {
+    "id": 502,
+    "DateTime": "2020-02-23 15:27:36",
+    "Product Name": "Pop Shoppe Cream Soda",
+    "Purchase Price": "$10.25",
+    "Membership?": true
+  },
+  {
+    "id": 503,
+    "DateTime": "2020-01-24 05:39:11",
+    "Product Name": "Foil - 4oz Custard Cup",
+    "Purchase Price": "$12.18",
+    "Membership?": false
+  },
+  {
+    "id": 504,
+    "DateTime": "2020-03-06 01:36:36",
+    "Product Name": "Cookie - Dough Variety",
+    "Purchase Price": "$34.39",
+    "Membership?": true
+  },
+  {
+    "id": 505,
+    "DateTime": "2020-02-03 10:24:38",
+    "Product Name": "Cinnamon Buns Sticky",
+    "Purchase Price": "$38.12",
+    "Membership?": false
+  },
+  {
+    "id": 506,
+    "DateTime": "2020-02-25 22:59:17",
+    "Product Name": "Squid U5 - Thailand",
+    "Purchase Price": "$21.50",
+    "Membership?": true
+  },
+  {
+    "id": 507,
+    "DateTime": "2020-01-06 03:26:24",
+    "Product Name": "Mushroom - Enoki, Fresh",
+    "Purchase Price": "$37.84",
+    "Membership?": false
+  },
+  {
+    "id": 508,
+    "DateTime": "2020-02-26 11:58:54",
+    "Product Name": "Turnip - White",
+    "Purchase Price": "$25.87",
+    "Membership?": false
+  },
+  {
+    "id": 509,
+    "DateTime": "2020-01-27 03:11:13",
+    "Product Name": "Trout - Smoked",
+    "Purchase Price": "$30.78",
+    "Membership?": false
+  },
+  {
+    "id": 510,
+    "DateTime": "2020-03-13 02:30:23",
+    "Product Name": "Egg - Salad Premix",
+    "Purchase Price": "$27.74",
+    "Membership?": true
+  },
+  {
+    "id": 511,
+    "DateTime": "2020-02-27 06:16:19",
+    "Product Name": "Vinegar - Cider",
+    "Purchase Price": "$30.13",
+    "Membership?": true
+  },
+  {
+    "id": 512,
+    "DateTime": "2020-01-27 11:29:06",
+    "Product Name": "Dried Cherries",
+    "Purchase Price": "$19.63",
+    "Membership?": true
+  },
+  {
+    "id": 513,
+    "DateTime": "2020-02-06 10:27:01",
+    "Product Name": "Yogurt - French Vanilla",
+    "Purchase Price": "$13.46",
+    "Membership?": true
+  },
+  {
+    "id": 514,
+    "DateTime": "2020-01-16 15:14:43",
+    "Product Name": "Straws - Cocktale",
+    "Purchase Price": "$16.64",
+    "Membership?": false
+  },
+  {
+    "id": 515,
+    "DateTime": "2020-01-18 21:04:27",
+    "Product Name": "Ezy Change Mophandle",
+    "Purchase Price": "$16.52",
+    "Membership?": true
+  },
+  {
+    "id": 516,
+    "DateTime": "2020-01-20 17:51:51",
+    "Product Name": "Sage - Fresh",
+    "Purchase Price": "$20.51",
+    "Membership?": false
+  },
+  {
+    "id": 517,
+    "DateTime": "2020-02-25 09:22:07",
+    "Product Name": "Table Cloth 90x90 Colour",
+    "Purchase Price": "$18.83",
+    "Membership?": false
+  },
+  {
+    "id": 518,
+    "DateTime": "2020-01-25 09:46:37",
+    "Product Name": "Cup Translucent 9 Oz",
+    "Purchase Price": "$8.93",
+    "Membership?": false
+  },
+  {
+    "id": 519,
+    "DateTime": "2020-02-14 02:36:26",
+    "Product Name": "Table Cloth 90x90 White",
+    "Purchase Price": "$39.50",
+    "Membership?": false
+  },
+  {
+    "id": 520,
+    "DateTime": "2020-03-11 03:33:27",
+    "Product Name": "Container - Clear 32 Oz",
+    "Purchase Price": "$31.38",
+    "Membership?": true
+  },
+  {
+    "id": 521,
+    "DateTime": "2020-01-14 12:26:19",
+    "Product Name": "Banana Turning",
+    "Purchase Price": "$32.14",
+    "Membership?": false
+  },
+  {
+    "id": 522,
+    "DateTime": "2020-03-24 10:31:38",
+    "Product Name": "Oil - Safflower",
+    "Purchase Price": "$18.69",
+    "Membership?": false
+  },
+  {
+    "id": 523,
+    "DateTime": "2020-03-30 04:16:31",
+    "Product Name": "Beef - Top Sirloin",
+    "Purchase Price": "$6.04",
+    "Membership?": true
+  },
+  {
+    "id": 524,
+    "DateTime": "2020-01-13 20:22:57",
+    "Product Name": "Hummus - Spread",
+    "Purchase Price": "$15.24",
+    "Membership?": true
+  },
+  {
+    "id": 525,
+    "DateTime": "2020-01-05 15:11:10",
+    "Product Name": "Ginger - Ground",
+    "Purchase Price": "$38.90",
+    "Membership?": true
+  },
+  {
+    "id": 526,
+    "DateTime": "2020-01-20 11:41:02",
+    "Product Name": "Sprouts - China Rose",
+    "Purchase Price": "$17.19",
+    "Membership?": false
+  },
+  {
+    "id": 527,
+    "DateTime": "2020-02-11 05:04:12",
+    "Product Name": "Beans - Kidney, Canned",
+    "Purchase Price": "$7.75",
+    "Membership?": false
+  },
+  {
+    "id": 528,
+    "DateTime": "2020-02-03 14:23:45",
+    "Product Name": "Ham - Cooked",
+    "Purchase Price": "$5.25",
+    "Membership?": true
+  },
+  {
+    "id": 529,
+    "DateTime": "2020-02-20 19:11:52",
+    "Product Name": "Halibut - Whole, Fresh",
+    "Purchase Price": "$38.65",
+    "Membership?": false
+  },
+  {
+    "id": 530,
+    "DateTime": "2020-02-26 05:29:37",
+    "Product Name": "Puree - Passion Fruit",
+    "Purchase Price": "$11.91",
+    "Membership?": true
+  },
+  {
+    "id": 531,
+    "DateTime": "2020-01-19 18:19:29",
+    "Product Name": "Wine - Puligny Montrachet A.",
+    "Purchase Price": "$30.92",
+    "Membership?": true
+  },
+  {
+    "id": 532,
+    "DateTime": "2020-03-17 04:46:38",
+    "Product Name": "Cabbage - Red",
+    "Purchase Price": "$34.37",
+    "Membership?": false
+  },
+  {
+    "id": 533,
+    "DateTime": "2020-01-06 15:14:22",
+    "Product Name": "Banana - Green",
+    "Purchase Price": "$7.16",
+    "Membership?": false
+  },
+  {
+    "id": 534,
+    "DateTime": "2020-01-07 10:54:28",
+    "Product Name": "Flour - Chickpea",
+    "Purchase Price": "$9.20",
+    "Membership?": true
+  },
+  {
+    "id": 535,
+    "DateTime": "2020-02-17 11:52:35",
+    "Product Name": "Pork - Belly Fresh",
+    "Purchase Price": "$13.97",
+    "Membership?": false
+  },
+  {
+    "id": 536,
+    "DateTime": "2020-02-29 23:04:48",
+    "Product Name": "Bread - Italian Sesame Poly",
+    "Purchase Price": "$27.32",
+    "Membership?": false
+  },
+  {
+    "id": 537,
+    "DateTime": "2020-02-20 11:26:33",
+    "Product Name": "Capicola - Hot",
+    "Purchase Price": "$5.02",
+    "Membership?": false
+  },
+  {
+    "id": 538,
+    "DateTime": "2020-03-15 03:12:45",
+    "Product Name": "Carbonated Water - Raspberry",
+    "Purchase Price": "$10.34",
+    "Membership?": false
+  },
+  {
+    "id": 539,
+    "DateTime": "2020-02-19 21:54:20",
+    "Product Name": "Beans - Kidney, Canned",
+    "Purchase Price": "$18.87",
+    "Membership?": true
+  },
+  {
+    "id": 540,
+    "DateTime": "2020-03-04 10:37:59",
+    "Product Name": "Milk - Chocolate 500ml",
+    "Purchase Price": "$20.27",
+    "Membership?": false
+  },
+  {
+    "id": 541,
+    "DateTime": "2020-03-25 04:18:47",
+    "Product Name": "Lamb - Loin Chops",
+    "Purchase Price": "$39.20",
+    "Membership?": false
+  },
+  {
+    "id": 542,
+    "DateTime": "2020-02-29 12:35:58",
+    "Product Name": "Wine - Kwv Chenin Blanc South",
+    "Purchase Price": "$5.66",
+    "Membership?": false
+  },
+  {
+    "id": 543,
+    "DateTime": "2020-03-07 06:01:31",
+    "Product Name": "Potatoes - Mini Red",
+    "Purchase Price": "$13.85",
+    "Membership?": true
+  },
+  {
+    "id": 544,
+    "DateTime": "2020-02-13 13:58:04",
+    "Product Name": "Bar Energy Chocchip",
+    "Purchase Price": "$25.58",
+    "Membership?": true
+  },
+  {
+    "id": 545,
+    "DateTime": "2020-01-18 07:02:30",
+    "Product Name": "Table Cloth 120 Round White",
+    "Purchase Price": "$17.61",
+    "Membership?": true
+  },
+  {
+    "id": 546,
+    "DateTime": "2020-03-23 23:09:37",
+    "Product Name": "Wine - Valpolicella Masi",
+    "Purchase Price": "$17.09",
+    "Membership?": false
+  },
+  {
+    "id": 547,
+    "DateTime": "2020-01-05 03:54:31",
+    "Product Name": "Beef - Ox Tongue, Pickled",
+    "Purchase Price": "$17.88",
+    "Membership?": false
+  },
+  {
+    "id": 548,
+    "DateTime": "2020-03-30 18:01:57",
+    "Product Name": "Bread - Pain Au Liat X12",
+    "Purchase Price": "$29.02",
+    "Membership?": true
+  },
+  {
+    "id": 549,
+    "DateTime": "2020-03-02 01:00:22",
+    "Product Name": "Wine - Zonnebloem Pinotage",
+    "Purchase Price": "$8.56",
+    "Membership?": true
+  },
+  {
+    "id": 550,
+    "DateTime": "2020-01-09 04:25:31",
+    "Product Name": "Mustard - Dry, Powder",
+    "Purchase Price": "$27.78",
+    "Membership?": false
+  },
+  {
+    "id": 551,
+    "DateTime": "2020-03-28 10:04:08",
+    "Product Name": "Nestea - Iced Tea",
+    "Purchase Price": "$6.43",
+    "Membership?": false
+  },
+  {
+    "id": 552,
+    "DateTime": "2020-03-16 03:06:31",
+    "Product Name": "Monkfish Fresh - Skin Off",
+    "Purchase Price": "$39.18",
+    "Membership?": true
+  },
+  {
+    "id": 553,
+    "DateTime": "2020-01-26 03:21:39",
+    "Product Name": "Carbonated Water - Strawberry",
+    "Purchase Price": "$26.17",
+    "Membership?": true
+  },
+  {
+    "id": 554,
+    "DateTime": "2020-01-26 20:29:08",
+    "Product Name": "Coconut - Shredded, Unsweet",
+    "Purchase Price": "$20.18",
+    "Membership?": false
+  },
+  {
+    "id": 555,
+    "DateTime": "2020-02-11 21:17:42",
+    "Product Name": "Container - Clear 32 Oz",
+    "Purchase Price": "$11.42",
+    "Membership?": true
+  },
+  {
+    "id": 556,
+    "DateTime": "2020-02-02 16:45:05",
+    "Product Name": "Lid Coffee Cup 8oz Blk",
+    "Purchase Price": "$15.14",
+    "Membership?": false
+  },
+  {
+    "id": 557,
+    "DateTime": "2020-03-03 16:16:05",
+    "Product Name": "Cranberry Foccacia",
+    "Purchase Price": "$31.36",
+    "Membership?": false
+  },
+  {
+    "id": 558,
+    "DateTime": "2020-03-03 10:45:03",
+    "Product Name": "Tart - Raisin And Pecan",
+    "Purchase Price": "$10.40",
+    "Membership?": false
+  },
+  {
+    "id": 559,
+    "DateTime": "2020-01-20 13:46:45",
+    "Product Name": "Garbag Bags - Black",
+    "Purchase Price": "$21.61",
+    "Membership?": true
+  },
+  {
+    "id": 560,
+    "DateTime": "2020-01-28 11:45:33",
+    "Product Name": "Soup - Campbells - Tomato",
+    "Purchase Price": "$17.37",
+    "Membership?": false
+  },
+  {
+    "id": 561,
+    "DateTime": "2020-01-08 18:01:42",
+    "Product Name": "Juice - Propel Sport",
+    "Purchase Price": "$11.68",
+    "Membership?": false
+  },
+  {
+    "id": 562,
+    "DateTime": "2020-03-18 08:41:34",
+    "Product Name": "Beans - Green",
+    "Purchase Price": "$33.39",
+    "Membership?": false
+  },
+  {
+    "id": 563,
+    "DateTime": "2020-01-25 03:04:13",
+    "Product Name": "Yoplait - Strawbrasp Peac",
+    "Purchase Price": "$5.78",
+    "Membership?": false
+  },
+  {
+    "id": 564,
+    "DateTime": "2020-02-24 20:29:46",
+    "Product Name": "Mushroom - Chanterelle Frozen",
+    "Purchase Price": "$29.98",
+    "Membership?": true
+  },
+  {
+    "id": 565,
+    "DateTime": "2020-03-29 00:52:05",
+    "Product Name": "Wasabi Paste",
+    "Purchase Price": "$11.49",
+    "Membership?": false
+  },
+  {
+    "id": 566,
+    "DateTime": "2020-02-05 05:39:08",
+    "Product Name": "Olives - Stuffed",
+    "Purchase Price": "$22.75",
+    "Membership?": false
+  },
+  {
+    "id": 567,
+    "DateTime": "2020-03-12 11:17:28",
+    "Product Name": "Corn - On The Cob",
+    "Purchase Price": "$30.70",
+    "Membership?": true
+  },
+  {
+    "id": 568,
+    "DateTime": "2020-02-24 15:18:36",
+    "Product Name": "Wine - Barossa Valley Estate",
+    "Purchase Price": "$34.07",
+    "Membership?": false
+  },
+  {
+    "id": 569,
+    "DateTime": "2020-02-04 14:05:13",
+    "Product Name": "Wine - Port Late Bottled Vintage",
+    "Purchase Price": "$30.12",
+    "Membership?": true
+  },
+  {
+    "id": 570,
+    "DateTime": "2020-01-16 15:26:07",
+    "Product Name": "Hand Towel",
+    "Purchase Price": "$14.23",
+    "Membership?": true
+  },
+  {
+    "id": 571,
+    "DateTime": "2020-02-23 09:54:55",
+    "Product Name": "Swordfish Loin Portions",
+    "Purchase Price": "$5.79",
+    "Membership?": false
+  },
+  {
+    "id": 572,
+    "DateTime": "2020-02-03 19:42:10",
+    "Product Name": "Water - Aquafina Vitamin",
+    "Purchase Price": "$26.09",
+    "Membership?": false
+  },
+  {
+    "id": 573,
+    "DateTime": "2020-01-18 05:52:42",
+    "Product Name": "Nantucket Apple Juice",
+    "Purchase Price": "$36.59",
+    "Membership?": true
+  },
+  {
+    "id": 574,
+    "DateTime": "2020-01-07 04:05:01",
+    "Product Name": "Container - Clear 32 Oz",
+    "Purchase Price": "$38.73",
+    "Membership?": true
+  },
+  {
+    "id": 575,
+    "DateTime": "2020-01-16 01:34:37",
+    "Product Name": "Swiss Chard - Red",
+    "Purchase Price": "$12.47",
+    "Membership?": false
+  },
+  {
+    "id": 576,
+    "DateTime": "2020-03-26 04:24:54",
+    "Product Name": "Wine - White, Antinore Orvieto",
+    "Purchase Price": "$23.73",
+    "Membership?": true
+  },
+  {
+    "id": 577,
+    "DateTime": "2020-01-31 06:06:34",
+    "Product Name": "Rolled Oats",
+    "Purchase Price": "$39.27",
+    "Membership?": true
+  },
+  {
+    "id": 578,
+    "DateTime": "2020-01-19 02:59:12",
+    "Product Name": "Sparkling Wine - Rose, Freixenet",
+    "Purchase Price": "$15.90",
+    "Membership?": false
+  },
+  {
+    "id": 579,
+    "DateTime": "2020-03-12 10:37:14",
+    "Product Name": "Wine - Sawmill Creek Autumn",
+    "Purchase Price": "$20.75",
+    "Membership?": true
+  },
+  {
+    "id": 580,
+    "DateTime": "2020-01-17 01:19:31",
+    "Product Name": "Kahlua",
+    "Purchase Price": "$16.36",
+    "Membership?": true
+  },
+  {
+    "id": 581,
+    "DateTime": "2020-01-17 04:03:09",
+    "Product Name": "Tomato - Green",
+    "Purchase Price": "$17.51",
+    "Membership?": true
+  },
+  {
+    "id": 582,
+    "DateTime": "2020-02-16 14:35:30",
+    "Product Name": "Pectin",
+    "Purchase Price": "$19.99",
+    "Membership?": false
+  },
+  {
+    "id": 583,
+    "DateTime": "2020-02-25 22:58:27",
+    "Product Name": "Long Island Ice Tea",
+    "Purchase Price": "$7.47",
+    "Membership?": true
+  },
+  {
+    "id": 584,
+    "DateTime": "2020-03-29 16:21:09",
+    "Product Name": "Ham - Procutinni",
+    "Purchase Price": "$15.28",
+    "Membership?": true
+  },
+  {
+    "id": 585,
+    "DateTime": "2020-01-13 09:39:35",
+    "Product Name": "Versatainer Nc - 8288",
+    "Purchase Price": "$15.33",
+    "Membership?": false
+  },
+  {
+    "id": 586,
+    "DateTime": "2020-03-23 15:25:48",
+    "Product Name": "Sprouts - Corn",
+    "Purchase Price": "$22.44",
+    "Membership?": false
+  },
+  {
+    "id": 587,
+    "DateTime": "2020-02-05 08:11:55",
+    "Product Name": "Yogurt - Raspberry, 175 Gr",
+    "Purchase Price": "$23.75",
+    "Membership?": false
+  },
+  {
+    "id": 588,
+    "DateTime": "2020-03-21 16:31:58",
+    "Product Name": "Pepper - Orange",
+    "Purchase Price": "$26.34",
+    "Membership?": false
+  },
+  {
+    "id": 589,
+    "DateTime": "2020-01-18 13:42:28",
+    "Product Name": "Maple Syrup",
+    "Purchase Price": "$17.83",
+    "Membership?": false
+  },
+  {
+    "id": 590,
+    "DateTime": "2020-02-13 06:39:45",
+    "Product Name": "Wine - White, Schroder And Schyl",
+    "Purchase Price": "$8.70",
+    "Membership?": true
+  },
+  {
+    "id": 591,
+    "DateTime": "2020-03-14 03:20:23",
+    "Product Name": "Rabbit - Saddles",
+    "Purchase Price": "$9.54",
+    "Membership?": true
+  },
+  {
+    "id": 592,
+    "DateTime": "2020-02-14 23:30:20",
+    "Product Name": "Table Cloth 144x90 White",
+    "Purchase Price": "$39.92",
+    "Membership?": false
+  },
+  {
+    "id": 593,
+    "DateTime": "2020-01-14 01:45:30",
+    "Product Name": "Snapple Raspberry Tea",
+    "Purchase Price": "$26.13",
+    "Membership?": true
+  },
+  {
+    "id": 594,
+    "DateTime": "2020-03-16 18:40:29",
+    "Product Name": "Marjoram - Fresh",
+    "Purchase Price": "$15.46",
+    "Membership?": false
+  },
+  {
+    "id": 595,
+    "DateTime": "2020-01-11 08:52:52",
+    "Product Name": "Onions - Vidalia",
+    "Purchase Price": "$27.86",
+    "Membership?": false
+  },
+  {
+    "id": 596,
+    "DateTime": "2020-02-03 18:24:06",
+    "Product Name": "Flour - So Mix Cake White",
+    "Purchase Price": "$25.86",
+    "Membership?": false
+  },
+  {
+    "id": 597,
+    "DateTime": "2020-02-07 05:38:48",
+    "Product Name": "Wine - Champagne Brut Veuve",
+    "Purchase Price": "$32.32",
+    "Membership?": true
+  },
+  {
+    "id": 598,
+    "DateTime": "2020-02-26 10:43:17",
+    "Product Name": "Tuna - Fresh",
+    "Purchase Price": "$7.80",
+    "Membership?": false
+  },
+  {
+    "id": 599,
+    "DateTime": "2020-03-05 14:58:18",
+    "Product Name": "Mussels - Cultivated",
+    "Purchase Price": "$20.78",
+    "Membership?": true
+  },
+  {
+    "id": 600,
+    "DateTime": "2020-03-31 22:27:23",
+    "Product Name": "Beets",
+    "Purchase Price": "$7.68",
+    "Membership?": true
+  },
+  {
+    "id": 601,
+    "DateTime": "2020-01-21 01:53:54",
+    "Product Name": "Wonton Wrappers",
+    "Purchase Price": "$17.20",
+    "Membership?": false
+  },
+  {
+    "id": 602,
+    "DateTime": "2020-01-19 11:31:38",
+    "Product Name": "Cheese - Provolone",
+    "Purchase Price": "$23.69",
+    "Membership?": true
+  },
+  {
+    "id": 603,
+    "DateTime": "2020-01-22 11:17:06",
+    "Product Name": "Rye Special Old",
+    "Purchase Price": "$35.92",
+    "Membership?": true
+  },
+  {
+    "id": 604,
+    "DateTime": "2020-02-17 00:48:15",
+    "Product Name": "Pork Ham Prager",
+    "Purchase Price": "$28.58",
+    "Membership?": true
+  },
+  {
+    "id": 605,
+    "DateTime": "2020-03-02 02:03:59",
+    "Product Name": "Whmis - Spray Bottle Trigger",
+    "Purchase Price": "$5.10",
+    "Membership?": false
+  },
+  {
+    "id": 606,
+    "DateTime": "2020-02-06 03:50:34",
+    "Product Name": "Bacardi Mojito",
+    "Purchase Price": "$34.47",
+    "Membership?": false
+  },
+  {
+    "id": 607,
+    "DateTime": "2020-02-09 23:11:20",
+    "Product Name": "Kellogs Special K Cereal",
+    "Purchase Price": "$10.56",
+    "Membership?": true
+  },
+  {
+    "id": 608,
+    "DateTime": "2020-03-09 04:23:21",
+    "Product Name": "Oil - Hazelnut",
+    "Purchase Price": "$10.99",
+    "Membership?": true
+  },
+  {
+    "id": 609,
+    "DateTime": "2020-01-06 17:33:23",
+    "Product Name": "Lettuce - Curly Endive",
+    "Purchase Price": "$33.71",
+    "Membership?": true
+  },
+  {
+    "id": 610,
+    "DateTime": "2020-03-08 20:51:32",
+    "Product Name": "Wine - Bourgogne 2002, La",
+    "Purchase Price": "$19.99",
+    "Membership?": true
+  },
+  {
+    "id": 611,
+    "DateTime": "2020-03-05 08:43:34",
+    "Product Name": "Lemonade - Pineapple Passion",
+    "Purchase Price": "$21.07",
+    "Membership?": false
+  },
+  {
+    "id": 612,
+    "DateTime": "2020-03-21 12:01:15",
+    "Product Name": "Cake - French Pear Tart",
+    "Purchase Price": "$22.99",
+    "Membership?": true
+  },
+  {
+    "id": 613,
+    "DateTime": "2020-02-19 09:07:34",
+    "Product Name": "Squid - Breaded",
+    "Purchase Price": "$33.26",
+    "Membership?": true
+  },
+  {
+    "id": 614,
+    "DateTime": "2020-03-27 08:59:26",
+    "Product Name": "Milk Powder",
+    "Purchase Price": "$23.68",
+    "Membership?": true
+  },
+  {
+    "id": 615,
+    "DateTime": "2020-02-18 21:50:48",
+    "Product Name": "Wine - Red, Pelee Island Merlot",
+    "Purchase Price": "$26.21",
+    "Membership?": false
+  },
+  {
+    "id": 616,
+    "DateTime": "2020-01-25 22:11:02",
+    "Product Name": "Oil - Pumpkinseed",
+    "Purchase Price": "$30.87",
+    "Membership?": true
+  },
+  {
+    "id": 617,
+    "DateTime": "2020-02-19 16:46:34",
+    "Product Name": "Ice Cream Bar - Rolo Cone",
+    "Purchase Price": "$13.50",
+    "Membership?": true
+  },
+  {
+    "id": 618,
+    "DateTime": "2020-01-16 22:22:01",
+    "Product Name": "Beef - Shank",
+    "Purchase Price": "$29.56",
+    "Membership?": false
+  },
+  {
+    "id": 619,
+    "DateTime": "2020-02-14 04:38:41",
+    "Product Name": "Oven Mitts - 15 Inch",
+    "Purchase Price": "$21.67",
+    "Membership?": false
+  },
+  {
+    "id": 620,
+    "DateTime": "2020-03-07 01:54:53",
+    "Product Name": "Goldschalger",
+    "Purchase Price": "$27.63",
+    "Membership?": true
+  },
+  {
+    "id": 621,
+    "DateTime": "2020-02-24 21:22:46",
+    "Product Name": "Kumquat",
+    "Purchase Price": "$27.15",
+    "Membership?": false
+  },
+  {
+    "id": 622,
+    "DateTime": "2020-03-29 02:56:43",
+    "Product Name": "Coffee - Almond Amaretto",
+    "Purchase Price": "$32.09",
+    "Membership?": false
+  },
+  {
+    "id": 623,
+    "DateTime": "2020-02-24 20:33:54",
+    "Product Name": "Chicken - Leg, Boneless",
+    "Purchase Price": "$35.96",
+    "Membership?": true
+  },
+  {
+    "id": 624,
+    "DateTime": "2020-02-16 08:35:42",
+    "Product Name": "Salt And Pepper Mix - Black",
+    "Purchase Price": "$27.84",
+    "Membership?": true
+  },
+  {
+    "id": 625,
+    "DateTime": "2020-01-09 08:40:45",
+    "Product Name": "Beef - Striploin",
+    "Purchase Price": "$23.81",
+    "Membership?": true
+  },
+  {
+    "id": 626,
+    "DateTime": "2020-01-12 06:24:28",
+    "Product Name": "Tomatoes - Heirloom",
+    "Purchase Price": "$15.14",
+    "Membership?": false
+  },
+  {
+    "id": 627,
+    "DateTime": "2020-01-28 07:10:11",
+    "Product Name": "Silicone Parch. 16.3x24.3",
+    "Purchase Price": "$11.82",
+    "Membership?": true
+  },
+  {
+    "id": 628,
+    "DateTime": "2020-01-08 16:49:59",
+    "Product Name": "Turnip - Wax",
+    "Purchase Price": "$36.89",
+    "Membership?": false
+  },
+  {
+    "id": 629,
+    "DateTime": "2020-03-16 17:27:00",
+    "Product Name": "Bacardi Breezer - Tropical",
+    "Purchase Price": "$22.52",
+    "Membership?": true
+  },
+  {
+    "id": 630,
+    "DateTime": "2020-02-04 13:09:50",
+    "Product Name": "Beef - Chuck, Boneless",
+    "Purchase Price": "$25.40",
+    "Membership?": false
+  },
+  {
+    "id": 631,
+    "DateTime": "2020-03-12 17:58:37",
+    "Product Name": "Wine - Penfolds Koonuga Hill",
+    "Purchase Price": "$5.27",
+    "Membership?": true
+  },
+  {
+    "id": 632,
+    "DateTime": "2020-03-13 05:52:14",
+    "Product Name": "Oven Mitt - 13 Inch",
+    "Purchase Price": "$10.30",
+    "Membership?": false
+  },
+  {
+    "id": 633,
+    "DateTime": "2020-03-06 07:03:32",
+    "Product Name": "Wine - Pinot Noir Mondavi Coastal",
+    "Purchase Price": "$5.92",
+    "Membership?": true
+  },
+  {
+    "id": 634,
+    "DateTime": "2020-03-21 03:17:02",
+    "Product Name": "Cup - 4oz Translucent",
+    "Purchase Price": "$23.26",
+    "Membership?": false
+  },
+  {
+    "id": 635,
+    "DateTime": "2020-01-16 00:38:10",
+    "Product Name": "Muffin Mix - Lemon Cranberry",
+    "Purchase Price": "$21.90",
+    "Membership?": true
+  },
+  {
+    "id": 636,
+    "DateTime": "2020-01-27 20:05:34",
+    "Product Name": "Pork - Butt, Boneless",
+    "Purchase Price": "$20.93",
+    "Membership?": false
+  },
+  {
+    "id": 637,
+    "DateTime": "2020-03-12 12:53:11",
+    "Product Name": "Lemon Grass",
+    "Purchase Price": "$19.84",
+    "Membership?": false
+  },
+  {
+    "id": 638,
+    "DateTime": "2020-03-31 04:57:41",
+    "Product Name": "Sauce - White, Mix",
+    "Purchase Price": "$21.66",
+    "Membership?": false
+  },
+  {
+    "id": 639,
+    "DateTime": "2020-01-31 14:27:28",
+    "Product Name": "Pesto - Primerba, Paste",
+    "Purchase Price": "$16.23",
+    "Membership?": false
+  },
+  {
+    "id": 640,
+    "DateTime": "2020-03-26 04:35:13",
+    "Product Name": "Langers - Ruby Red Grapfruit",
+    "Purchase Price": "$15.84",
+    "Membership?": true
+  },
+  {
+    "id": 641,
+    "DateTime": "2020-02-01 15:46:39",
+    "Product Name": "Bread Cranberry Foccacia",
+    "Purchase Price": "$27.04",
+    "Membership?": false
+  },
+  {
+    "id": 642,
+    "DateTime": "2020-02-03 02:27:55",
+    "Product Name": "Wine - German Riesling",
+    "Purchase Price": "$29.29",
+    "Membership?": true
+  },
+  {
+    "id": 643,
+    "DateTime": "2020-02-15 21:21:24",
+    "Product Name": "Basil - Primerba, Paste",
+    "Purchase Price": "$20.39",
+    "Membership?": true
+  },
+  {
+    "id": 644,
+    "DateTime": "2020-03-20 01:55:22",
+    "Product Name": "Coffee - Cafe Moreno",
+    "Purchase Price": "$20.07",
+    "Membership?": false
+  },
+  {
+    "id": 645,
+    "DateTime": "2020-02-10 09:21:20",
+    "Product Name": "Mushroom - Portebello",
+    "Purchase Price": "$27.41",
+    "Membership?": true
+  },
+  {
+    "id": 646,
+    "DateTime": "2020-01-25 13:25:24",
+    "Product Name": "Venison - Striploin",
+    "Purchase Price": "$28.83",
+    "Membership?": false
+  },
+  {
+    "id": 647,
+    "DateTime": "2020-01-24 18:09:37",
+    "Product Name": "Chocolate - White",
+    "Purchase Price": "$37.69",
+    "Membership?": false
+  },
+  {
+    "id": 648,
+    "DateTime": "2020-03-29 11:53:22",
+    "Product Name": "Soup - Campbells Mac N Cheese",
+    "Purchase Price": "$13.01",
+    "Membership?": true
+  },
+  {
+    "id": 649,
+    "DateTime": "2020-03-25 13:11:58",
+    "Product Name": "Table Cloth 62x114 White",
+    "Purchase Price": "$31.70",
+    "Membership?": true
+  },
+  {
+    "id": 650,
+    "DateTime": "2020-01-29 04:21:48",
+    "Product Name": "Langers - Ruby Red Grapfruit",
+    "Purchase Price": "$38.70",
+    "Membership?": false
+  },
+  {
+    "id": 651,
+    "DateTime": "2020-02-13 11:39:06",
+    "Product Name": "Pasta - Bauletti, Chicken White",
+    "Purchase Price": "$38.46",
+    "Membership?": true
+  },
+  {
+    "id": 652,
+    "DateTime": "2020-02-26 12:30:45",
+    "Product Name": "Salmon - Atlantic, Skin On",
+    "Purchase Price": "$26.42",
+    "Membership?": false
+  },
+  {
+    "id": 653,
+    "DateTime": "2020-03-06 07:57:08",
+    "Product Name": "Sauce Tomato Pouch",
+    "Purchase Price": "$34.22",
+    "Membership?": true
+  },
+  {
+    "id": 654,
+    "DateTime": "2020-02-27 16:38:24",
+    "Product Name": "Pastry - Butterscotch Baked",
+    "Purchase Price": "$9.74",
+    "Membership?": false
+  },
+  {
+    "id": 655,
+    "DateTime": "2020-03-12 07:12:09",
+    "Product Name": "Blouse / Shirt / Sweater",
+    "Purchase Price": "$18.61",
+    "Membership?": false
+  },
+  {
+    "id": 656,
+    "DateTime": "2020-03-08 20:01:14",
+    "Product Name": "Madeira",
+    "Purchase Price": "$38.26",
+    "Membership?": true
+  },
+  {
+    "id": 657,
+    "DateTime": "2020-03-14 02:57:24",
+    "Product Name": "Mushroom - Portebello",
+    "Purchase Price": "$27.27",
+    "Membership?": true
+  },
+  {
+    "id": 658,
+    "DateTime": "2020-01-11 13:08:22",
+    "Product Name": "Pizza Pizza Dough",
+    "Purchase Price": "$7.16",
+    "Membership?": true
+  },
+  {
+    "id": 659,
+    "DateTime": "2020-02-27 11:55:10",
+    "Product Name": "Doilies - 5, Paper",
+    "Purchase Price": "$26.31",
+    "Membership?": false
+  },
+  {
+    "id": 660,
+    "DateTime": "2020-01-09 21:45:05",
+    "Product Name": "Pasta - Spaghetti, Dry",
+    "Purchase Price": "$26.81",
+    "Membership?": false
+  },
+  {
+    "id": 661,
+    "DateTime": "2020-01-21 01:14:26",
+    "Product Name": "Snapple - Mango Maddness",
+    "Purchase Price": "$38.45",
+    "Membership?": true
+  },
+  {
+    "id": 662,
+    "DateTime": "2020-01-03 01:24:44",
+    "Product Name": "Soup - Campbells, Classic Chix",
+    "Purchase Price": "$23.33",
+    "Membership?": true
+  },
+  {
+    "id": 663,
+    "DateTime": "2020-03-14 00:06:44",
+    "Product Name": "Cookie Double Choco",
+    "Purchase Price": "$24.85",
+    "Membership?": true
+  },
+  {
+    "id": 664,
+    "DateTime": "2020-02-21 13:33:51",
+    "Product Name": "Oven Mitts 17 Inch",
+    "Purchase Price": "$35.60",
+    "Membership?": true
+  },
+  {
+    "id": 665,
+    "DateTime": "2020-01-08 03:22:33",
+    "Product Name": "Cake - Mini Potato Pancake",
+    "Purchase Price": "$9.88",
+    "Membership?": false
+  },
+  {
+    "id": 666,
+    "DateTime": "2020-03-11 09:26:21",
+    "Product Name": "Strawberries - California",
+    "Purchase Price": "$24.66",
+    "Membership?": true
+  },
+  {
+    "id": 667,
+    "DateTime": "2020-02-26 09:58:51",
+    "Product Name": "Rum - Spiced, Captain Morgan",
+    "Purchase Price": "$24.68",
+    "Membership?": false
+  },
+  {
+    "id": 668,
+    "DateTime": "2020-01-11 18:10:50",
+    "Product Name": "Rice - Aborio",
+    "Purchase Price": "$34.32",
+    "Membership?": true
+  },
+  {
+    "id": 669,
+    "DateTime": "2020-01-07 04:20:10",
+    "Product Name": "Compound - Pear",
+    "Purchase Price": "$35.28",
+    "Membership?": false
+  },
+  {
+    "id": 670,
+    "DateTime": "2020-02-23 15:57:56",
+    "Product Name": "Bread - Burger",
+    "Purchase Price": "$9.18",
+    "Membership?": false
+  },
+  {
+    "id": 671,
+    "DateTime": "2020-01-11 22:05:55",
+    "Product Name": "Tendrils - Baby Pea, Organic",
+    "Purchase Price": "$10.97",
+    "Membership?": true
+  },
+  {
+    "id": 672,
+    "DateTime": "2020-02-06 17:25:58",
+    "Product Name": "Beer - Sleeman Fine Porter",
+    "Purchase Price": "$39.18",
+    "Membership?": true
+  },
+  {
+    "id": 673,
+    "DateTime": "2020-02-02 12:23:37",
+    "Product Name": "Brownies - Two Bite, Chocolate",
+    "Purchase Price": "$12.39",
+    "Membership?": true
+  },
+  {
+    "id": 674,
+    "DateTime": "2020-03-26 09:38:15",
+    "Product Name": "Bread - English Muffin",
+    "Purchase Price": "$27.49",
+    "Membership?": false
+  },
+  {
+    "id": 675,
+    "DateTime": "2020-02-17 12:47:12",
+    "Product Name": "Smoked Paprika",
+    "Purchase Price": "$13.57",
+    "Membership?": false
+  },
+  {
+    "id": 676,
+    "DateTime": "2020-02-23 15:04:44",
+    "Product Name": "Tea - Green",
+    "Purchase Price": "$7.72",
+    "Membership?": true
+  },
+  {
+    "id": 677,
+    "DateTime": "2020-02-29 08:48:53",
+    "Product Name": "Chilli Paste, Hot Sambal Oelek",
+    "Purchase Price": "$13.47",
+    "Membership?": true
+  },
+  {
+    "id": 678,
+    "DateTime": "2020-01-03 20:12:53",
+    "Product Name": "Sausage - Breakfast",
+    "Purchase Price": "$32.67",
+    "Membership?": true
+  },
+  {
+    "id": 679,
+    "DateTime": "2020-01-15 20:17:06",
+    "Product Name": "Water - Spring 1.5lit",
+    "Purchase Price": "$23.79",
+    "Membership?": false
+  },
+  {
+    "id": 680,
+    "DateTime": "2020-02-06 22:56:20",
+    "Product Name": "Seedlings - Mix, Organic",
+    "Purchase Price": "$18.51",
+    "Membership?": true
+  },
+  {
+    "id": 681,
+    "DateTime": "2020-01-11 17:23:11",
+    "Product Name": "Vermouth - Sweet, Cinzano",
+    "Purchase Price": "$8.12",
+    "Membership?": false
+  },
+  {
+    "id": 682,
+    "DateTime": "2020-03-08 08:52:39",
+    "Product Name": "Instant Coffee",
+    "Purchase Price": "$32.73",
+    "Membership?": true
+  },
+  {
+    "id": 683,
+    "DateTime": "2020-01-04 03:57:43",
+    "Product Name": "Kale - Red",
+    "Purchase Price": "$16.13",
+    "Membership?": false
+  },
+  {
+    "id": 684,
+    "DateTime": "2020-03-08 15:24:02",
+    "Product Name": "Cheese - Goat",
+    "Purchase Price": "$27.85",
+    "Membership?": false
+  },
+  {
+    "id": 685,
+    "DateTime": "2020-01-18 15:48:58",
+    "Product Name": "Sugar - Invert",
+    "Purchase Price": "$31.25",
+    "Membership?": true
+  },
+  {
+    "id": 686,
+    "DateTime": "2020-01-20 17:21:27",
+    "Product Name": "Mangoes",
+    "Purchase Price": "$36.40",
+    "Membership?": true
+  },
+  {
+    "id": 687,
+    "DateTime": "2020-03-17 16:35:29",
+    "Product Name": "Bread - Pain Au Liat X12",
+    "Purchase Price": "$21.95",
+    "Membership?": false
+  },
+  {
+    "id": 688,
+    "DateTime": "2020-01-25 02:49:11",
+    "Product Name": "Wine - Lamancha Do Crianza",
+    "Purchase Price": "$13.72",
+    "Membership?": true
+  },
+  {
+    "id": 689,
+    "DateTime": "2020-01-27 08:20:02",
+    "Product Name": "Wine - Balbach Riverside",
+    "Purchase Price": "$27.28",
+    "Membership?": true
+  },
+  {
+    "id": 690,
+    "DateTime": "2020-01-27 16:45:53",
+    "Product Name": "Tomato Puree",
+    "Purchase Price": "$12.18",
+    "Membership?": false
+  },
+  {
+    "id": 691,
+    "DateTime": "2020-02-26 09:58:58",
+    "Product Name": "Juice - Grape, White",
+    "Purchase Price": "$12.53",
+    "Membership?": false
+  },
+  {
+    "id": 692,
+    "DateTime": "2020-02-20 03:35:26",
+    "Product Name": "Tabasco Sauce, 2 Oz",
+    "Purchase Price": "$11.47",
+    "Membership?": false
+  },
+  {
+    "id": 693,
+    "DateTime": "2020-01-31 11:54:49",
+    "Product Name": "Crackers - Melba Toast",
+    "Purchase Price": "$9.57",
+    "Membership?": false
+  },
+  {
+    "id": 694,
+    "DateTime": "2020-03-14 22:25:24",
+    "Product Name": "Dill Weed - Dry",
+    "Purchase Price": "$39.84",
+    "Membership?": false
+  },
+  {
+    "id": 695,
+    "DateTime": "2020-01-07 07:40:54",
+    "Product Name": "Tea - Decaf 1 Cup",
+    "Purchase Price": "$35.71",
+    "Membership?": true
+  },
+  {
+    "id": 696,
+    "DateTime": "2020-02-27 18:20:54",
+    "Product Name": "Ice Cream Bar - Hagen Daz",
+    "Purchase Price": "$31.87",
+    "Membership?": false
+  },
+  {
+    "id": 697,
+    "DateTime": "2020-02-09 02:22:17",
+    "Product Name": "Quinoa",
+    "Purchase Price": "$37.96",
+    "Membership?": false
+  },
+  {
+    "id": 698,
+    "DateTime": "2020-03-16 08:21:28",
+    "Product Name": "V8 - Berry Blend",
+    "Purchase Price": "$39.00",
+    "Membership?": false
+  },
+  {
+    "id": 699,
+    "DateTime": "2020-03-13 07:37:17",
+    "Product Name": "Fondant - Icing",
+    "Purchase Price": "$29.25",
+    "Membership?": false
+  },
+  {
+    "id": 700,
+    "DateTime": "2020-03-10 10:12:53",
+    "Product Name": "Sausage - Blood Pudding",
+    "Purchase Price": "$18.23",
+    "Membership?": true
+  },
+  {
+    "id": 701,
+    "DateTime": "2020-01-08 16:41:59",
+    "Product Name": "Vinegar - Sherry",
+    "Purchase Price": "$11.46",
+    "Membership?": true
+  },
+  {
+    "id": 702,
+    "DateTime": "2020-02-17 15:24:43",
+    "Product Name": "Rice - Brown",
+    "Purchase Price": "$22.37",
+    "Membership?": true
+  },
+  {
+    "id": 703,
+    "DateTime": "2020-02-28 01:56:38",
+    "Product Name": "Wine - Masi Valpolocell",
+    "Purchase Price": "$38.94",
+    "Membership?": true
+  },
+  {
+    "id": 704,
+    "DateTime": "2020-03-05 11:30:20",
+    "Product Name": "Table Cloth - 53x69 Colour",
+    "Purchase Price": "$20.65",
+    "Membership?": false
+  },
+  {
+    "id": 705,
+    "DateTime": "2020-03-05 15:20:03",
+    "Product Name": "Lettuce - Radicchio",
+    "Purchase Price": "$39.46",
+    "Membership?": true
+  },
+  {
+    "id": 706,
+    "DateTime": "2020-02-06 13:04:54",
+    "Product Name": "Eggplant Italian",
+    "Purchase Price": "$34.60",
+    "Membership?": false
+  },
+  {
+    "id": 707,
+    "DateTime": "2020-02-11 12:49:48",
+    "Product Name": "Spice - Pepper Portions",
+    "Purchase Price": "$10.83",
+    "Membership?": true
+  },
+  {
+    "id": 708,
+    "DateTime": "2020-03-16 18:31:13",
+    "Product Name": "Container - Hngd Cll Blk 7x7x3",
+    "Purchase Price": "$37.64",
+    "Membership?": true
+  },
+  {
+    "id": 709,
+    "DateTime": "2020-03-26 20:33:35",
+    "Product Name": "Radish - Pickled",
+    "Purchase Price": "$18.46",
+    "Membership?": false
+  },
+  {
+    "id": 710,
+    "DateTime": "2020-02-02 13:24:29",
+    "Product Name": "Nut - Pecan, Pieces",
+    "Purchase Price": "$37.94",
+    "Membership?": true
+  },
+  {
+    "id": 711,
+    "DateTime": "2020-03-25 05:42:23",
+    "Product Name": "Vermouth - Sweet, Cinzano",
+    "Purchase Price": "$27.37",
+    "Membership?": true
+  },
+  {
+    "id": 712,
+    "DateTime": "2020-01-25 18:20:23",
+    "Product Name": "Wine - Cotes Du Rhone",
+    "Purchase Price": "$21.84",
+    "Membership?": false
+  },
+  {
+    "id": 713,
+    "DateTime": "2020-01-07 18:39:30",
+    "Product Name": "Coffee - Colombian, Portioned",
+    "Purchase Price": "$9.88",
+    "Membership?": false
+  },
+  {
+    "id": 714,
+    "DateTime": "2020-03-12 17:38:32",
+    "Product Name": "Mushroom - Oyster, Fresh",
+    "Purchase Price": "$31.39",
+    "Membership?": true
+  },
+  {
+    "id": 715,
+    "DateTime": "2020-02-24 17:37:19",
+    "Product Name": "Cup Translucent 9 Oz",
+    "Purchase Price": "$36.74",
+    "Membership?": false
+  },
+  {
+    "id": 716,
+    "DateTime": "2020-01-30 13:37:34",
+    "Product Name": "Pasta - Lasagna, Dry",
+    "Purchase Price": "$10.96",
+    "Membership?": false
+  },
+  {
+    "id": 717,
+    "DateTime": "2020-01-07 10:26:05",
+    "Product Name": "Cheese - Brie,danish",
+    "Purchase Price": "$21.96",
+    "Membership?": true
+  },
+  {
+    "id": 718,
+    "DateTime": "2020-03-20 10:32:16",
+    "Product Name": "Lighter - Bbq",
+    "Purchase Price": "$11.79",
+    "Membership?": false
+  },
+  {
+    "id": 719,
+    "DateTime": "2020-03-12 14:02:22",
+    "Product Name": "Creme De Banane - Marie",
+    "Purchase Price": "$36.72",
+    "Membership?": true
+  },
+  {
+    "id": 720,
+    "DateTime": "2020-01-17 01:57:18",
+    "Product Name": "Cattail Hearts",
+    "Purchase Price": "$17.44",
+    "Membership?": true
+  },
+  {
+    "id": 721,
+    "DateTime": "2020-03-31 05:46:33",
+    "Product Name": "Beans - Yellow",
+    "Purchase Price": "$9.84",
+    "Membership?": false
+  },
+  {
+    "id": 722,
+    "DateTime": "2020-03-19 21:32:17",
+    "Product Name": "Apple - Granny Smith",
+    "Purchase Price": "$10.72",
+    "Membership?": false
+  },
+  {
+    "id": 723,
+    "DateTime": "2020-02-26 14:56:49",
+    "Product Name": "Table Cloth 54x72 Colour",
+    "Purchase Price": "$40.00",
+    "Membership?": true
+  },
+  {
+    "id": 724,
+    "DateTime": "2020-01-14 11:41:35",
+    "Product Name": "Pork - Loin, Boneless",
+    "Purchase Price": "$32.21",
+    "Membership?": true
+  },
+  {
+    "id": 725,
+    "DateTime": "2020-03-27 00:31:13",
+    "Product Name": "Appetizer - Crab And Brie",
+    "Purchase Price": "$22.23",
+    "Membership?": false
+  },
+  {
+    "id": 726,
+    "DateTime": "2020-03-18 07:00:53",
+    "Product Name": "Sobe - Orange Carrot",
+    "Purchase Price": "$25.03",
+    "Membership?": false
+  },
+  {
+    "id": 727,
+    "DateTime": "2020-03-16 22:21:46",
+    "Product Name": "Grapefruit - Pink",
+    "Purchase Price": "$10.44",
+    "Membership?": false
+  },
+  {
+    "id": 728,
+    "DateTime": "2020-02-18 13:04:09",
+    "Product Name": "Lemonade - Mandarin, 591 Ml",
+    "Purchase Price": "$36.96",
+    "Membership?": false
+  },
+  {
+    "id": 729,
+    "DateTime": "2020-02-15 06:07:33",
+    "Product Name": "Cheese - Brie, Cups 125g",
+    "Purchase Price": "$8.17",
+    "Membership?": true
+  },
+  {
+    "id": 730,
+    "DateTime": "2020-01-10 00:55:31",
+    "Product Name": "Sauce - Apple, Unsweetened",
+    "Purchase Price": "$35.98",
+    "Membership?": false
+  },
+  {
+    "id": 731,
+    "DateTime": "2020-03-14 00:07:58",
+    "Product Name": "Split Peas - Yellow, Dry",
+    "Purchase Price": "$32.49",
+    "Membership?": true
+  },
+  {
+    "id": 732,
+    "DateTime": "2020-02-03 04:17:21",
+    "Product Name": "Tuna - Fresh",
+    "Purchase Price": "$39.38",
+    "Membership?": false
+  },
+  {
+    "id": 733,
+    "DateTime": "2020-02-22 00:40:56",
+    "Product Name": "Crackers - Graham",
+    "Purchase Price": "$31.57",
+    "Membership?": false
+  },
+  {
+    "id": 734,
+    "DateTime": "2020-02-24 17:35:52",
+    "Product Name": "Table Cloth 90x90 Colour",
+    "Purchase Price": "$21.17",
+    "Membership?": true
+  },
+  {
+    "id": 735,
+    "DateTime": "2020-02-03 06:29:15",
+    "Product Name": "Appetizer - Southwestern",
+    "Purchase Price": "$32.15",
+    "Membership?": true
+  },
+  {
+    "id": 736,
+    "DateTime": "2020-02-16 18:00:30",
+    "Product Name": "Chinese Foods - Plain Fried Rice",
+    "Purchase Price": "$11.84",
+    "Membership?": false
+  },
+  {
+    "id": 737,
+    "DateTime": "2020-01-27 12:37:26",
+    "Product Name": "Rabbit - Saddles",
+    "Purchase Price": "$35.97",
+    "Membership?": true
+  },
+  {
+    "id": 738,
+    "DateTime": "2020-02-07 00:09:09",
+    "Product Name": "Lettuce - Mini Greens, Whole",
+    "Purchase Price": "$19.23",
+    "Membership?": false
+  },
+  {
+    "id": 739,
+    "DateTime": "2020-01-25 09:02:14",
+    "Product Name": "Soup - Cream Of Potato / Leek",
+    "Purchase Price": "$27.26",
+    "Membership?": true
+  },
+  {
+    "id": 740,
+    "DateTime": "2020-02-14 11:28:37",
+    "Product Name": "Shrimp - Black Tiger 6 - 8",
+    "Purchase Price": "$25.03",
+    "Membership?": true
+  },
+  {
+    "id": 741,
+    "DateTime": "2020-03-04 15:43:23",
+    "Product Name": "Cup - 4oz Translucent",
+    "Purchase Price": "$7.88",
+    "Membership?": false
+  },
+  {
+    "id": 742,
+    "DateTime": "2020-03-22 16:13:27",
+    "Product Name": "Chips - Assorted",
+    "Purchase Price": "$21.97",
+    "Membership?": false
+  },
+  {
+    "id": 743,
+    "DateTime": "2020-01-24 11:00:42",
+    "Product Name": "Pasta - Lasagne, Fresh",
+    "Purchase Price": "$22.96",
+    "Membership?": false
+  },
+  {
+    "id": 744,
+    "DateTime": "2020-01-09 04:46:14",
+    "Product Name": "Veal - Kidney",
+    "Purchase Price": "$24.40",
+    "Membership?": true
+  },
+  {
+    "id": 745,
+    "DateTime": "2020-01-01 08:52:31",
+    "Product Name": "Cookie Dough - Peanut Butter",
+    "Purchase Price": "$7.98",
+    "Membership?": false
+  },
+  {
+    "id": 746,
+    "DateTime": "2020-02-05 10:06:53",
+    "Product Name": "Bamboo Shoots - Sliced",
+    "Purchase Price": "$20.03",
+    "Membership?": true
+  },
+  {
+    "id": 747,
+    "DateTime": "2020-03-02 19:37:03",
+    "Product Name": "Stainless Steel Cleaner Vision",
+    "Purchase Price": "$5.52",
+    "Membership?": false
+  },
+  {
+    "id": 748,
+    "DateTime": "2020-01-07 07:20:57",
+    "Product Name": "Soho Lychee Liqueur",
+    "Purchase Price": "$22.08",
+    "Membership?": true
+  },
+  {
+    "id": 749,
+    "DateTime": "2020-01-05 06:03:21",
+    "Product Name": "Fenngreek Seed",
+    "Purchase Price": "$14.25",
+    "Membership?": false
+  },
+  {
+    "id": 750,
+    "DateTime": "2020-03-22 18:50:59",
+    "Product Name": "Anchovy Fillets",
+    "Purchase Price": "$7.07",
+    "Membership?": true
+  },
+  {
+    "id": 751,
+    "DateTime": "2020-03-31 13:26:27",
+    "Product Name": "Blackberries",
+    "Purchase Price": "$39.11",
+    "Membership?": false
+  },
+  {
+    "id": 752,
+    "DateTime": "2020-02-06 06:27:23",
+    "Product Name": "Peas Snow",
+    "Purchase Price": "$37.12",
+    "Membership?": true
+  },
+  {
+    "id": 753,
+    "DateTime": "2020-02-29 23:16:34",
+    "Product Name": "Beer - Heinekin",
+    "Purchase Price": "$7.55",
+    "Membership?": true
+  },
+  {
+    "id": 754,
+    "DateTime": "2020-01-05 07:57:41",
+    "Product Name": "Carbonated Water - Cherry",
+    "Purchase Price": "$6.29",
+    "Membership?": false
+  },
+  {
+    "id": 755,
+    "DateTime": "2020-03-16 02:35:02",
+    "Product Name": "Soup - Knorr, French Onion",
+    "Purchase Price": "$25.42",
+    "Membership?": false
+  },
+  {
+    "id": 756,
+    "DateTime": "2020-03-21 19:38:02",
+    "Product Name": "Longos - Burritos",
+    "Purchase Price": "$20.01",
+    "Membership?": false
+  },
+  {
+    "id": 757,
+    "DateTime": "2020-03-18 11:29:12",
+    "Product Name": "Pepper - Gypsy Pepper",
+    "Purchase Price": "$30.41",
+    "Membership?": false
+  },
+  {
+    "id": 758,
+    "DateTime": "2020-01-23 10:16:34",
+    "Product Name": "Foil Cont Round",
+    "Purchase Price": "$27.46",
+    "Membership?": true
+  },
+  {
+    "id": 759,
+    "DateTime": "2020-02-27 23:42:57",
+    "Product Name": "Beer - True North Lager",
+    "Purchase Price": "$22.69",
+    "Membership?": true
+  },
+  {
+    "id": 760,
+    "DateTime": "2020-01-03 12:03:55",
+    "Product Name": "Veal - Insides, Grains",
+    "Purchase Price": "$27.47",
+    "Membership?": false
+  },
+  {
+    "id": 761,
+    "DateTime": "2020-01-22 06:18:44",
+    "Product Name": "Flour Dark Rye",
+    "Purchase Price": "$6.79",
+    "Membership?": false
+  },
+  {
+    "id": 762,
+    "DateTime": "2020-03-31 00:08:38",
+    "Product Name": "Vinegar - Tarragon",
+    "Purchase Price": "$18.03",
+    "Membership?": true
+  },
+  {
+    "id": 763,
+    "DateTime": "2020-02-18 02:37:33",
+    "Product Name": "Cup - 8oz Coffee Perforated",
+    "Purchase Price": "$37.94",
+    "Membership?": false
+  },
+  {
+    "id": 764,
+    "DateTime": "2020-01-25 19:58:18",
+    "Product Name": "Beef - Eye Of Round",
+    "Purchase Price": "$32.85",
+    "Membership?": false
+  },
+  {
+    "id": 765,
+    "DateTime": "2020-02-23 15:26:49",
+    "Product Name": "Bread - Italian Roll With Herbs",
+    "Purchase Price": "$6.35",
+    "Membership?": true
+  },
+  {
+    "id": 766,
+    "DateTime": "2020-02-15 20:42:01",
+    "Product Name": "Pork - Back, Short Cut, Boneless",
+    "Purchase Price": "$21.38",
+    "Membership?": false
+  },
+  {
+    "id": 767,
+    "DateTime": "2020-02-01 23:24:04",
+    "Product Name": "Water - Tonic",
+    "Purchase Price": "$26.80",
+    "Membership?": true
+  },
+  {
+    "id": 768,
+    "DateTime": "2020-03-20 03:16:21",
+    "Product Name": "Pork - Side Ribs",
+    "Purchase Price": "$6.02",
+    "Membership?": true
+  },
+  {
+    "id": 769,
+    "DateTime": "2020-02-26 03:27:23",
+    "Product Name": "Shrimp - 16 - 20 Cooked, Peeled",
+    "Purchase Price": "$25.83",
+    "Membership?": true
+  },
+  {
+    "id": 770,
+    "DateTime": "2020-03-25 05:50:34",
+    "Product Name": "Pork - Tenderloin, Frozen",
+    "Purchase Price": "$16.24",
+    "Membership?": false
+  },
+  {
+    "id": 771,
+    "DateTime": "2020-01-20 04:35:12",
+    "Product Name": "Tea - Herbal Orange Spice",
+    "Purchase Price": "$12.24",
+    "Membership?": true
+  },
+  {
+    "id": 772,
+    "DateTime": "2020-01-24 11:01:06",
+    "Product Name": "Bread Base - Italian",
+    "Purchase Price": "$29.79",
+    "Membership?": false
+  },
+  {
+    "id": 773,
+    "DateTime": "2020-02-26 05:54:17",
+    "Product Name": "Radish - Pickled",
+    "Purchase Price": "$13.12",
+    "Membership?": false
+  },
+  {
+    "id": 774,
+    "DateTime": "2020-02-10 08:49:32",
+    "Product Name": "Thermometer Digital",
+    "Purchase Price": "$6.33",
+    "Membership?": true
+  },
+  {
+    "id": 775,
+    "DateTime": "2020-01-12 06:00:55",
+    "Product Name": "Veal - Leg",
+    "Purchase Price": "$39.89",
+    "Membership?": false
+  },
+  {
+    "id": 776,
+    "DateTime": "2020-02-27 11:04:54",
+    "Product Name": "Lettuce - Spring Mix",
+    "Purchase Price": "$20.45",
+    "Membership?": false
+  },
+  {
+    "id": 777,
+    "DateTime": "2020-01-30 09:57:17",
+    "Product Name": "Sauce - Black Current, Dry Mix",
+    "Purchase Price": "$33.04",
+    "Membership?": false
+  },
+  {
+    "id": 778,
+    "DateTime": "2020-02-21 02:40:43",
+    "Product Name": "Vinegar - Cider",
+    "Purchase Price": "$6.04",
+    "Membership?": false
+  },
+  {
+    "id": 779,
+    "DateTime": "2020-02-22 00:07:15",
+    "Product Name": "Mushroom - Chanterelle Frozen",
+    "Purchase Price": "$27.29",
+    "Membership?": false
+  },
+  {
+    "id": 780,
+    "DateTime": "2020-02-03 03:54:41",
+    "Product Name": "Juice - Clam, 46 Oz",
+    "Purchase Price": "$6.11",
+    "Membership?": false
+  },
+  {
+    "id": 781,
+    "DateTime": "2020-03-17 05:54:14",
+    "Product Name": "Sesame Seed Black",
+    "Purchase Price": "$13.92",
+    "Membership?": false
+  },
+  {
+    "id": 782,
+    "DateTime": "2020-03-12 04:04:20",
+    "Product Name": "Ecolab - Hobart Washarm End Cap",
+    "Purchase Price": "$35.11",
+    "Membership?": false
+  },
+  {
+    "id": 783,
+    "DateTime": "2020-01-30 07:45:30",
+    "Product Name": "Tomatoes - Orange",
+    "Purchase Price": "$27.02",
+    "Membership?": true
+  },
+  {
+    "id": 784,
+    "DateTime": "2020-01-06 01:07:52",
+    "Product Name": "Fish - Artic Char, Cold Smoked",
+    "Purchase Price": "$21.65",
+    "Membership?": true
+  },
+  {
+    "id": 785,
+    "DateTime": "2020-03-30 07:42:06",
+    "Product Name": "Lobster - Live",
+    "Purchase Price": "$15.43",
+    "Membership?": true
+  },
+  {
+    "id": 786,
+    "DateTime": "2020-02-05 02:36:03",
+    "Product Name": "Shortbread - Cookie Crumbs",
+    "Purchase Price": "$7.34",
+    "Membership?": false
+  },
+  {
+    "id": 787,
+    "DateTime": "2020-02-29 16:37:46",
+    "Product Name": "Veal - Round, Eye Of",
+    "Purchase Price": "$21.09",
+    "Membership?": true
+  },
+  {
+    "id": 788,
+    "DateTime": "2020-02-07 21:38:07",
+    "Product Name": "Mcguinness - Blue Curacao",
+    "Purchase Price": "$18.30",
+    "Membership?": true
+  },
+  {
+    "id": 789,
+    "DateTime": "2020-03-01 10:57:07",
+    "Product Name": "Towels - Paper / Kraft",
+    "Purchase Price": "$16.34",
+    "Membership?": true
+  },
+  {
+    "id": 790,
+    "DateTime": "2020-01-15 07:34:10",
+    "Product Name": "Flax Seed",
+    "Purchase Price": "$24.97",
+    "Membership?": true
+  },
+  {
+    "id": 791,
+    "DateTime": "2020-01-09 16:00:25",
+    "Product Name": "Sour Puss Sour Apple",
+    "Purchase Price": "$16.02",
+    "Membership?": false
+  },
+  {
+    "id": 792,
+    "DateTime": "2020-02-23 17:05:55",
+    "Product Name": "Wine - Pinot Noir Mondavi Coastal",
+    "Purchase Price": "$18.37",
+    "Membership?": false
+  },
+  {
+    "id": 793,
+    "DateTime": "2020-02-17 17:57:40",
+    "Product Name": "Cheese - Provolone",
+    "Purchase Price": "$35.04",
+    "Membership?": false
+  },
+  {
+    "id": 794,
+    "DateTime": "2020-02-07 18:24:41",
+    "Product Name": "Nantucket - Kiwi Berry Cktl.",
+    "Purchase Price": "$18.83",
+    "Membership?": false
+  },
+  {
+    "id": 795,
+    "DateTime": "2020-01-22 17:47:37",
+    "Product Name": "Pepperoni Slices",
+    "Purchase Price": "$16.57",
+    "Membership?": false
+  },
+  {
+    "id": 796,
+    "DateTime": "2020-02-12 09:26:06",
+    "Product Name": "Pepper - Gypsy Pepper",
+    "Purchase Price": "$36.28",
+    "Membership?": true
+  },
+  {
+    "id": 797,
+    "DateTime": "2020-03-08 20:55:13",
+    "Product Name": "Chocolate Bar - Smarties",
+    "Purchase Price": "$11.21",
+    "Membership?": true
+  },
+  {
+    "id": 798,
+    "DateTime": "2020-01-10 00:58:46",
+    "Product Name": "Cookie Dough - Chunky",
+    "Purchase Price": "$30.50",
+    "Membership?": false
+  },
+  {
+    "id": 799,
+    "DateTime": "2020-01-09 09:39:46",
+    "Product Name": "Spice - Pepper Portions",
+    "Purchase Price": "$11.59",
+    "Membership?": true
+  },
+  {
+    "id": 800,
+    "DateTime": "2020-02-12 18:53:52",
+    "Product Name": "Plasticforkblack",
+    "Purchase Price": "$8.25",
+    "Membership?": true
+  },
+  {
+    "id": 801,
+    "DateTime": "2020-03-20 04:07:26",
+    "Product Name": "Bag Stand",
+    "Purchase Price": "$8.64",
+    "Membership?": true
+  },
+  {
+    "id": 802,
+    "DateTime": "2020-02-09 05:44:18",
+    "Product Name": "Cheese - Cheddar, Medium",
+    "Purchase Price": "$28.05",
+    "Membership?": false
+  },
+  {
+    "id": 803,
+    "DateTime": "2020-03-26 08:29:52",
+    "Product Name": "Pears - Bartlett",
+    "Purchase Price": "$25.56",
+    "Membership?": true
+  },
+  {
+    "id": 804,
+    "DateTime": "2020-03-25 18:14:45",
+    "Product Name": "Wine - Chardonnay South",
+    "Purchase Price": "$39.31",
+    "Membership?": false
+  },
+  {
+    "id": 805,
+    "DateTime": "2020-02-01 22:18:14",
+    "Product Name": "Glove - Cutting",
+    "Purchase Price": "$7.21",
+    "Membership?": false
+  },
+  {
+    "id": 806,
+    "DateTime": "2020-02-23 14:13:03",
+    "Product Name": "Coriander - Seed",
+    "Purchase Price": "$34.45",
+    "Membership?": true
+  },
+  {
+    "id": 807,
+    "DateTime": "2020-02-16 11:40:17",
+    "Product Name": "Muffin - Mix - Bran And Maple 15l",
+    "Purchase Price": "$19.08",
+    "Membership?": true
+  },
+  {
+    "id": 808,
+    "DateTime": "2020-02-26 17:05:43",
+    "Product Name": "Vodka - Lemon, Absolut",
+    "Purchase Price": "$9.92",
+    "Membership?": false
+  },
+  {
+    "id": 809,
+    "DateTime": "2020-01-16 12:35:51",
+    "Product Name": "Syrup - Monin - Passion Fruit",
+    "Purchase Price": "$10.14",
+    "Membership?": true
+  },
+  {
+    "id": 810,
+    "DateTime": "2020-02-11 15:50:54",
+    "Product Name": "Wine - Merlot Vina Carmen",
+    "Purchase Price": "$31.24",
+    "Membership?": false
+  },
+  {
+    "id": 811,
+    "DateTime": "2020-02-16 16:25:22",
+    "Product Name": "Yogurt - Plain",
+    "Purchase Price": "$12.44",
+    "Membership?": true
+  },
+  {
+    "id": 812,
+    "DateTime": "2020-01-21 20:20:23",
+    "Product Name": "Gelatine Powder",
+    "Purchase Price": "$11.53",
+    "Membership?": true
+  },
+  {
+    "id": 813,
+    "DateTime": "2020-03-30 19:21:57",
+    "Product Name": "Boogies",
+    "Purchase Price": "$25.59",
+    "Membership?": true
+  },
+  {
+    "id": 814,
+    "DateTime": "2020-02-01 17:21:56",
+    "Product Name": "Ham - Cooked Bayonne Tinned",
+    "Purchase Price": "$12.10",
+    "Membership?": false
+  },
+  {
+    "id": 815,
+    "DateTime": "2020-01-24 00:01:24",
+    "Product Name": "Longos - Chicken Cordon Bleu",
+    "Purchase Price": "$12.52",
+    "Membership?": true
+  },
+  {
+    "id": 816,
+    "DateTime": "2020-02-08 12:09:23",
+    "Product Name": "Turnip - White, Organic",
+    "Purchase Price": "$7.96",
+    "Membership?": true
+  },
+  {
+    "id": 817,
+    "DateTime": "2020-02-06 18:44:16",
+    "Product Name": "Cheese - Camembert",
+    "Purchase Price": "$35.12",
+    "Membership?": false
+  },
+  {
+    "id": 818,
+    "DateTime": "2020-01-15 18:00:26",
+    "Product Name": "Jam - Strawberry, 20 Ml Jar",
+    "Purchase Price": "$22.24",
+    "Membership?": false
+  },
+  {
+    "id": 819,
+    "DateTime": "2020-03-31 13:53:11",
+    "Product Name": "Lamb - Shoulder, Boneless",
+    "Purchase Price": "$30.85",
+    "Membership?": true
+  },
+  {
+    "id": 820,
+    "DateTime": "2020-03-23 19:30:25",
+    "Product Name": "Hold Up Tool Storage Rack",
+    "Purchase Price": "$27.25",
+    "Membership?": true
+  },
+  {
+    "id": 821,
+    "DateTime": "2020-03-15 05:29:22",
+    "Product Name": "Turkey - Oven Roast Breast",
+    "Purchase Price": "$12.10",
+    "Membership?": false
+  },
+  {
+    "id": 822,
+    "DateTime": "2020-03-12 14:31:54",
+    "Product Name": "Lid - 0090 Clear",
+    "Purchase Price": "$8.53",
+    "Membership?": true
+  },
+  {
+    "id": 823,
+    "DateTime": "2020-03-30 19:37:45",
+    "Product Name": "Wine - White, Lindemans Bin 95",
+    "Purchase Price": "$18.81",
+    "Membership?": true
+  },
+  {
+    "id": 824,
+    "DateTime": "2020-03-15 22:40:09",
+    "Product Name": "Sage - Fresh",
+    "Purchase Price": "$33.25",
+    "Membership?": true
+  },
+  {
+    "id": 825,
+    "DateTime": "2020-02-09 14:01:03",
+    "Product Name": "Pork Loin Bine - In Frenched",
+    "Purchase Price": "$16.94",
+    "Membership?": false
+  },
+  {
+    "id": 826,
+    "DateTime": "2020-03-05 04:53:41",
+    "Product Name": "Mussels - Frozen",
+    "Purchase Price": "$25.61",
+    "Membership?": false
+  },
+  {
+    "id": 827,
+    "DateTime": "2020-02-28 04:28:02",
+    "Product Name": "Garbag Bags - Black",
+    "Purchase Price": "$28.88",
+    "Membership?": true
+  },
+  {
+    "id": 828,
+    "DateTime": "2020-02-13 16:51:57",
+    "Product Name": "Zucchini - Green",
+    "Purchase Price": "$27.31",
+    "Membership?": false
+  },
+  {
+    "id": 829,
+    "DateTime": "2020-01-06 17:58:08",
+    "Product Name": "Grapes - Red",
+    "Purchase Price": "$16.47",
+    "Membership?": false
+  },
+  {
+    "id": 830,
+    "DateTime": "2020-03-06 15:44:14",
+    "Product Name": "Clementine",
+    "Purchase Price": "$12.80",
+    "Membership?": true
+  },
+  {
+    "id": 831,
+    "DateTime": "2020-02-15 08:43:32",
+    "Product Name": "Wine - Rubyport",
+    "Purchase Price": "$39.71",
+    "Membership?": true
+  },
+  {
+    "id": 832,
+    "DateTime": "2020-02-24 10:00:44",
+    "Product Name": "Mackerel Whole Fresh",
+    "Purchase Price": "$8.89",
+    "Membership?": true
+  },
+  {
+    "id": 833,
+    "DateTime": "2020-03-26 20:16:26",
+    "Product Name": "Apple - Delicious, Red",
+    "Purchase Price": "$39.90",
+    "Membership?": true
+  },
+  {
+    "id": 834,
+    "DateTime": "2020-03-21 07:29:13",
+    "Product Name": "Guava",
+    "Purchase Price": "$25.68",
+    "Membership?": false
+  },
+  {
+    "id": 835,
+    "DateTime": "2020-03-11 13:35:17",
+    "Product Name": "Hersey Shakes",
+    "Purchase Price": "$33.51",
+    "Membership?": true
+  },
+  {
+    "id": 836,
+    "DateTime": "2020-03-13 15:13:40",
+    "Product Name": "Island Oasis - Strawberry",
+    "Purchase Price": "$19.91",
+    "Membership?": true
+  },
+  {
+    "id": 837,
+    "DateTime": "2020-02-20 20:28:37",
+    "Product Name": "Chicken - White Meat, No Tender",
+    "Purchase Price": "$34.95",
+    "Membership?": true
+  },
+  {
+    "id": 838,
+    "DateTime": "2020-02-11 00:55:41",
+    "Product Name": "Mushroom - White Button",
+    "Purchase Price": "$27.81",
+    "Membership?": false
+  },
+  {
+    "id": 839,
+    "DateTime": "2020-03-07 20:06:26",
+    "Product Name": "Wanton Wrap",
+    "Purchase Price": "$31.73",
+    "Membership?": false
+  },
+  {
+    "id": 840,
+    "DateTime": "2020-03-03 08:31:21",
+    "Product Name": "Apple - Granny Smith",
+    "Purchase Price": "$26.12",
+    "Membership?": true
+  },
+  {
+    "id": 841,
+    "DateTime": "2020-03-25 08:22:59",
+    "Product Name": "Compound - Passion Fruit",
+    "Purchase Price": "$23.66",
+    "Membership?": false
+  },
+  {
+    "id": 842,
+    "DateTime": "2020-03-17 11:39:17",
+    "Product Name": "Raspberries - Frozen",
+    "Purchase Price": "$5.71",
+    "Membership?": false
+  },
+  {
+    "id": 843,
+    "DateTime": "2020-01-09 15:28:50",
+    "Product Name": "Chocolate - Pistoles, White",
+    "Purchase Price": "$30.86",
+    "Membership?": false
+  },
+  {
+    "id": 844,
+    "DateTime": "2020-02-19 00:27:57",
+    "Product Name": "Nut - Cashews, Whole, Raw",
+    "Purchase Price": "$39.28",
+    "Membership?": true
+  },
+  {
+    "id": 845,
+    "DateTime": "2020-03-18 12:59:20",
+    "Product Name": "Gloves - Goldtouch Disposable",
+    "Purchase Price": "$10.88",
+    "Membership?": true
+  },
+  {
+    "id": 846,
+    "DateTime": "2020-02-12 03:22:36",
+    "Product Name": "Beef - Prime Rib Aaa",
+    "Purchase Price": "$38.54",
+    "Membership?": true
+  },
+  {
+    "id": 847,
+    "DateTime": "2020-02-21 18:02:04",
+    "Product Name": "Artichoke - Hearts, Canned",
+    "Purchase Price": "$37.43",
+    "Membership?": true
+  },
+  {
+    "id": 848,
+    "DateTime": "2020-01-08 00:43:57",
+    "Product Name": "Pepsi, 355 Ml",
+    "Purchase Price": "$25.39",
+    "Membership?": false
+  },
+  {
+    "id": 849,
+    "DateTime": "2020-01-08 21:16:23",
+    "Product Name": "Steampan - Lid For Half Size",
+    "Purchase Price": "$29.79",
+    "Membership?": false
+  },
+  {
+    "id": 850,
+    "DateTime": "2020-03-24 11:28:20",
+    "Product Name": "Dish Towel",
+    "Purchase Price": "$7.97",
+    "Membership?": false
+  },
+  {
+    "id": 851,
+    "DateTime": "2020-01-20 16:44:18",
+    "Product Name": "Tea - Vanilla Chai",
+    "Purchase Price": "$31.08",
+    "Membership?": false
+  },
+  {
+    "id": 852,
+    "DateTime": "2020-02-05 15:10:52",
+    "Product Name": "Wine - Alicanca Vinho Verde",
+    "Purchase Price": "$35.87",
+    "Membership?": true
+  },
+  {
+    "id": 853,
+    "DateTime": "2020-02-17 08:37:48",
+    "Product Name": "Ice Cream Bar - Oreo Cone",
+    "Purchase Price": "$26.00",
+    "Membership?": false
+  },
+  {
+    "id": 854,
+    "DateTime": "2020-01-15 00:25:51",
+    "Product Name": "Cake - Cheese Cake 9 Inch",
+    "Purchase Price": "$12.92",
+    "Membership?": false
+  },
+  {
+    "id": 855,
+    "DateTime": "2020-02-28 05:23:14",
+    "Product Name": "Beer - Rickards Red",
+    "Purchase Price": "$9.52",
+    "Membership?": true
+  },
+  {
+    "id": 856,
+    "DateTime": "2020-02-23 20:43:30",
+    "Product Name": "Smoked Tongue",
+    "Purchase Price": "$9.82",
+    "Membership?": true
+  },
+  {
+    "id": 857,
+    "DateTime": "2020-02-15 14:31:06",
+    "Product Name": "Hagen Daza - Dk Choocolate",
+    "Purchase Price": "$35.36",
+    "Membership?": true
+  },
+  {
+    "id": 858,
+    "DateTime": "2020-03-22 12:57:59",
+    "Product Name": "Cheese - Goat",
+    "Purchase Price": "$37.27",
+    "Membership?": true
+  },
+  {
+    "id": 859,
+    "DateTime": "2020-01-15 18:23:08",
+    "Product Name": "Fish - Atlantic Salmon, Cold",
+    "Purchase Price": "$25.12",
+    "Membership?": true
+  },
+  {
+    "id": 860,
+    "DateTime": "2020-03-26 05:17:46",
+    "Product Name": "Appetizer - Smoked Salmon / Dill",
+    "Purchase Price": "$6.31",
+    "Membership?": false
+  },
+  {
+    "id": 861,
+    "DateTime": "2020-01-07 21:31:53",
+    "Product Name": "Wine - White, Lindemans Bin 95",
+    "Purchase Price": "$26.43",
+    "Membership?": false
+  },
+  {
+    "id": 862,
+    "DateTime": "2020-03-08 14:29:26",
+    "Product Name": "Cheese - Brick With Onion",
+    "Purchase Price": "$27.15",
+    "Membership?": false
+  },
+  {
+    "id": 863,
+    "DateTime": "2020-01-27 05:35:43",
+    "Product Name": "Blue Curacao - Marie Brizard",
+    "Purchase Price": "$15.85",
+    "Membership?": true
+  },
+  {
+    "id": 864,
+    "DateTime": "2020-03-21 14:40:05",
+    "Product Name": "Milk - Skim",
+    "Purchase Price": "$6.36",
+    "Membership?": false
+  },
+  {
+    "id": 865,
+    "DateTime": "2020-03-13 06:48:25",
+    "Product Name": "Beans - Butter Lrg Lima",
+    "Purchase Price": "$33.04",
+    "Membership?": false
+  },
+  {
+    "id": 866,
+    "DateTime": "2020-02-14 12:01:25",
+    "Product Name": "Flour - So Mix Cake White",
+    "Purchase Price": "$39.20",
+    "Membership?": true
+  },
+  {
+    "id": 867,
+    "DateTime": "2020-03-05 20:05:44",
+    "Product Name": "Rice - Wild",
+    "Purchase Price": "$29.06",
+    "Membership?": false
+  },
+  {
+    "id": 868,
+    "DateTime": "2020-01-27 16:55:59",
+    "Product Name": "Lid - 0090 Clear",
+    "Purchase Price": "$33.91",
+    "Membership?": false
+  },
+  {
+    "id": 869,
+    "DateTime": "2020-03-04 03:22:12",
+    "Product Name": "Wine - Red, Lurton Merlot De",
+    "Purchase Price": "$14.53",
+    "Membership?": false
+  },
+  {
+    "id": 870,
+    "DateTime": "2020-03-03 04:47:25",
+    "Product Name": "Monkfish Fresh - Skin Off",
+    "Purchase Price": "$33.70",
+    "Membership?": false
+  },
+  {
+    "id": 871,
+    "DateTime": "2020-01-11 02:28:50",
+    "Product Name": "Mushroom - Chanterelle Frozen",
+    "Purchase Price": "$37.99",
+    "Membership?": true
+  },
+  {
+    "id": 872,
+    "DateTime": "2020-02-06 15:53:42",
+    "Product Name": "Wine - Red, Metus Rose",
+    "Purchase Price": "$38.00",
+    "Membership?": true
+  },
+  {
+    "id": 873,
+    "DateTime": "2020-02-23 05:07:02",
+    "Product Name": "Wine - Chateauneuf Du Pape",
+    "Purchase Price": "$15.87",
+    "Membership?": false
+  },
+  {
+    "id": 874,
+    "DateTime": "2020-03-22 04:18:58",
+    "Product Name": "Tea - Grapefruit Green Tea",
+    "Purchase Price": "$22.45",
+    "Membership?": false
+  },
+  {
+    "id": 875,
+    "DateTime": "2020-01-19 17:11:37",
+    "Product Name": "Sour Puss - Tangerine",
+    "Purchase Price": "$38.78",
+    "Membership?": true
+  },
+  {
+    "id": 876,
+    "DateTime": "2020-03-25 11:02:55",
+    "Product Name": "Sauce - Rosee",
+    "Purchase Price": "$10.30",
+    "Membership?": true
+  },
+  {
+    "id": 877,
+    "DateTime": "2020-02-22 22:52:39",
+    "Product Name": "Asparagus - Mexican",
+    "Purchase Price": "$18.48",
+    "Membership?": false
+  },
+  {
+    "id": 878,
+    "DateTime": "2020-01-11 21:38:22",
+    "Product Name": "Transfer Sheets",
+    "Purchase Price": "$24.00",
+    "Membership?": false
+  },
+  {
+    "id": 879,
+    "DateTime": "2020-01-28 11:32:48",
+    "Product Name": "Arctic Char - Fresh, Whole",
+    "Purchase Price": "$10.39",
+    "Membership?": true
+  },
+  {
+    "id": 880,
+    "DateTime": "2020-03-24 23:31:25",
+    "Product Name": "Irish Cream - Baileys",
+    "Purchase Price": "$21.24",
+    "Membership?": false
+  },
+  {
+    "id": 881,
+    "DateTime": "2020-02-18 14:21:18",
+    "Product Name": "Lettuce - Sea / Sea Asparagus",
+    "Purchase Price": "$14.41",
+    "Membership?": false
+  },
+  {
+    "id": 882,
+    "DateTime": "2020-02-14 22:27:15",
+    "Product Name": "Cheese - Brie",
+    "Purchase Price": "$38.97",
+    "Membership?": true
+  },
+  {
+    "id": 883,
+    "DateTime": "2020-02-22 07:22:14",
+    "Product Name": "Oranges - Navel, 72",
+    "Purchase Price": "$21.73",
+    "Membership?": true
+  },
+  {
+    "id": 884,
+    "DateTime": "2020-01-30 00:35:38",
+    "Product Name": "Cheese - Camembert",
+    "Purchase Price": "$8.64",
+    "Membership?": false
+  },
+  {
+    "id": 885,
+    "DateTime": "2020-02-12 07:12:51",
+    "Product Name": "Wine - Guy Sage Touraine",
+    "Purchase Price": "$27.22",
+    "Membership?": false
+  },
+  {
+    "id": 886,
+    "DateTime": "2020-03-19 10:25:46",
+    "Product Name": "Sauce - Oyster",
+    "Purchase Price": "$11.09",
+    "Membership?": true
+  },
+  {
+    "id": 887,
+    "DateTime": "2020-01-18 12:11:28",
+    "Product Name": "Mikes Hard Lemonade",
+    "Purchase Price": "$30.70",
+    "Membership?": true
+  },
+  {
+    "id": 888,
+    "DateTime": "2020-01-09 03:13:23",
+    "Product Name": "Pickle - Dill",
+    "Purchase Price": "$36.59",
+    "Membership?": false
+  },
+  {
+    "id": 889,
+    "DateTime": "2020-01-17 19:11:49",
+    "Product Name": "Strawberries",
+    "Purchase Price": "$11.81",
+    "Membership?": true
+  },
+  {
+    "id": 890,
+    "DateTime": "2020-03-28 13:10:01",
+    "Product Name": "Crab - Meat",
+    "Purchase Price": "$24.20",
+    "Membership?": false
+  },
+  {
+    "id": 891,
+    "DateTime": "2020-03-16 05:16:55",
+    "Product Name": "Broccoli - Fresh",
+    "Purchase Price": "$32.16",
+    "Membership?": true
+  },
+  {
+    "id": 892,
+    "DateTime": "2020-02-17 16:32:21",
+    "Product Name": "Beef - Bresaola",
+    "Purchase Price": "$21.46",
+    "Membership?": true
+  },
+  {
+    "id": 893,
+    "DateTime": "2020-01-16 18:20:34",
+    "Product Name": "Pepper - Pablano",
+    "Purchase Price": "$19.98",
+    "Membership?": true
+  },
+  {
+    "id": 894,
+    "DateTime": "2020-02-16 18:16:56",
+    "Product Name": "Towel Dispenser",
+    "Purchase Price": "$20.75",
+    "Membership?": true
+  },
+  {
+    "id": 895,
+    "DateTime": "2020-01-23 08:16:08",
+    "Product Name": "Bread - Onion Focaccia",
+    "Purchase Price": "$35.51",
+    "Membership?": false
+  },
+  {
+    "id": 896,
+    "DateTime": "2020-03-23 11:07:08",
+    "Product Name": "Tea - Green",
+    "Purchase Price": "$18.44",
+    "Membership?": false
+  },
+  {
+    "id": 897,
+    "DateTime": "2020-03-16 02:20:04",
+    "Product Name": "Island Oasis - Wildberry",
+    "Purchase Price": "$34.49",
+    "Membership?": true
+  },
+  {
+    "id": 898,
+    "DateTime": "2020-03-26 01:25:53",
+    "Product Name": "Butter Sweet",
+    "Purchase Price": "$11.86",
+    "Membership?": true
+  },
+  {
+    "id": 899,
+    "DateTime": "2020-02-28 09:01:55",
+    "Product Name": "Hipnotiq Liquor",
+    "Purchase Price": "$7.84",
+    "Membership?": true
+  },
+  {
+    "id": 900,
+    "DateTime": "2020-01-09 16:17:31",
+    "Product Name": "Contreau",
+    "Purchase Price": "$31.61",
+    "Membership?": false
+  },
+  {
+    "id": 901,
+    "DateTime": "2020-03-27 23:00:55",
+    "Product Name": "Appetizer - Shrimp Puff",
+    "Purchase Price": "$27.53",
+    "Membership?": true
+  },
+  {
+    "id": 902,
+    "DateTime": "2020-02-16 08:13:33",
+    "Product Name": "Arctic Char - Fillets",
+    "Purchase Price": "$20.85",
+    "Membership?": true
+  },
+  {
+    "id": 903,
+    "DateTime": "2020-01-25 15:24:46",
+    "Product Name": "Cheese - St. Paulin",
+    "Purchase Price": "$38.36",
+    "Membership?": false
+  },
+  {
+    "id": 904,
+    "DateTime": "2020-02-17 19:32:39",
+    "Product Name": "Wine - White, Ej Gallo",
+    "Purchase Price": "$34.97",
+    "Membership?": true
+  },
+  {
+    "id": 905,
+    "DateTime": "2020-02-14 23:20:10",
+    "Product Name": "Tomato - Tricolor Cherry",
+    "Purchase Price": "$11.26",
+    "Membership?": false
+  },
+  {
+    "id": 906,
+    "DateTime": "2020-01-10 06:42:43",
+    "Product Name": "Sauce - Sesame Thai Dressing",
+    "Purchase Price": "$13.56",
+    "Membership?": true
+  },
+  {
+    "id": 907,
+    "DateTime": "2020-01-15 11:04:19",
+    "Product Name": "Crab - Claws, Snow 16 - 24",
+    "Purchase Price": "$31.06",
+    "Membership?": false
+  },
+  {
+    "id": 908,
+    "DateTime": "2020-01-07 20:01:31",
+    "Product Name": "Syrup - Pancake",
+    "Purchase Price": "$16.49",
+    "Membership?": true
+  },
+  {
+    "id": 909,
+    "DateTime": "2020-01-10 18:22:38",
+    "Product Name": "Island Oasis - Pina Colada",
+    "Purchase Price": "$5.71",
+    "Membership?": false
+  },
+  {
+    "id": 910,
+    "DateTime": "2020-02-13 07:54:44",
+    "Product Name": "Beer - Mill St Organic",
+    "Purchase Price": "$35.78",
+    "Membership?": true
+  },
+  {
+    "id": 911,
+    "DateTime": "2020-01-10 02:29:43",
+    "Product Name": "Chinese Foods - Pepper Beef",
+    "Purchase Price": "$21.59",
+    "Membership?": false
+  },
+  {
+    "id": 912,
+    "DateTime": "2020-03-20 15:18:40",
+    "Product Name": "Pork - Loin, Bone - In",
+    "Purchase Price": "$32.75",
+    "Membership?": false
+  },
+  {
+    "id": 913,
+    "DateTime": "2020-02-14 01:46:40",
+    "Product Name": "Wine - Masi Valpolocell",
+    "Purchase Price": "$29.09",
+    "Membership?": true
+  },
+  {
+    "id": 914,
+    "DateTime": "2020-02-25 11:21:09",
+    "Product Name": "Shiro Miso",
+    "Purchase Price": "$19.22",
+    "Membership?": true
+  },
+  {
+    "id": 915,
+    "DateTime": "2020-01-31 13:35:14",
+    "Product Name": "Rosemary - Dry",
+    "Purchase Price": "$11.42",
+    "Membership?": true
+  },
+  {
+    "id": 916,
+    "DateTime": "2020-01-20 22:19:18",
+    "Product Name": "Juice - Apple, 500 Ml",
+    "Purchase Price": "$15.50",
+    "Membership?": false
+  },
+  {
+    "id": 917,
+    "DateTime": "2020-02-11 19:19:16",
+    "Product Name": "Island Oasis - Strawberry",
+    "Purchase Price": "$29.66",
+    "Membership?": true
+  },
+  {
+    "id": 918,
+    "DateTime": "2020-01-24 07:24:36",
+    "Product Name": "Juice - Lime",
+    "Purchase Price": "$30.36",
+    "Membership?": false
+  },
+  {
+    "id": 919,
+    "DateTime": "2020-01-30 14:20:37",
+    "Product Name": "Tea - Decaf 1 Cup",
+    "Purchase Price": "$37.79",
+    "Membership?": true
+  },
+  {
+    "id": 920,
+    "DateTime": "2020-01-10 08:17:08",
+    "Product Name": "Water - Spring 1.5lit",
+    "Purchase Price": "$25.66",
+    "Membership?": true
+  },
+  {
+    "id": 921,
+    "DateTime": "2020-02-18 12:35:25",
+    "Product Name": "Compound - Orange",
+    "Purchase Price": "$26.81",
+    "Membership?": false
+  },
+  {
+    "id": 922,
+    "DateTime": "2020-02-18 00:53:52",
+    "Product Name": "Macaroons - Two Bite Choc",
+    "Purchase Price": "$20.05",
+    "Membership?": false
+  },
+  {
+    "id": 923,
+    "DateTime": "2020-03-03 13:46:19",
+    "Product Name": "Foam Tray S2",
+    "Purchase Price": "$25.61",
+    "Membership?": false
+  },
+  {
+    "id": 924,
+    "DateTime": "2020-01-27 15:43:33",
+    "Product Name": "Pork Loin Cutlets",
+    "Purchase Price": "$15.96",
+    "Membership?": false
+  },
+  {
+    "id": 925,
+    "DateTime": "2020-03-18 19:06:20",
+    "Product Name": "Glucose",
+    "Purchase Price": "$37.53",
+    "Membership?": true
+  },
+  {
+    "id": 926,
+    "DateTime": "2020-02-05 21:01:30",
+    "Product Name": "Bols Melon Liqueur",
+    "Purchase Price": "$31.73",
+    "Membership?": true
+  },
+  {
+    "id": 927,
+    "DateTime": "2020-01-26 05:17:06",
+    "Product Name": "Flour Dark Rye",
+    "Purchase Price": "$14.13",
+    "Membership?": true
+  },
+  {
+    "id": 928,
+    "DateTime": "2020-01-22 01:03:24",
+    "Product Name": "Cranberries - Dry",
+    "Purchase Price": "$39.82",
+    "Membership?": true
+  },
+  {
+    "id": 929,
+    "DateTime": "2020-03-25 09:57:18",
+    "Product Name": "Butter - Unsalted",
+    "Purchase Price": "$12.24",
+    "Membership?": false
+  },
+  {
+    "id": 930,
+    "DateTime": "2020-03-14 17:37:36",
+    "Product Name": "Flour - Semolina",
+    "Purchase Price": "$29.40",
+    "Membership?": true
+  },
+  {
+    "id": 931,
+    "DateTime": "2020-01-31 01:07:49",
+    "Product Name": "Beer - Camerons Auburn",
+    "Purchase Price": "$33.96",
+    "Membership?": false
+  },
+  {
+    "id": 932,
+    "DateTime": "2020-03-10 20:15:25",
+    "Product Name": "Bagel - Everything",
+    "Purchase Price": "$36.15",
+    "Membership?": true
+  },
+  {
+    "id": 933,
+    "DateTime": "2020-03-03 21:28:53",
+    "Product Name": "Chips Potato Reg 43g",
+    "Purchase Price": "$13.00",
+    "Membership?": true
+  },
+  {
+    "id": 934,
+    "DateTime": "2020-03-21 06:56:42",
+    "Product Name": "Sponge Cake Mix - Chocolate",
+    "Purchase Price": "$36.50",
+    "Membership?": true
+  },
+  {
+    "id": 935,
+    "DateTime": "2020-01-26 22:39:03",
+    "Product Name": "Whmis - Spray Bottle Trigger",
+    "Purchase Price": "$31.54",
+    "Membership?": true
+  },
+  {
+    "id": 936,
+    "DateTime": "2020-03-10 16:25:51",
+    "Product Name": "Muffin Mix - Blueberry",
+    "Purchase Price": "$19.67",
+    "Membership?": true
+  },
+  {
+    "id": 937,
+    "DateTime": "2020-03-28 13:32:45",
+    "Product Name": "Jameson - Irish Whiskey",
+    "Purchase Price": "$30.87",
+    "Membership?": false
+  },
+  {
+    "id": 938,
+    "DateTime": "2020-03-28 23:30:09",
+    "Product Name": "Tarts Assorted",
+    "Purchase Price": "$14.55",
+    "Membership?": false
+  },
+  {
+    "id": 939,
+    "DateTime": "2020-01-21 08:33:53",
+    "Product Name": "Soup - French Can Pea",
+    "Purchase Price": "$26.18",
+    "Membership?": true
+  },
+  {
+    "id": 940,
+    "DateTime": "2020-01-28 08:33:53",
+    "Product Name": "Sauce - Black Current, Dry Mix",
+    "Purchase Price": "$19.08",
+    "Membership?": false
+  },
+  {
+    "id": 941,
+    "DateTime": "2020-01-24 12:55:13",
+    "Product Name": "Eggs - Extra Large",
+    "Purchase Price": "$22.39",
+    "Membership?": false
+  },
+  {
+    "id": 942,
+    "DateTime": "2020-03-28 01:13:07",
+    "Product Name": "Sugar - Splenda Sweetener",
+    "Purchase Price": "$36.93",
+    "Membership?": true
+  },
+  {
+    "id": 943,
+    "DateTime": "2020-01-04 22:43:59",
+    "Product Name": "Cake - Sheet Strawberry",
+    "Purchase Price": "$11.71",
+    "Membership?": false
+  },
+  {
+    "id": 944,
+    "DateTime": "2020-02-03 01:02:30",
+    "Product Name": "Oil - Coconut",
+    "Purchase Price": "$8.49",
+    "Membership?": true
+  },
+  {
+    "id": 945,
+    "DateTime": "2020-02-10 02:46:46",
+    "Product Name": "Bread - White, Unsliced",
+    "Purchase Price": "$28.58",
+    "Membership?": true
+  },
+  {
+    "id": 946,
+    "DateTime": "2020-02-06 03:59:40",
+    "Product Name": "Capers - Pickled",
+    "Purchase Price": "$35.33",
+    "Membership?": false
+  },
+  {
+    "id": 947,
+    "DateTime": "2020-01-02 06:42:32",
+    "Product Name": "Oranges - Navel, 72",
+    "Purchase Price": "$23.12",
+    "Membership?": true
+  },
+  {
+    "id": 948,
+    "DateTime": "2020-02-27 17:07:47",
+    "Product Name": "Chutney Sauce",
+    "Purchase Price": "$33.96",
+    "Membership?": true
+  },
+  {
+    "id": 949,
+    "DateTime": "2020-03-28 17:27:42",
+    "Product Name": "Squash - Pattypan, Yellow",
+    "Purchase Price": "$23.33",
+    "Membership?": false
+  },
+  {
+    "id": 950,
+    "DateTime": "2020-01-18 23:33:30",
+    "Product Name": "Wine - Spumante Bambino White",
+    "Purchase Price": "$12.07",
+    "Membership?": false
+  },
+  {
+    "id": 951,
+    "DateTime": "2020-03-02 08:38:56",
+    "Product Name": "Corn Shoots",
+    "Purchase Price": "$19.81",
+    "Membership?": false
+  },
+  {
+    "id": 952,
+    "DateTime": "2020-02-25 05:28:11",
+    "Product Name": "Campari",
+    "Purchase Price": "$10.88",
+    "Membership?": false
+  },
+  {
+    "id": 953,
+    "DateTime": "2020-02-17 01:38:27",
+    "Product Name": "Lemonade - Strawberry, 591 Ml",
+    "Purchase Price": "$28.06",
+    "Membership?": false
+  },
+  {
+    "id": 954,
+    "DateTime": "2020-01-22 12:27:52",
+    "Product Name": "Cheese - Bocconcini",
+    "Purchase Price": "$18.01",
+    "Membership?": true
+  },
+  {
+    "id": 955,
+    "DateTime": "2020-02-06 17:30:05",
+    "Product Name": "Sauce Bbq Smokey",
+    "Purchase Price": "$12.21",
+    "Membership?": true
+  },
+  {
+    "id": 956,
+    "DateTime": "2020-03-27 10:22:31",
+    "Product Name": "Carbonated Water - Peach",
+    "Purchase Price": "$35.28",
+    "Membership?": true
+  },
+  {
+    "id": 957,
+    "DateTime": "2020-01-05 04:14:24",
+    "Product Name": "Lambcasing",
+    "Purchase Price": "$39.45",
+    "Membership?": true
+  },
+  {
+    "id": 958,
+    "DateTime": "2020-01-24 09:33:36",
+    "Product Name": "Country Roll",
+    "Purchase Price": "$30.69",
+    "Membership?": false
+  },
+  {
+    "id": 959,
+    "DateTime": "2020-01-10 00:39:51",
+    "Product Name": "Bread - Roll, Whole Wheat",
+    "Purchase Price": "$14.70",
+    "Membership?": true
+  },
+  {
+    "id": 960,
+    "DateTime": "2020-01-01 20:52:05",
+    "Product Name": "Sugar - Brown",
+    "Purchase Price": "$30.19",
+    "Membership?": false
+  },
+  {
+    "id": 961,
+    "DateTime": "2020-01-24 06:39:29",
+    "Product Name": "Steampan - Half Size Shallow",
+    "Purchase Price": "$7.67",
+    "Membership?": true
+  },
+  {
+    "id": 962,
+    "DateTime": "2020-01-11 02:38:32",
+    "Product Name": "Pepper - Red, Finger Hot",
+    "Purchase Price": "$39.36",
+    "Membership?": false
+  },
+  {
+    "id": 963,
+    "DateTime": "2020-03-31 01:21:42",
+    "Product Name": "Beer - Camerons Cream Ale",
+    "Purchase Price": "$6.33",
+    "Membership?": true
+  },
+  {
+    "id": 964,
+    "DateTime": "2020-01-24 13:55:09",
+    "Product Name": "Wine - Casillero Del Diablo",
+    "Purchase Price": "$36.80",
+    "Membership?": false
+  },
+  {
+    "id": 965,
+    "DateTime": "2020-01-06 12:10:50",
+    "Product Name": "Wine - Niagara,vqa Reisling",
+    "Purchase Price": "$18.77",
+    "Membership?": false
+  },
+  {
+    "id": 966,
+    "DateTime": "2020-01-23 09:11:56",
+    "Product Name": "Wine - Rosso Toscano Igt",
+    "Purchase Price": "$31.14",
+    "Membership?": false
+  },
+  {
+    "id": 967,
+    "DateTime": "2020-01-17 20:04:46",
+    "Product Name": "Calaloo",
+    "Purchase Price": "$21.02",
+    "Membership?": true
+  },
+  {
+    "id": 968,
+    "DateTime": "2020-01-24 06:53:37",
+    "Product Name": "Doilies - 5, Paper",
+    "Purchase Price": "$10.34",
+    "Membership?": false
+  },
+  {
+    "id": 969,
+    "DateTime": "2020-03-17 15:31:40",
+    "Product Name": "Ecolab - Hobart Upr Prewash Arm",
+    "Purchase Price": "$9.24",
+    "Membership?": true
+  },
+  {
+    "id": 970,
+    "DateTime": "2020-01-07 06:12:19",
+    "Product Name": "Coffee - Colombian, Portioned",
+    "Purchase Price": "$39.94",
+    "Membership?": true
+  },
+  {
+    "id": 971,
+    "DateTime": "2020-02-27 18:23:45",
+    "Product Name": "Seedlings - Buckwheat, Organic",
+    "Purchase Price": "$35.61",
+    "Membership?": true
+  },
+  {
+    "id": 972,
+    "DateTime": "2020-01-19 23:27:29",
+    "Product Name": "Pastry - Carrot Muffin - Mini",
+    "Purchase Price": "$29.16",
+    "Membership?": false
+  },
+  {
+    "id": 973,
+    "DateTime": "2020-01-28 18:34:47",
+    "Product Name": "V8 - Tropical Blend",
+    "Purchase Price": "$28.17",
+    "Membership?": true
+  },
+  {
+    "id": 974,
+    "DateTime": "2020-01-17 15:00:29",
+    "Product Name": "Wine - Chablis J Moreau Et Fils",
+    "Purchase Price": "$14.67",
+    "Membership?": true
+  },
+  {
+    "id": 975,
+    "DateTime": "2020-03-28 21:50:32",
+    "Product Name": "Tomatoes - Vine Ripe, Yellow",
+    "Purchase Price": "$31.51",
+    "Membership?": false
+  },
+  {
+    "id": 976,
+    "DateTime": "2020-03-09 22:35:16",
+    "Product Name": "Veal - Ground",
+    "Purchase Price": "$28.51",
+    "Membership?": false
+  },
+  {
+    "id": 977,
+    "DateTime": "2020-01-12 01:21:33",
+    "Product Name": "Wine - Alicanca Vinho Verde",
+    "Purchase Price": "$19.66",
+    "Membership?": false
+  },
+  {
+    "id": 978,
+    "DateTime": "2020-01-27 01:00:14",
+    "Product Name": "Crab - Blue, Frozen",
+    "Purchase Price": "$35.33",
+    "Membership?": true
+  },
+  {
+    "id": 979,
+    "DateTime": "2020-01-10 17:08:20",
+    "Product Name": "Tomatoes - Diced, Canned",
+    "Purchase Price": "$23.77",
+    "Membership?": true
+  },
+  {
+    "id": 980,
+    "DateTime": "2020-02-11 22:37:32",
+    "Product Name": "Chef Hat 20cm",
+    "Purchase Price": "$14.93",
+    "Membership?": false
+  },
+  {
+    "id": 981,
+    "DateTime": "2020-03-13 07:34:24",
+    "Product Name": "Cocoa Powder - Dutched",
+    "Purchase Price": "$18.08",
+    "Membership?": false
+  },
+  {
+    "id": 982,
+    "DateTime": "2020-02-01 15:08:00",
+    "Product Name": "Jello - Assorted",
+    "Purchase Price": "$29.51",
+    "Membership?": true
+  },
+  {
+    "id": 983,
+    "DateTime": "2020-01-04 08:01:10",
+    "Product Name": "Rice - 7 Grain Blend",
+    "Purchase Price": "$21.80",
+    "Membership?": false
+  },
+  {
+    "id": 984,
+    "DateTime": "2020-01-05 23:33:08",
+    "Product Name": "Island Oasis - Pina Colada",
+    "Purchase Price": "$36.71",
+    "Membership?": false
+  },
+  {
+    "id": 985,
+    "DateTime": "2020-02-10 15:35:04",
+    "Product Name": "Peas - Frozen",
+    "Purchase Price": "$39.30",
+    "Membership?": false
+  },
+  {
+    "id": 986,
+    "DateTime": "2020-02-12 19:38:19",
+    "Product Name": "Campari",
+    "Purchase Price": "$28.12",
+    "Membership?": false
+  },
+  {
+    "id": 987,
+    "DateTime": "2020-03-14 22:15:56",
+    "Product Name": "Chips Potato Salt Vinegar 43g",
+    "Purchase Price": "$11.69",
+    "Membership?": true
+  },
+  {
+    "id": 988,
+    "DateTime": "2020-01-28 12:37:40",
+    "Product Name": "Southern Comfort",
+    "Purchase Price": "$25.07",
+    "Membership?": false
+  },
+  {
+    "id": 989,
+    "DateTime": "2020-02-06 10:56:26",
+    "Product Name": "Wine - Ice Wine",
+    "Purchase Price": "$29.66",
+    "Membership?": false
+  },
+  {
+    "id": 990,
+    "DateTime": "2020-03-08 06:04:42",
+    "Product Name": "Wine - White, Chardonnay",
+    "Purchase Price": "$5.38",
+    "Membership?": false
+  },
+  {
+    "id": 991,
+    "DateTime": "2020-01-11 10:44:38",
+    "Product Name": "Brandy Cherry - Mcguinness",
+    "Purchase Price": "$33.53",
+    "Membership?": true
+  },
+  {
+    "id": 992,
+    "DateTime": "2020-03-13 02:59:45",
+    "Product Name": "Cheese - Mozzarella, Shredded",
+    "Purchase Price": "$29.92",
+    "Membership?": false
+  },
+  {
+    "id": 993,
+    "DateTime": "2020-03-22 01:55:16",
+    "Product Name": "Halibut - Steaks",
+    "Purchase Price": "$23.23",
+    "Membership?": true
+  },
+  {
+    "id": 994,
+    "DateTime": "2020-02-14 11:04:14",
+    "Product Name": "Pasta - Fettuccine, Egg, Fresh",
+    "Purchase Price": "$25.09",
+    "Membership?": false
+  },
+  {
+    "id": 995,
+    "DateTime": "2020-03-11 02:21:13",
+    "Product Name": "Tortillas - Flour, 8",
+    "Purchase Price": "$29.82",
+    "Membership?": true
+  },
+  {
+    "id": 996,
+    "DateTime": "2020-03-23 02:28:36",
+    "Product Name": "Squid Ink",
+    "Purchase Price": "$8.01",
+    "Membership?": false
+  },
+  {
+    "id": 997,
+    "DateTime": "2020-01-04 00:53:38",
+    "Product Name": "Yogurt - French Vanilla",
+    "Purchase Price": "$21.00",
+    "Membership?": false
+  },
+  {
+    "id": 998,
+    "DateTime": "2020-02-17 06:03:36",
+    "Product Name": "Arizona - Plum Green Tea",
+    "Purchase Price": "$6.75",
+    "Membership?": true
+  },
+  {
+    "id": 999,
+    "DateTime": "2020-01-28 15:11:50",
+    "Product Name": "Tomatoes - Vine Ripe, Yellow",
+    "Purchase Price": "$5.08",
+    "Membership?": false
+  },
+  {
+    "id": 1000,
+    "DateTime": "2020-02-20 14:53:27",
+    "Product Name": "Chinese Lemon Pork",
+    "Purchase Price": "$30.04",
+    "Membership?": true
+  }
+]

@@ -57,15 +57,20 @@ function Money_Graph() {
   );
 
   const lineChart = (
-    // A react-chart hyper-responsively and continuously fills the available
-    // space of its parent element automatically
     <ResizableBox
       style={{
         backgroundColor: "#263238",
-        borderRadius: "5px",
       }}
     >
-      <Chart data={data} series={series} axes={axes} tooltip dark />
+      <Chart
+        data={data}
+        series={series}
+        axes={axes}
+        tooltip
+        primaryCursor
+        secondaryCursor
+        dark
+      />
     </ResizableBox>
   );
   return lineChart;

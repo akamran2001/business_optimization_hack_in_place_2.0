@@ -7,7 +7,12 @@ function home(props) {
     <div className="container">
       <div className="row">
         <div className="col-sm">
-          <Money_Graph />
+          <div className="row">
+            <h1>Amount Purchased Throughout the Day</h1>
+          </div>
+          <div className="row">
+            <Money_Graph />
+          </div>
         </div>
         <div className="col-sm">
           <CustHistogram />
